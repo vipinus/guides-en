@@ -47,7 +47,7 @@ The three plans use the same discount curve: 5% off → 10% off → 20% off. The
 | Enterprise | From 3 months | From 6 months | From 12 months |
 
 - Buying by the month, the most at one time is 12 months; buying by the year, the most at one time is 4 years. Buying by the month gets the same discount once you reach a breakpoint, so you do not have to choose "by the year".
-- A few actual figures: Personal 12 months $45.6, 4 years $153.6; Family 6 months $45.6, 2 years $153.6; Enterprise 3 months $45.6, 1 year $153.6.
+- A few actual figures: Personal 12 months $45.60, 4 years $153.60; Family 6 months $45.60, 2 years $153.60; Enterprise 3 months $45.60, 1 year $153.60.
 - If your validity has not yet run out when you renew, the time purchased is added after the original expiry date and does not eat into the remaining days.
 
 ## Payment methods

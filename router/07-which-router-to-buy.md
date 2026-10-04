@@ -36,7 +36,7 @@ The included months are counted on the Personal plan; they are halved on the Fam
 ## The three most common problems after getting started
 
 - **Weak Wi‑Fi signal, only 20 dBm**: the firmware sets the wireless power automatically according to the regulations of the country you are in, and it only switches to your country's level after the router has been online once. Right after flashing, plug in a network cable first.
-- **Chinese websites become slow** (when you are in China): split routing is not on and everything is going through the VPN. With split routing on, Chinese IPs connect directly. If you are abroad watching Chinese content it is the opposite: do not turn on split routing. See [03 · Router split routing](03-router-split-routing.md).
+- **Chinese websites become slow** (when you are in China): split routing is not on and everything is going through the VPN. With split routing on, Chinese IPs connect directly. If you are abroad watching Chinese content, keep split routing on as well: the Chinese video domains on the list go through the line for reaching China, and everything else connects directly. See [03 · Router split routing](03-router-split-routing.md).
 - **One device does not go through the VPN**: that device has its own private DNS set (Android "Private DNS", the browser's secure DNS); turn it off.
 
 ## FAQ
