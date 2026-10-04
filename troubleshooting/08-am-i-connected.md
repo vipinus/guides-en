@@ -21,7 +21,7 @@ The client showing "Connected" does not mean the websites you visit see the VPN'
 2. **Connect the VPN** and go back to the browser: the flag changes to the region you chose, and the network name usually changes to the name of a data centre or cloud provider rather than your home carrier.
 3. If the two are the same, this browser is not going through the VPN when it visits this site. See "Connected, but still showing local" below.
 
-**There is no need to keep refreshing the page.** This field re-checks automatically when you switch back to the browser window, checks a few more times within a few seconds after it detects a network change, and also updates every ten seconds or so while the page is open. If you still see the old value right after connecting, wait ten seconds or so or switch windows; if it still has not changed, refresh manually.
+**There is no need to keep refreshing the page.** This field re-checks automatically when you switch back to the browser window, checks a few more times within a few seconds after it detects a network change, and also updates every ten to twenty seconds while the page is open. If you still see the old value right after connecting, wait ten to twenty seconds or switch windows; if it still has not changed, refresh manually.
 
 **When you are in China and have chosen a "China entry point"**, it is normal for the top bar to show a foreign country: the China entry points use split routing, so Chinese websites go out from inside China and foreign websites land via the overseas route. This site is overseas, so naturally what is shown is the overseas end.
 
@@ -67,7 +67,7 @@ In order of how common they are:
 3. **No exit selected in Private network.** Online ≠ going through the VPN; when Exit Node is None, devices can only reach each other.
 4. **You are looking from the wrong device.** For the Router option you need to look from a device connected to that router's Wi‑Fi, not a phone connected to the modem's Wi‑Fi or using mobile data.
 5. **Another VPN or mesh networking tool is on at the same time.** A company VPN or another provider's accelerator will compete for routes. Keep only one.
-6. **It has not refreshed yet.** Wait ten seconds or so, switch windows, or refresh manually once.
+6. **It has not refreshed yet.** Wait ten to twenty seconds, switch windows, or refresh manually once.
 
 ## The top bar can only tell you the IP
 
@@ -78,7 +78,7 @@ The top bar looks at the IPv4 address of the connection this site received. If i
 
 ## FAQ
 
-**The "Current network" field in the top bar has disappeared?** On a computer, log in first. If it is still not shown after logging in, most likely this connection went over IPv6 or it cannot be looked up for the moment; wait ten seconds or so or refresh. It would rather show nothing than show something wrong.
+**The "Current network" field in the top bar has disappeared?** On a computer, log in first. If it is still not shown after logging in, most likely this connection went over IPv6 or it cannot be looked up for the moment; wait ten to twenty seconds or refresh. It would rather show nothing than show something wrong.
 
 **Same region, but a different IP on two connections?** Normal. A region has several machines behind it, and each connection picks the least busy one at that moment. An established connection is not moved elsewhere midway.
 

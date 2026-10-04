@@ -1,15 +1,15 @@
 # 05 · Private network (Tailscale): installing, logging in to this site's control server, choosing an exit
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/tailscale-mesh
+> Website version (longer): https://7d24hrs.com/guides/tailscale-mesh
 
-The Private network section uses Tailscale (a networking tool built on WireGuard). LeoTun runs its own control server, and you log in with **your account on this site**, which has nothing to do with an official Tailscale account. Log in once and you stay online; the exit region can be changed from the menu at any time. For how it differs from a VPN and who it suits, see [Network guide 05](../network/03-private-network-vs-vpn.md).
+The Private network section uses Tailscale (a networking tool built on WireGuard). LeoTun runs its own control server, and you log in with **your account on this site**, which has nothing to do with an official Tailscale account. Log in once and you stay online; the exit region can be changed from the menu at any time. For how it differs from a VPN and who it suits, see [Network guide 03](../network/03-private-network-vs-vpn.md).
 
 ## Installing
 
 | Platform | Where to get it |
 |---|---|
 | Windows / macOS / Linux / Android | The download area on [the Private network page of the website](https://7d24hrs.com/mesh) (served directly by this site, no need to go to the official site) |
-| iPhone / iPad | App Store; requires an Apple ID outside the China region (see [Troubleshooting 03](06-ios-app-store.md)) |
+| iPhone / iPad | App Store; requires an Apple ID outside the China region (see [Client 06](06-ios-app-store.md)) |
 
 ## Logging in
 

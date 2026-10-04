@@ -7,7 +7,7 @@ One LeoTun account has six connection methods: Private network (Tailscale), Cisc
 - One phone, business trips and travel: Cisco or Hiddify. Cisco connects as soon as you enter the address in the official app and is the most stable; Hiddify is imported by scanning a QR code and is faster when packet loss is high. Alternative: Private network.
 - Your own computer (Windows, Mac): Hiddify or Private network. Hiddify is fast and has a built-in split-routing switch; Private network stays online after a single login. Alternative: Cisco.
 - A company-issued computer, no administrator rights: web proxy. You only install one browser extension, it needs no administrator rights, and it does not touch the company's network settings.
-- iPhone, old devices: Cisco. The system or the official client can connect, no configuration import is needed, and compatibility is the best.
+- iPhone, old devices: Cisco. It connects with the system's built-in VPN or the official client, no configuration import is needed, and compatibility is the best.
 - NAS (Synology, QNAP), Linux servers: OpenVPN. Import one .ovpn file and it connects automatically at boot; most of these devices come with a client built in.
 - TVs, set-top boxes, game consoles, an elderly relative's phone: Router. Anything connected to the Wi‑Fi goes through the line, and nothing needs to be installed on the device. All three account plans can use it.
 - Many devices for a whole family or an office: Router, configured once and effective for all; if you also want to reach the NAS at home from outside, add Private network.
@@ -41,7 +41,7 @@ One LeoTun account has six connection methods: Private network (Tailscale), Cisc
 
 The same method can differ in speed several times over between regions; the reason lies in your carrier's outbound line to that region, not in the server. China Unicom in the north: try Japan and Korea first. China Telecom in the south: try Southeast Asia (Singapore, Malaysia, Thailand, the Philippines, Indonesia) or Australia first. Other broadband (China Mobile, Great Wall and so on): try the China-region entry point first.
 
-The red, yellow and green lights in the region list show each region's live load; for the same Japan, pick the server with the green light. From 8 to 11 pm is the nationwide peak and everyone is slow; in that period switching region is more useful than reconnecting again and again.
+The red, yellow and green lights in the region list show each region's live load; among several Japan entries, pick the one with the green light. From 8 to 11 pm is the nationwide peak and everyone is slow; in that period switching region is more useful than reconnecting again and again.
 
 ## Split routing: direct inside China, through the line for overseas
 

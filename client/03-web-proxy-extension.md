@@ -1,13 +1,13 @@
 # 03 · Web proxy: set up the ZeroOmega extension in two steps
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/web-proxy
+> Website version (longer): https://7d24hrs.com/guides/web-proxy
 
 The web proxy sends only **this browser** through the line; other programs on the system are left alone. There is no client to install, no administrator rights are needed, and there is no "connected" state, so it cannot drop. It suits a company computer, a machine already connected to a company VPN, or cases where you want just one browser to use the line. For when to use it and when a VPN is required, see [Network guide 02](../network/02-choose-your-connection-method.md).
 
 ## Two steps
 
 1. **Install the extension**: install ZeroOmega (the continuation of SwitchyOmega) in Chrome / Edge / Firefox. [The Proxy page on the website](https://7d24hrs.com/httpproxy) has the install link for each browser.
-2. **Import**: log in to the website and click "Copy extension restore URL" on the Proxy page; open the extension's "Import/Export" → "Restore from online", paste, and confirm. Regions, addresses and encryption method are imported in one go, with nothing to type by hand.
+2. **Import**: log in to the website and click "Copy extension restore address" on the Proxy page; open the extension's "Import/Export" → "Restore from online", paste, and confirm. Regions, addresses and encryption method are imported in one go, with nothing to type by hand.
 
 After that, click the extension icon and pick a region, then enter your website account and password in the login box the browser shows. To change region, click another one in the icon's menu; to go back to a direct local connection, switch to "Direct".
 

@@ -1,4 +1,4 @@
-# Client installation and setup · Client Guides
+# Client Guides · Installation and Setup
 
 Step-by-step instructions for **installing and connecting** each access method: Cisco AnyConnect, Hiddify, the web proxy extension, OpenVPN and the private network (Tailscale), plus what to do when iOS won't let you install an app, how to install Telegram / Discord, how to set up many devices once, and what to do when software such as Dropbox asks for a proxy. For which method to choose, see [Which connection method suits which situation](../network/02-choose-your-connection-method.md); if it is installed but won't connect, see [Troubleshooting](../troubleshooting/).
 

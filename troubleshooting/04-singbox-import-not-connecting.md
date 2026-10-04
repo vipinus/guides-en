@@ -1,6 +1,6 @@
 # 04 · Hiddify imported but won't connect
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/singbox-subscription
+> Website version (longer): https://7d24hrs.com/guides/singbox-subscription
 
 Match your error to the table. For how to import in the first place, see [How to use Hiddify subscription links](../client/02-singbox-subscription-links.md).
 
@@ -11,7 +11,7 @@ Match your error to the table. For how to import in the first place, see [How to
 | Connected but no internet | The client's own routing rules are sending traffic to "direct" | Change the default outbound to that node, or delete the rules you added yourself |
 | Scanning says "Invalid QR code" | The QR code is meant for Hiddify-family clients; or it was scanned from someone else's screenshot | For Shadowrocket / NekoBox / Stash use the "share link"; the QR code contains your own credentials, and someone else's will not work |
 | Slow speed | Cross-border congestion at the evening peak | Look at the red, yellow and green lights in the region list on the website and switch to a region with a green light |
-| Clicking the import link on desktop does nothing | On Windows / Linux, the sing-box:// deep link cannot always launch the app | Copy the "configuration URL" (starting with https://) and paste it into Hiddify to import |
+| Clicking the import link on desktop does nothing | On Windows / Linux, the sing-box:// deep link cannot always launch the app | Copy the "config URL" (starting with https://) and paste it into Hiddify to import |
 
 ## Do I need to re-import after renewing, switching plans, or changing the password
 

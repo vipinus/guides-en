@@ -16,7 +16,7 @@ In the following case **do not use remote assistance**; communicate in text in t
 
 The website recommends [RustDesk](https://rustdesk.com): it is open source (AGPL-3.0), so the code can be audited by anyone; and when a session starts and when it ends are both decided by your own click. It supports Windows, macOS, Linux, Android and iOS (an iPhone / iPad can only control others; it cannot be controlled).
 
-Download it from the [Contact page](https://7d24hrs.com/contact#downloads) under "Download Center" → "Remote Assistance", or from the official site rustdesk.com. Do not use third-party download sites from search results. Both sides of the session need to install it.
+Download it from the [Contact page](https://7d24hrs.com/contact#downloads) under "Download center" → "Remote assistance", or from the official site rustdesk.com. Do not use third-party download sites from search results. Both sides of the session need to install it.
 
 ## What to authorise after installing
 
@@ -30,7 +30,7 @@ Download it from the [Contact page](https://7d24hrs.com/contact#downloads) under
 
 Remote assistance runs through this site's self-hosted RustDesk server, which also connects reliably from inside China. **Both sides of the session need to import it once**; the two ends can only find each other when they use the same server:
 
-1. Log in to the website first, then on the [Contact page](https://7d24hrs.com/contact#downloads) go to "Download Center" → "Remote Assistance" → "Connect to this site's server" and click "Copy".
+1. Log in to the website first, then on the [Contact page](https://7d24hrs.com/contact#downloads) go to "Download center" → "Remote assistance" → "Connect to our server" and click "Copy".
 2. On a computer, open RustDesk "Settings → Network", click "Unlock network settings" first, then click "ID/Relay server"; on a phone it is "Settings → ID/Relay server".
 3. In the window that pops up, click the clipboard icon at the top right (on a phone tap "Import"). The configuration is filled in automatically; click "OK".
 

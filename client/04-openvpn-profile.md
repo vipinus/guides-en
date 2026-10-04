@@ -1,6 +1,6 @@
 # 04 · OpenVPN: download the .ovpn profile, import it and connect; works on routers, NAS and Linux
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/openvpn-setup
+> Website version (longer): https://7d24hrs.com/guides/openvpn-setup
 
 OpenVPN is a long-established open-source protocol, and almost every operating system, router firmware and NAS ships with a client for it. LeoTun's profile files already include your account, password and encryption material, so you can connect as soon as you import one. For everyday use on phones and computers, AnyConnect or Hiddify is less effort; OpenVPN's value lies in **places that accept only OpenVPN**: OpenWrt routers, Synology / QNAP NAS, Linux servers and older devices.
 
@@ -20,7 +20,7 @@ OpenVPN is a long-established open-source protocol, and almost every operating s
 
 ## Users in China: direct connection to Chinese websites
 
-Once connected, traffic to Chinese websites takes a detour. The website provides a "China direct-connect tool": double-click to run it, and Chinese IPs connect directly while everything else goes through the line. It works with both Cisco and OpenVPN. Users overseas should not use it.
+Once connected, traffic to Chinese websites takes a detour. The website provides a "China direct-routing tool": double-click to run it, and Chinese IPs connect directly while everything else goes through the line. It works with both Cisco and OpenVPN. Users overseas should not use it.
 
 ## If it won't connect, check in this order
 

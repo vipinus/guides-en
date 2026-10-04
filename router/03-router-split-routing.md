@@ -1,6 +1,6 @@
 # 03 · What router split routing is
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/router-firmware
+> Website version (longer): https://7d24hrs.com/guides/router-firmware
 
 ## In one sentence
 

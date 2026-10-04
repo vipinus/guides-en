@@ -1,4 +1,4 @@
-# Network Notes · Network Guides
+# Network Guides
 
 A clear explanation of the **principles** behind cross-border access, **how to choose among the six connection methods**, how we differ from other providers, and how to spot risky software. No jargon pile-ups.
 

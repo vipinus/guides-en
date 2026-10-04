@@ -1,6 +1,6 @@
 # 08 · After the firmware is installed: what it does on its own, and the few switches you should know
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/router-firmware
+> Website version (longer): https://7d24hrs.com/guides/router-firmware
 
 After flashing this site's firmware or buying a pre-installed unit, all you need to do is log in to your account on the admin page. This article covers the things the firmware **does on its own** and the few switches you may need to touch; for getting started see [01](01-plug-and-play-router.md), for split routing see [03](03-router-split-routing.md), and for binding and replacing a router see [05](05-mac-binding-and-replacing.md).
 

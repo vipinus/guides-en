@@ -1,6 +1,6 @@
 # 04 · For elderly family members and the TV
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/family-tv
+> Website version (longer): https://7d24hrs.com/guides/family-tv
 
 ## The situation
 

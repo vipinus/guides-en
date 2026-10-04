@@ -1,6 +1,6 @@
 # 10 · How to communicate effectively with AI support
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/ai-support
+> Website version (longer): https://7d24hrs.com/guides/ai-support
 
 The AI support agent "SpongeBob" (海绵宝宝) answers 24 hours a day in the three groups on Telegram, QQ and Discord (for the links see [05](05-how-to-reach-us.md)). Whether it answers accurately depends mainly on **whether your first message describes the situation completely**. If it does, you get the steps in one go; if you only say "can't connect", all it can do is ask you questions back. **If there is an error, just send a screenshot. You can ask in any language.**
 

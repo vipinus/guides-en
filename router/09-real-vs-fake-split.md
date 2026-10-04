@@ -1,6 +1,6 @@
 # 09 · The difference between real and fake split routing on a router
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/router-smart-split
+> Website version (longer): https://7d24hrs.com/guides/router-smart-split
 
 They are all called "smart split routing", yet some routers just feel awkward to use. For what split routing is, see [03](03-router-split-routing.md); this article only covers how to tell real from fake by the symptoms, and how our router does it.
 
@@ -17,7 +17,7 @@ Real split routing: each website, **together with its images, video and login**,
 | You are abroad with the line for reaching China on, and the video app still says "仅限中国大陆" (mainland China only) | Part of the traffic did not enter the VPN, and the website saw an overseas address |
 | It plays on the phone but not on the TV or TV box; one computer simply will not go through the VPN | That device has its own network settings and bypasses the router |
 | Banking and payment apps warn of a "login from another location" from time to time | The same app's traffic exits from China one moment and from abroad the next |
-| Split routing disappears while you are using it (after a reboot or a reconnect it becomes all-through or none-through) | The setting was not remembered |
+| Split routing disappears while you are using it (after a reboot or a reconnect either everything goes through the VPN or nothing does) | The setting was not remembered |
 
 None of these **produces an error**. The router shows "Connected" the whole time, which makes them the hardest to troubleshoot, and many people end up thinking the line is no good.
 

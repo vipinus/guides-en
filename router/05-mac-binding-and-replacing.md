@@ -12,7 +12,7 @@ Router access is bound to the account by hardware address (MAC): the first time 
 
 ## Replacing a router
 
-1. Log in to the website, find "Unbind router" in the "Router" section, and click unbind.
+1. Log in to the website, find your bound router in the "Router" section, and click "Unbind".
 2. Log in to the same account on the new router; it binds automatically.
 
 If the old router is broken or not at hand, just unbind it; it does not need to be online.

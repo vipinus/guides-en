@@ -1,6 +1,6 @@
 # 07 · Should you get a router, and how to choose among the four models
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/router
+> Website version (longer): https://7d24hrs.com/guides/router
 
 The router approach solves the problem of "too many devices, and some cannot install a client": the VPN is set up once on the router, and the TV, game console, smart speaker and the elderly family member's phone all go through it automatically, with nothing to install. The cost is a router that can be flashed and ten minutes of flashing. **Personal, Family and Enterprise accounts can all use a router.**
 
@@ -17,7 +17,7 @@ The router approach solves the problem of "too many devices, and some cannot ins
 
 Both routes end up running the same firmware. The difference is who does the flashing and who is responsible when something goes wrong.
 
-- **Flash it yourself**: you already have a router supported by OpenWrt (more than 1000 models). The firmware is compiled online on the website and you receive the link by email in about 5 minutes; for the process see [02](02-flash-firmware-yourself.md). Suited to people who are good with their hands and want to save the cost of a device.
+- **Flash it yourself**: you already have a router supported by OpenWrt (more than 1000 models). The firmware is compiled online on the website and you receive the link by email in about 5 minutes; for the process see [02](02-flash-firmware-yourself.md). Suited to people who are comfortable doing technical setup themselves and want to save the cost of a device.
 - **Buy a ready-made unit**: we ship a GL.iNet with the firmware already flashed; for the three steps out of the box see [01](01-plug-and-play-router.md). Suited to people who do not want to tinker, or as something for family members who are not technical.
 
 With either route the firmware updates its components by itself, with no need to flash again; and when line addresses change you do not need to change the configuration either.

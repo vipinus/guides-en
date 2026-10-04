@@ -12,7 +12,7 @@ The client used by the Hiddify section of this site is the open-source Hiddify, 
 | Android | .apk, in two builds: ARM64 and x86-64 | Download area of the Hiddify page, or Google Play |
 | iPhone / iPad | Hiddify Proxy & VPN on the App Store | App Store; requires an Apple ID outside the China region |
 
-The download area of the Hiddify page automatically recommends the package for your current system, and the packages for other systems are listed below it. Next to each row there is also an "official website" icon pointing to Hiddify's official release page, so you can compare versions. The three desktop systems (Windows, macOS, Linux) also have video tutorials.
+The download area of the Hiddify page automatically recommends the package for your current system, and the packages for other systems are listed below it. Next to each row there is also an "Official site" icon pointing to Hiddify's official release page, so you can compare versions. The three desktop systems (Windows, macOS, Linux) also have video tutorials.
 
 The desktop installers are unmodified mirrors of Hiddify's official release packages, not altered or repackaged. Before allowing one through you can check it yourself: upload the installer to VirusTotal and take a look; for how, see [Troubleshooting 06](../troubleshooting/06-antivirus-false-positive.md).
 
@@ -75,8 +75,8 @@ Only an x64 deb is provided. There is no package for ARM Linux devices; use Open
 ## After installing: import a subscription and connect
 
 1. Log in to the website and open the Hiddify page.
-2. Click the flag of the region you want and a QR code pops up; or click "Import all, auto-select" at the top of the page to import all regions outside China at once and let the client choose automatically. **It does not include the China region**: for watching video or using online banking in China from abroad, click the China flag and import it separately.
-3. Phone: tap "Copy import link", then switch to Hiddify and add it as prompted, or scan the code with Hiddify on another device. Computer: click "Copy profile URL (for pasting)", then in Hiddify click "+" → "Add from clipboard".
+2. Click the flag of the region you want and a QR code pops up; or click "Import all regions · auto-select" at the top of the page to import all regions outside China at once and let the client choose automatically. **It does not include the China region**: for watching video or using online banking in China from abroad, click the China flag and import it separately.
+3. Phone: tap "Copy import link", then switch to Hiddify and add it as prompted, or scan the code with Hiddify on another device. Computer: click "Copy config URL (to paste)", then in Hiddify click "+" → "Add from clipboard".
 4. Click connect.
 
 For the difference between the three kinds of link, how to import into other clients, and whether a subscription expires, see [02 · Hiddify subscription links](02-singbox-subscription-links.md). If you have imported it but can't connect, see [Troubleshooting 04](../troubleshooting/04-singbox-import-not-connecting.md).
@@ -88,7 +88,7 @@ For the difference between the three kinds of link, how to import into other cli
 
 **I have already run the xattr command on my Mac and it still won't connect?** Most likely the "network extension" has not been authorised; follow the macOS section above and turn on the switch for Hiddify in System Settings.
 
-**After upgrading Hiddify on Linux, VPN mode won't start again?** That is expected; run the authorisation command once more after upgrading.
+**After upgrading Hiddify on Linux, VPN mode has stopped working again?** That is expected; run the authorisation command once more after upgrading.
 
 **Can it be used on ARM Windows or Linux computers?** There are currently no desktop packages for these two; you can use another access method such as OpenVPN, and the same account works.
 

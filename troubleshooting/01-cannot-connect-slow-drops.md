@@ -1,6 +1,6 @@
 # 01 · Checklist for can't connect, slow, and dropped connections
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/connect-issues
+> Website version (longer): https://7d24hrs.com/guides/connect-issues
 
 Go through it in order. Each step is quick, and most problems are solved within the first four.
 

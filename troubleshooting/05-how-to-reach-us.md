@@ -1,6 +1,6 @@
 # 05 · How to reach us, and how not to lose touch
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/stay-in-touch
+> Website version (longer): https://7d24hrs.com/guides/stay-in-touch
 
 The [Contact page](https://7d24hrs.com/contact) lists three support groups (QQ, Telegram, Discord), the support email address and the human support QQ account. In all three groups the AI support agent "SpongeBob" (海绵宝宝) is on call 24 hours a day, and the group owner and human support staff are there too. For how to ask so that it answers most accurately, see [10](10-ask-ai-support.md).
 

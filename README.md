@@ -15,7 +15,7 @@ Website: <https://7d24hrs.com> · Ask support in the group: <https://t.me/+NWJN_
 
 ## Contents
 
-### [Network Notes · Network Guides](network/)
+### [Network Guides](network/)
 
 A clear explanation of the **principles** behind cross-border access, **how to choose among the six connection methods**, how we differ from other providers, and how to spot risky software. No jargon pile-ups.
 
@@ -31,7 +31,7 @@ A clear explanation of the **principles** behind cross-border access, **how to c
 | [08 · Choosing among the three account plans, renewal and payment](network/08-account-tiers-and-payment.md) |
 | [09 · What to do when you run out of device connections](network/09-not-enough-devices.md) |
 
-### [Client installation and setup · Client Guides](client/)
+### [Client Guides · Installation and Setup](client/)
 
 Step-by-step instructions for **installing and connecting** each access method: Cisco AnyConnect, Hiddify, the web proxy extension, OpenVPN and the private network (Tailscale), plus what to do when iOS won't let you install an app, how to install Telegram / Discord, how to set up many devices once, and what to do when software such as Dropbox asks for a proxy. For which method to choose, see [Which connection method suits which situation](network/02-choose-your-connection-method.md); if it is installed but won't connect, see [Troubleshooting](troubleshooting/).
 

@@ -1,6 +1,6 @@
 # 03 · How the Private network (Tailscale) differs from a VPN, and when to use it
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/tailscale-mesh
+> Website version (longer): https://7d24hrs.com/guides/tailscale-mesh
 
 The Private network section uses Tailscale: a networking tool based on WireGuard. LeoTun runs the control server itself, and you log in with your account on this site. It is not the same thing as "connection-type" VPNs such as AnyConnect and OpenVPN.
 

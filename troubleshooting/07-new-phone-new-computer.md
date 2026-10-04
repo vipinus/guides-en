@@ -6,7 +6,7 @@ You changed devices, and what used to work fine no longer connects. This is the 
 
 ## Confirm one thing first: you do not need to buy the account again
 
-Your account goes with the **account**, not with the device. Switching devices only requires reinstalling the client and re-importing the configuration on the new device. The account itself is unaffected, and its validity period does not change.
+Your subscription goes with the **account**, not with the device. Switching devices only requires reinstalling the client and re-importing the configuration on the new device. The account itself is unaffected, and its validity period does not change.
 
 If someone tells you that switching devices requires paying again, that is not us.
 

@@ -1,6 +1,6 @@
 # 02 · How to flash the firmware yourself
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/router
+> Website version (longer): https://7d24hrs.com/guides/router
 
 This is for people who already have a router whose model is on the supported list. If you are not sure whether your model is supported, look it up on the website's Router page first: more than 1000 models, searchable by brand.
 

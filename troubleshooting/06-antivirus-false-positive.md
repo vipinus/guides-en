@@ -1,6 +1,6 @@
 # 06 · What to do when your Mac says the app "is damaged"
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/antivirus-false-positive
+> Website version (longer): https://7d24hrs.com/guides/antivirus-false-positive
 
 The conclusion first: the file is not broken, and nobody has tampered with it. When double-clicking Hiddify on a Mac shows "is damaged and can't be opened" or "the developer cannot be verified", it is the system's Gatekeeper blocking an app that **has no Apple signature and notarization** — the desktop client we distribute does not currently have a purchased signature.
 

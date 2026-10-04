@@ -1,6 +1,6 @@
 # 10 · What to do when Dropbox and other software ask for an HTTP / SOCKS proxy
 
-> Website version (longer, also in Traditional Chinese and English): https://7d24hrs.com/guides/app-proxy
+> Website version (longer): https://7d24hrs.com/guides/app-proxy
 
 **First, how things stand: a proxy has to be encrypted.** Unencrypted proxies (plain HTTP, SOCKS4, SOCKS5) are identified and interfered with on networks in China; after a short while the connection slows down or drops, and the account and password travel in clear text as well. Only encrypted connections stay usable over the long term, so this site's web proxy comes in the encrypted form only, and **no HTTP / SOCKS5 address is provided**.
 
