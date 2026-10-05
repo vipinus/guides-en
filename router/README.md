@@ -20,5 +20,6 @@ Put every device in the house on the VPN at once: getting started with a pre-ins
 | [10 · Will the NAS, printer and cameras behind the router be affected?](10-nas-printer-camera-behind-router.md) |
 | [11 · Gigabit or 2 Gbps broadband with a router: what decides the speed](11-fast-broadband-and-router-speed.md) |
 | [12 · Does the router recover by itself after a power cut or a dropout?](12-after-power-cut-or-dropout.md) |
+| [13 · From stock firmware to ours, step by step (with video)](13-flash-from-stock-firmware-step-by-step.md) |
 
 [← Back to the index](../README.md)
