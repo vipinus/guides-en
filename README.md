@@ -63,6 +63,9 @@ Put every device in the house on the VPN at once: getting started with a pre-ins
 | [07 · Should you get a router, and how to choose among the four models](router/07-which-router-to-buy.md) |
 | [08 · After the firmware is installed: what it does on its own, and the few switches you should know](router/08-what-the-firmware-does.md) |
 | [09 · The difference between real and fake split routing on a router](router/09-real-vs-fake-split.md) |
+| [10 · Will the NAS, printer and cameras behind the router be affected?](router/10-nas-printer-camera-behind-router.md) |
+| [11 · Gigabit or 2 Gbps broadband with a router: what decides the speed](router/11-fast-broadband-and-router-speed.md) |
+| [12 · Does the router recover by itself after a power cut or a dropout?](router/12-after-power-cut-or-dropout.md) |
 
 ### [Troubleshooting Guide](troubleshooting/)
 
