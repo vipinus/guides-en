@@ -17,21 +17,39 @@ The router approach solves the problem of "too many devices, and some cannot ins
 
 Both routes end up running the same firmware. The difference is who does the flashing and who is responsible when something goes wrong.
 
-- **Flash it yourself**: you already have a router supported by OpenWrt (more than 1000 models). The firmware is compiled online on the website and you receive the link by email in about 5 minutes; for the process see [02](02-flash-firmware-yourself.md). Suited to people who are comfortable doing technical setup themselves and want to save the cost of a device.
+- **Flash it yourself**: you already have a router supported by OpenWrt (more than 1000 models). The firmware is compiled online on the website and you receive the link by email in 3 to 5 minutes; then follow [02 · Flashing the firmware yourself](02-flash-firmware-yourself.md) step by step (it has a video). Suited to people who are comfortable doing technical setup themselves and want to save the cost of a device.
 - **Buy a ready-made unit**: we ship a GL.iNet with the firmware already flashed; for the three steps out of the box see [01](01-plug-and-play-router.md). Suited to people who do not want to tinker, or as something for family members who are not technical.
 
 With either route the firmware updates its components by itself, with no need to flash again; and when line addresses change you do not need to change the configuration either.
 
-## The four models on sale
+## Four routers, matched to how you will use them
 
-| Model | Positioning | Price | Included | Suited to |
-|---|---|---|---|---|
-| GL-MT300N-V2 | Mini | $200 | 12 months of service | Palm-sized and USB-powered, plug it into the hotel network cable on business trips; 100 Mbps ports, enough for 1080p on a phone or laptop |
-| GL-MT3000 | Portable | $300 | 24 months of service | Wi‑Fi 6, can serve a small household and also fits in a backpack; the first router for most people |
-| GL-MT6000 | Desktop | $400 | 24 months of service | 2.5G ports and multiple antennas, for many devices, 4K and game consoles; works as the main router with nothing else attached |
-| GL-XE3000 | Mobile | $400 | 24 months of service | Built-in 5G/4G and a battery; insert a SIM card and it is a standalone network, for motorhomes, construction sites and temporary housing without broadband |
+| Model | Type | Price | Included | What it is | Best for |
+|---|---|---|---|---|---|
+| GL-MT300N-V2 | Mini | $200 | 12 months of service | Palm-sized and USB-powered (a power bank can run it); 2.4 GHz Wi‑Fi only, 100 Mbps ports | One person travelling: hotel Ethernet or hotel Wi‑Fi, a phone and laptop browsing and watching 1080p. Not suited to being the main router at home |
+| **GL-MT3000** | Portable | $300 | 24 months of service | Dual-band Wi‑Fi 6 with a 2.5G port, slightly larger than a palm | The main router for a small household — TV, streaming box, several phones and computers — and small enough for a backpack |
+| GL-MT6000 | Desktop | $400 | 24 months of service | Two 2.5G ports plus four gigabit ports, external antennas, the most processing power | Large homes, many devices (a dozen or more), broadband above one gigabit, 4K and console gaming, or a small office. Stays in one place as the only router |
+| GL-XE3000 | Mobile | $400 | 24 months of service | Built-in 5G/4G and battery; a SIM card makes it a standalone network, and it also takes Ethernet | Places without fixed broadband: camper vans, job sites, trade shows, short lets; or a backup for the home line |
 
-The included months are counted on the Personal plan; they are halved on the Family plan and quartered on the Enterprise plan, which is equivalent in value, so you do not lose out. Free shipping worldwide, usually arriving in 3–14 days, returnable within 30 days.
+Included months are on the Personal plan; Family gets half and Enterprise a quarter, the same value either way. Free shipping worldwide, usually 3–14 days, returnable within 30 days.
+
+### Quick picks by situation
+
+- Travelling alone, staying in hotels, on a budget → GL-MT300N-V2
+- A flat or small household where the TV and streaming box need Chinese or overseas video → GL-MT3000
+- Mostly at home, but you want to take it on the occasional trip → GL-MT3000
+- A large home, many devices, broadband above one gigabit, or a shared office → GL-MT6000
+- No broadband, or you are on the road most of the time → GL-XE3000
+- Setting one up for parents who are not technical → GL-MT3000, bought pre-installed: plug it in and it works
+
+## Why the GL-MT3000 is our first recommendation
+
+- **One unit, two roles.** Powerful enough to be a small household's main router, small enough to travel with. It is the only one of the four that does both.
+- **It will not date quickly.** Wi‑Fi 6 and a 2.5G port leave headroom over most home broadband. The mini has only 2.4 GHz Wi‑Fi and 100 Mbps ports, which becomes the bottleneck at home.
+- **The price works out.** $300 with 24 months of Personal-plan service, against $200 with 12 months for the mini. Counting the included service, the extra $100 buys a clearly better device plus another year.
+- **It is the one we know best.** Our own test unit is this model, new firmware is checked on it first, and the [flashing video tutorial](02-flash-firmware-yourself.md) uses it. When you hit a problem, we have the same device on the desk to compare.
+
+When not to choose it: for a large home, many devices or broadband above one gigabit, go straight to the GL-MT6000; with no fixed broadband, the GL-XE3000; if it is only for one person on trips and price matters most, the GL-MT300N-V2 is enough.
 
 ## The three most common problems after getting started
 

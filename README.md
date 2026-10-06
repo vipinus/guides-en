@@ -55,7 +55,7 @@ Put every device in the house on the VPN at once: getting started with a pre-ins
 | Article |
 |---|
 | [01 · Getting started with a pre-installed router](router/01-plug-and-play-router.md) |
-| [02 · How to flash the firmware yourself](router/02-flash-firmware-yourself.md) |
+| [02 · Flashing the firmware yourself: from stock to ours, step by step (with video)](router/02-flash-firmware-yourself.md) |
 | [03 · What router split routing is](router/03-router-split-routing.md) |
 | [04 · For elderly family members and the TV](router/04-family-tv-and-router.md) |
 | [05 · MAC binding and replacing a router](router/05-mac-binding-and-replacing.md) |
@@ -66,7 +66,6 @@ Put every device in the house on the VPN at once: getting started with a pre-ins
 | [10 · Will the NAS, printer and cameras behind the router be affected?](router/10-nas-printer-camera-behind-router.md) |
 | [11 · Gigabit or 2 Gbps broadband with a router: what decides the speed](router/11-fast-broadband-and-router-speed.md) |
 | [12 · Does the router recover by itself after a power cut or a dropout?](router/12-after-power-cut-or-dropout.md) |
-| [13 · From stock firmware to ours, step by step (with video)](router/13-flash-from-stock-firmware-step-by-step.md) |
 
 ### [Troubleshooting Guide](troubleshooting/)
 
