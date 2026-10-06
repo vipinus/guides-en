@@ -18,7 +18,7 @@ The Private network section uses Tailscale: a networking tool based on WireGuard
 - You have a NAS, computer or camera at home to reach from outside: log in to the Private network on both sides and connect directly by device name, as if on the same LAN.
 - Devices that need to stay connected for long periods: there is no session timeout.
 
-## When you should not use it
+## When another method suits better
 
 - You only want to use it once, temporarily: importing Hiddify by QR code or installing AnyConnect is quicker.
 - The device is already running a company VPN or other networking software: the two fight over DNS and routing, and the symptoms are copyright notices when watching Chinese video and the company intranet failing to open. Use a method that affects only the browser, such as the web proxy.

@@ -4,7 +4,7 @@ Home broadband keeps getting faster, so the question comes up a lot: my line is 
 
 ## The short answer
 
-The traffic that goes through the tunnel will not reach your broadband speed. That is true of every VPN. **The bottleneck is not your home line, it is the leg that leaves China.** What we hold our lines to is this: YouTube in HD should play smoothly. The exact figure depends on the things below, and we do not quote one.
+For the traffic that goes through the tunnel, the speed is decided by the leg that leaves China. **The bottleneck is not your home line, it is the leg that leaves China.** We promise smooth YouTube playback. The exact speed depends on the things below.
 
 Traffic to Chinese services does not use the tunnel and still runs at your full broadband speed. See [10 · Will the NAS, printer and cameras be affected?](10-nas-printer-camera-behind-router.md)
 
@@ -43,7 +43,7 @@ Sign up and take the 24-hour free trial, no credit card needed. Connect at the t
 
 ## FAQ
 
-**Why not just tell me how many megabits?** Because the number is different for every person and every hour, and quoting one would be misleading. Trying it once tells you more than any figure.
+**Why not just tell me how many megabits?** Because the number is different for every person and every hour. What we promise is smooth YouTube playback; taking the 24-hour free trial and trying it once yourself is the most accurate test.
 
 **The speed test site shows a low number, but video plays fine?** That is normal. Speed test servers have busy and quiet moments of their own, and two tests a minute apart can differ by a factor of two. Judge by the thing you actually want to do.
 

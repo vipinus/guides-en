@@ -42,7 +42,7 @@ None of these **produces an error**. The router shows "Connected" the whole time
 | Memory | Kept after a reconnect or reboot; once off, it stays off |
 | Local network | Printers, NAS and cameras are reached directly as usual |
 
-**The one case it cannot cover**: when a phone or browser has an encrypted setting such as "Private DNS" or "Secure DNS" turned on, the device encrypts its own lookups and the router cannot see them. If a device misbehaves, turn off this kind of setting first.
+**The one case that needs your help**: when a phone or browser has an encrypted setting such as "Private DNS" or "Secure DNS" turned on, the device encrypts its own lookups and the router cannot see them. If a device misbehaves, turn off this kind of setting first.
 
 ## Verify it yourself
 

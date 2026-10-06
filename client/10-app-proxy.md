@@ -2,7 +2,7 @@
 
 > Website version (longer): https://7d24hrs.com/guides/app-proxy?utm_source=github&utm_content=client-10
 
-**First, how things stand: a proxy has to be encrypted.** Unencrypted proxies (plain HTTP, SOCKS4, SOCKS5) are identified and interfered with on networks in China; after a short while the connection slows down or drops, and the account and password travel in clear text as well. Only encrypted connections stay usable over the long term, so this site's web proxy comes in the encrypted form only, and **no HTTP / SOCKS5 address is provided**.
+**First, how things stand: a proxy has to be encrypted.** Unencrypted proxies (plain HTTP, SOCKS4, SOCKS5) are identified and interfered with on networks in China; after a short while the connection slows down or drops, and the account and password travel in clear text as well. Only encrypted connections stay usable over the long term, so this site's web proxy uses encrypted connections throughout; **for software that accepts only HTTP / SOCKS5, let Hiddify take over the whole machine** (see below).
 
 Standalone software such as Dropbox, Telegram Desktop, Steam, cloud drive clients and developer tools does not read the browser's settings, and its own proxy settings accept only unencrypted HTTP / SOCKS5. The two sides don't match, so entering a proxy doesn't get it connected. The solution is **not to enter a proxy**: use Hiddify to send the whole computer through the line, and set the proxy in the software to "No proxy".
 
@@ -39,11 +39,11 @@ With "automatic routing" on, overseas services such as Dropbox go through the li
 
 - Use the web version of Dropbox and cloud drives: open dropbox.com in a browser with the [web proxy](03-web-proxy-extension.md); you can upload and download, but there is no automatic sync.
 - Command-line tools (git, pip, npm, curl) accept an encrypted proxy: put the web proxy address into `https_proxy`; see [Reaching overseas services from China 05 · Linux and the command line](https://github.com/vipinus/guides-zh-CN/blob/main/chuhai/05-linux-server.md) (in Chinese).
-- For other desktop software that accepts only HTTP / SOCKS5 there is no other way; don't install a whole-machine VPN on a company computer for this, as it will trigger the company's security alerts.
+- Other desktop software that accepts only HTTP / SOCKS5 is best used on your own computer or phone; don't install a whole-machine VPN on a company computer for this, as it will trigger the company's security alerts.
 
 ## FAQ
 
-**Can you give me a SOCKS5 or HTTP proxy address?** No. As things stand, a proxy has to be encrypted, and an unencrypted one starts working only on and off before long. Letting Hiddify take over the whole machine is more stable and covers all software at once.
+**Can you give me a SOCKS5 or HTTP proxy address?** This site's proxy uses encrypted connections throughout; an unencrypted one starts working only on and off before long. Letting Hiddify take over the whole machine is more stable and covers all software at once.
 
 **With Hiddify on, do I still need to enter a proxy in the software?** No. Entering one means going round twice: at best it is slower, at worst it won't connect.
 

@@ -38,9 +38,9 @@ If there are more and more devices at home and family members each need it on th
 
 **Will I lose time by upgrading?** No. Remaining time is converted at equal value by price, and converted back at the same ratio when you switch back; you pay the difference only for the days spent on the higher plan.
 
-**Can I add just one device on its own?** There is no per-device add-on; the quota is given by plan: Personal 2, Family 4, Enterprise 8. For a few extra devices temporarily, upgrade one plan temporarily and switch back when you are done.
+**Can I add just one device on its own?** The quota is given by plan: Personal 2, Family 4, Enterprise 8. For a few extra devices temporarily, upgrade one plan temporarily and switch back when you are done.
 
-**My account has expired; can I switch to a lower plan first to get more time?** No. Switching plan on an account that has already expired involves no conversion at all; if it has expired, it is still expired after the switch.
+**My account has expired; can I switch to a lower plan first to get more time?** Conversion applies to time that has not been used up yet; for an account that has already expired, renew first and choose the plan you want when paying.
 
 **What do I do when a new device says the limit has been reached?** Log out or disconnect on an old device you are not using, and the slot is freed; or upgrade one plan temporarily and switch back when you are done.
 

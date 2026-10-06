@@ -1,6 +1,6 @@
 # 02 · Which connection method suits which situation
 
-One LeoTun account has six connection methods: Private network (Tailscale), Cisco (AnyConnect), OpenVPN, Proxy (web proxy), Hiddify, and Router. None of them is the best in every situation, so this article does not rank them; it gives answers by situation: first by the device you use, then by the network you are on, and finally by what you want to do. Each situation comes with a recommendation, the reason, and an alternative. Remember one thing: with the same account you can switch among the six at any time, and if one does not work you switch to another.
+One LeoTun account has six connection methods: Private network (Tailscale), Cisco (AnyConnect), OpenVPN, Proxy (web proxy), Hiddify, and Router. Each method has the situations it suits best, and this article gives answers by situation: first by the device you use, then by the network you are on, and finally by what you want to do. Each situation comes with a recommendation, the reason, and an alternative. Remember one thing: with the same account you can switch among the six at any time, and if one does not work you switch to another.
 
 ## By device: what you go online with
 

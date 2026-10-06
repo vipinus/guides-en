@@ -11,7 +11,7 @@ The web proxy sends only **this browser** through the line; other programs on th
 
 After that, click the extension icon and pick a region, then enter your website account and password in the login box the browser shows. To change region, click another one in the icon's menu; to go back to a direct local connection, switch to "Direct".
 
-## What it does not cover
+## For these cases, use a whole-machine method
 
 - Video and music apps and players: most don't use the browser's proxy, so you get "web pages open but videos won't play".
 - Phone apps, games and desktop software. The proxy settings in software such as Dropbox accept only unencrypted HTTP / SOCKS5, whereas in practice a proxy has to be encrypted, so this site's web proxy cannot be entered there. Use Hiddify to take over the whole machine instead; see [10](10-app-proxy.md).

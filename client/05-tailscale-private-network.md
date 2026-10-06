@@ -31,7 +31,7 @@ The Private network section uses Tailscale (a networking tool built on WireGuard
 - A device's login validity follows the account's expiry date, and it goes offline within a few minutes of expiry; after renewing, just log in once more. No reinstall is needed.
 - The number of devices online at the same time depends on your plan (Personal 2, Family 4, Enterprise 8), and the quota is shared with the other access methods; when you exceed your plan's limit, you can temporarily upgrade the account type (the remaining time is converted at equivalent value by price) and switch back when you are done.
 
-## Don't use it like this
+## Two cases where another method fits
 
 - With another VPN running on the same device (a company AnyConnect, other mesh networking software): they compete for DNS and routes. This is the reason behind copyright notices when watching Chinese video and company intranets that won't open.
 - On a campus / company network that restricts UDP: WireGuard runs over UDP, so it can only go through relays, which is very slow; switch to AnyConnect.

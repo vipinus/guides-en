@@ -19,7 +19,7 @@ That is what a "China-bound line" does: it sends your traffic out from a mainlan
 ## Three common misconceptions
 
 - **Changing DNS does not help.** DNS only translates domain names into addresses; the target site looks at your source IP, not the DNS you use.
-- **Not everything can be watched.** Besides IP, some platforms also check the device language and the app store region; in that case you need to change the system region as well.
+- **A few platforms also look at the system region.** Besides IP, some platforms also check the device language and the app store region; in that case change the system region as well.
 - **Speed depends on the quality of the line between the two points.** The cross-border link from overseas to the mainland is the bottleneck, so choosing an entry point that is close to you and has an optimised line to the mainland matters more than the server's own specifications.
 
 ## Further reading

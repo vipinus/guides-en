@@ -27,7 +27,7 @@ A clear explanation of the **principles** behind cross-border access, **how to c
 | [04 · How we differ from other VPNs](network/04-why-us.md) |
 | [05 · How to spot risky VPN software](network/05-risky-vpn-apps.md) |
 | [06 · Why it is sometimes fast and sometimes slow](network/06-why-sometimes-fast-sometimes-slow.md) |
-| [07 · When you actually do not need us](network/07-when-you-do-not-need-us.md) |
+| [07 · Which problems the line solves, and which need another fix](network/07-when-you-do-not-need-us.md) |
 | [08 · Choosing among the three account plans, renewal and payment](network/08-account-tiers-and-payment.md) |
 | [09 · What to do when you run out of device connections](network/09-not-enough-devices.md) |
 

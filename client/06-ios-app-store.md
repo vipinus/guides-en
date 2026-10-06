@@ -6,7 +6,7 @@ If you can't find Hiddify, Tailscale or Telegram on your iPhone, or you see "Thi
 
 The App Store is split into storefronts by the region of your Apple ID, and different regions list different apps. The China storefront has neither Hiddify nor Tailscale, and Telegram and Discord come and go; Cisco Secure Client and OpenVPN Connect are available in most regions. This is a difference in listings, not a problem with the apps, and an account in another region can install them.
 
-On iPhone, both Hiddify and the private network (Tailscale) on this site have to come from the App Store, so this step cannot be avoided; the installers for Android, Windows and macOS are provided directly by this site and are not affected.
+On iPhone, both Hiddify and the private network (Tailscale) on this site are installed from the App Store; just follow the steps below to switch to an Apple ID in another region; the installers for Android, Windows and macOS are provided directly by this site and are not affected.
 
 ## Option 1 (recommended): register a new Apple ID outside the China region
 

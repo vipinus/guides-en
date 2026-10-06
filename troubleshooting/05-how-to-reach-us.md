@@ -6,7 +6,7 @@ The [Contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=tro
 
 ## Which of the three groups to choose
 
-| Group | Who it suits | Pros | Cons |
+| Group | Who it suits | Pros | Usage tips |
 |---|---|---|---|
 | QQ group | People in China whose VPN is not working yet | Opens without the VPN; convenient for sending files and screenshots | It only answers when you @海绵宝宝; the platform filters content, so do not post configurations or QR codes |
 | Telegram group | Overseas Chinese, students abroad | Shows only your username, not your phone number; no filtering; no need to @ the AI | In China you must first connect the VPN or turn on the web proxy |
@@ -16,7 +16,7 @@ If you join only one: in China, join the QQ group first and add Telegram once th
 
 ## What AI support can do, and when to ask a human
 
-- **It can answer**: how to troubleshoot a failed connection, which region to choose, which connection method suits you, how to claim the trial, prices and points, router flashing and binding, and refund rules. It answers only from the knowledge base and does not make up numbers; when unsure it will ask you to @ the group owner.
+- **It can answer**: how to troubleshoot a failed connection, which region to choose, which connection method suits you, how to claim the trial, prices and points, router flashing and binding, and refund rules. It answers only from the knowledge base; when unsure it will ask you to @ the group owner.
 - **Ask a human for**: processing refunds, payments that have not arrived, duplicate charges, router shipping and delivery, a banned account or authentication failures, and binding conflicts. @ the group owner in the group, or send an email; the human support QQ is in the second row of the Contact page.
 - **Include four things when you ask**: the connection method, the region, the exact error text or a screenshot, and the specific time the problem occurred.
 

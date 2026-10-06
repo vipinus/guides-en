@@ -42,7 +42,7 @@ Every reply from SpongeBob is sent together with a voice message, **prepared spe
 | Troubleshooting can't connect, slow, dropped connections, or a website or app that does not work | Router shipping, delivery, damage and warranty |
 | Network settings on computers, phones and TV boxes; apps that will not install | Questions where the AI says "Not sure, please @ the group owner" |
 
-The AI will not send VPN connection addresses: after logging in to the website, click the region's flag in the relevant section to copy it.
+VPN connection addresses are taken from the website: after logging in, click the region's flag in the relevant section to copy it.
 
 ## Security reminders
 

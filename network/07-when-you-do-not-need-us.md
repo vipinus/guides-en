@@ -1,8 +1,8 @@
-# 07 · When you actually do not need us
+# 07 · Which problems the line solves, and which need another fix
 
 ## Why we wrote this
 
-People who sell things generally do not tell you "you have no use for this". But after doing support for a long time we found that **a considerable share of requests for help actually have nothing to do with the line**: the user paid, installed it, the problem is still there, and then they feel the product is no good.
+After doing support for a long time we found that **a considerable share of requests for help actually have nothing to do with the line**: looking in a different direction often solves them faster.
 
 Making these situations clear up front saves trouble for both sides.
 
@@ -21,7 +21,7 @@ Prompts of wrong password, verification required, abnormal account: these are ac
 What we do is "let you reach it"; we are not a game accelerator. A cross-border line **increases** latency rather than reducing it, and gaming over it is usually laggier.
 
 **Company intranet systems.**
-Reaching the company's own systems requires the account and VPN issued by the company, which we cannot replace.
+To reach the company's own systems, just use the account and VPN issued by the company.
 
 **Download speed is not what you hoped.**
 If you are in China downloading something from China, going through a cross-border line will only be slower. The line is for crossing the border, not for speeding up what is local.
@@ -48,7 +48,7 @@ The typical signs are a prompt of "This content is not available in your region"
 
 ## Our advice
 
-Use the free trial first to try, one by one, the services you want to use. **If it solves the problem, stay; if it does not, do not buy**: buying will not make it better, and will only make you feel cheated.
+Use the free trial first to try, one by one, the services you want to use. **If it solves the problem, stay; for other needs, contact support**, and we will help you see whether there is a suitable way.
 
 ---
 Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-07) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

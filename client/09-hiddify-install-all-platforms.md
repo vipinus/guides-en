@@ -56,7 +56,7 @@ echo /usr/share/hiddify/lib | sudo tee /etc/ld.so.conf.d/hiddify.conf && sudo ld
 
 3. **Run it again after every Hiddify upgrade**: the authorisation is attached to the program file, and an upgrade replaces the file, so the authorisation is lost.
 
-Only an x64 deb is provided. There is no package for ARM Linux devices; use OpenVPN instead.
+The deb package is x64; on ARM Linux devices use OpenVPN, and the same account works.
 
 ## Android
 
@@ -75,7 +75,7 @@ Only an x64 deb is provided. There is no package for ARM Linux devices; use Open
 ## After installing: import a subscription and connect
 
 1. Log in to the website and open the Hiddify page.
-2. Click the flag of the region you want and a QR code pops up; or click "Import all regions · auto-select" at the top of the page to import all regions outside China at once and let the client choose automatically. **It does not include the China region**: for watching video or using online banking in China from abroad, click the China flag and import it separately.
+2. Click the flag of the region you want and a QR code pops up; or click "Import all regions · auto-select" at the top of the page to import all regions outside China at once and let the client choose automatically. **The China region is imported separately**: for watching video or using online banking in China from abroad, click the China flag to import it.
 3. Phone: tap "Copy import link", then switch to Hiddify and add it as prompted, or scan the code with Hiddify on another device. Computer: click "Copy config URL (to paste)", then in Hiddify click "+" → "Add from clipboard".
 4. Click connect.
 
@@ -90,7 +90,7 @@ For the difference between the three kinds of link, how to import into other cli
 
 **After upgrading Hiddify on Linux, VPN mode has stopped working again?** That is expected; run the authorisation command once more after upgrading.
 
-**Can it be used on ARM Windows or Linux computers?** There are currently no desktop packages for these two; you can use another access method such as OpenVPN, and the same account works.
+**Can it be used on ARM Windows or Linux computers?** Yes, with another access method such as OpenVPN, and the same account works; the Hiddify desktop packages are currently x64.
 
 **Don't want to bother with the allow-through steps?** Cisco (Cisco Secure Client), OpenVPN (OpenVPN Connect) and the private network (Tailscale) are all vendor-signed clients; they are not flagged by antivirus software and a Mac does not say they are "damaged", and the account is the same one.
 

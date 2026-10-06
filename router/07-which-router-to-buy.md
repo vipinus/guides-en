@@ -2,7 +2,7 @@
 
 > Website version (longer): https://7d24hrs.com/guides/router?utm_source=github&utm_content=router-07
 
-The router approach solves the problem of "too many devices, and some cannot install a client": the VPN is set up once on the router, and the TV, game console, smart speaker and the elderly family member's phone all go through it automatically, with nothing to install. The cost is a router that can be flashed and ten minutes of flashing. **Personal, Family and Enterprise accounts can all use a router.**
+The router approach solves the problem of "too many devices, and some cannot install a client": the VPN is set up once on the router, and the TV, game console, smart speaker and the elderly family member's phone all go through it automatically, with nothing to install. All it takes is a router that can be flashed and ten minutes of flashing. **Personal, Family and Enterprise accounts can all use a router.**
 
 ## When to use one and when not to
 

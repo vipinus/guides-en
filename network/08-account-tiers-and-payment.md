@@ -60,7 +60,7 @@ The three plans use the same discount curve: 5% off → 10% off → 20% off. The
 | Credits | Deducted from credits you have already topped up; can be used to buy by the day |
 
 - The dialog pre-selects according to the network you are on: Alipay by default in mainland China, PayPal by default elsewhere. It is only a default, and one click changes it.
-- Cash (Alipay, PayPal, credit card) is sold only by the month and by the year; by the day is only available with credits.
+- Cash (Alipay, PayPal, credit card) buys by the month and by the year; by the day uses credits.
 
 ## Paying inside China: click once and finish in the same browser
 
@@ -98,7 +98,7 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 
 ## FAQ
 
-**Can the plan be changed at any time? Will I lose out?** Yes; remaining time is converted at equal value by price, and it is just a change of form. The only restrictions are that when downgrading the devices online must not exceed the new plan's limit, and that an unpaid order has to be dealt with first.
+**Can the plan be changed at any time? Will I lose out?** Yes; remaining time is converted at equal value by price, and it is just a change of form. Before downgrading, just disconnect the extra devices and settle any unpaid order.
 
 **Should a single user go on the Family plan?** No. The three plans have the same features and the router can be used too; the Personal plan's 2 devices online at the same time are enough for one phone plus one computer. Consider the Family plan only if you have a router at home and also carry two devices with you.
 

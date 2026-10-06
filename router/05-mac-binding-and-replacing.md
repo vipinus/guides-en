@@ -2,7 +2,7 @@
 
 ## Why there is binding
 
-Router access is bound to the account by hardware address (MAC): the first time you log in with a given router, the server records that router under your account, and from then on only that router can use the account's router feature. This is the usual way of preventing an account from being resold to several households.
+Router access is bound to the account by hardware address (MAC): the first time you log in with a given router, the server records that router under your account, and from then on only that router can use the account's router feature. That way the account's router feature stays with your own household alone.
 
 ## Rules
 

@@ -55,7 +55,7 @@ On a computer, hover the mouse over the light to see the region's average load.
 
 - Red does not mean broken; it only means there are many people at that moment. If you are already connected and the speed is good enough, leave it alone.
 - If it feels slow, switch to a region with a green light. For Cisco, click another flag on the web page to copy the new address; for Hiddify, import another region's configuration; for Private network, change it in Exit Node; for Proxy, click another region in the extension icon.
-- A region has several machines behind it, and the least busy one is picked automatically when you connect. You do not need to, and cannot, pick a machine yourself.
+- A region has several machines behind it, and the least busy one is picked automatically when you connect. There is no need to pick a machine yourself.
 - It is generally crowded from 8 to 11 pm. In this period, switching regions helps more than reconnecting repeatedly. For how to choose a region by carrier, see Further reading.
 
 ## Connected, but still showing local
@@ -69,7 +69,7 @@ In order of how common they are:
 5. **Another VPN or mesh networking tool is on at the same time.** A company VPN or another provider's accelerator will compete for routes. Keep only one.
 6. **It has not refreshed yet.** Wait ten to twenty seconds, switch windows, or refresh manually once.
 
-## The top bar can only tell you the IP
+## The top bar checks the IP; check IPv6 and DNS separately
 
 The top bar looks at the IPv4 address of the connection this site received. If it shows the right thing, that only means this browser went through the VPN when visiting this site:
 
