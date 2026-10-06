@@ -2,7 +2,7 @@
 
 > Website version (longer): https://7d24hrs.com/guides/anyconnect-china?utm_source=github&utm_content=client-01
 
-AnyConnect is Cisco's enterprise VPN client. Its official name is now **Cisco Secure Client**; it works the same way. You don't need a certificate file or an imported profile: enter the address, your account and your password, and you can connect. For whether it works in China and what to switch to when it won't connect, see [Reaching overseas services from China, guide 02](https://github.com/vipinus/guides-zh-CN/blob/main/chuhai/02-anyconnect-in-china.md) (in Chinese).
+AnyConnect is Cisco's enterprise VPN client. Its official name is now **Cisco Secure Client**; it works the same way. You don't need a certificate file or an imported profile: enter the address, your account and your password, and you can connect. For whether it works in China and what to switch to when it won't connect, see [Reaching overseas services from China, guide 02](https://github.com/vipinus/guides-zh-CN/blob/main/overseas-access/02-anyconnect-in-china.md) (in Chinese).
 
 ## Installing
 

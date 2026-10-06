@@ -38,7 +38,7 @@ With "automatic routing" on, overseas services such as Dropbox go through the li
 ## When you can't install a client (company computer)
 
 - Use the web version of Dropbox and cloud drives: open dropbox.com in a browser with the [web proxy](03-web-proxy-extension.md); you can upload and download, but there is no automatic sync.
-- Command-line tools (git, pip, npm, curl) accept an encrypted proxy: put the web proxy address into `https_proxy`; see [Reaching overseas services from China 05 · Linux and the command line](https://github.com/vipinus/guides-zh-CN/blob/main/chuhai/05-linux-server.md) (in Chinese).
+- Command-line tools (git, pip, npm, curl) accept an encrypted proxy: put the web proxy address into `https_proxy`; see [Reaching overseas services from China 05 · Linux and the command line](https://github.com/vipinus/guides-zh-CN/blob/main/overseas-access/05-linux-server.md) (in Chinese).
 - Other desktop software that accepts only HTTP / SOCKS5 is best used on your own computer or phone; don't install a whole-machine VPN on a company computer for this, as it will trigger the company's security alerts.
 
 ## FAQ

@@ -15,6 +15,43 @@ Website: <https://7d24hrs.com?utm_source=github&utm_content=readme> · Contact u
 
 ## Contents
 
+### [Reaching China from Abroad · Everything that needs a China IP](china-access/)
+
+When you are overseas, many Chinese services refuse you because your IP is not in mainland China: video, music, government services, banking, ticket booking, games. One article per situation, explaining clearly **why you are blocked, how to fix it, and what other pitfalls there are**.
+
+| Article |
+|---|
+| [01 · Which services need a China IP](china-access/01-what-needs-a-china-ip.md) |
+| [02 · Watching Chinese video from abroad](china-access/02-watch-chinese-video-abroad.md) |
+| [03 · Using Chinese government and public service websites](china-access/03-government-and-public-services.md) |
+| [04 · Online banking, mobile banking and payments](china-access/04-banking-and-payments.md) |
+| [05 · Music, podcasts and audiobooks](china-access/05-music-and-audio.md) |
+| [06 · China-server games and live streaming](china-access/06-gaming-and-streaming.md) |
+| [07 · Viewing your home cameras in China from abroad](china-access/07-home-camera-abroad.md) |
+| [08 · How to choose a China-bound line: where the China IP comes from and where the free ones go wrong](china-access/08-how-to-choose-a-china-access-line.md) |
+| [09 · Verification codes that never arrive, and Chinese phone numbers](china-access/09-sms-code-and-china-phone-number.md) |
+| [10 · How overseas students should set up a China-bound VPN](china-access/10-students.md) |
+| [11 · China-bound VPN: free or paid](china-access/11-free-vs-paid.md) |
+| [12 · How to set up for business trips and travel](china-access/12-travel.md) |
+| [13 · WeChat, Alipay and Chinese Mini Programs](china-access/13-wechat-alipay-miniprograms.md) |
+| [14 · Setting things up for elderly relatives abroad: install once, then leave it alone](china-access/14-help-parents-abroad.md) |
+| [15 · Online courses, exam registration and degree verification](china-access/15-online-courses-and-exams.md) |
+
+### [Overseas Access Guides · Using Overseas Services from Inside China](overseas-access/)
+
+You are in China, and the overseas services you need for work, development, research, gaming and streaming will not open or are extremely slow. One situation per article, with a clear account of **what you need, how to choose, and what the pitfalls are**.
+
+| Article |
+|---|
+| [01 · Which services need an overseas IP, and how the line works](overseas-access/01-what-needs-an-overseas-ip.md) |
+| [02 · Does Cisco AnyConnect work in China](overseas-access/02-anyconnect-in-china.md) |
+| [03 · Which region is fastest from inside China: by carrier](overseas-access/03-which-region-is-fastest.md) |
+| [04 · Using a company computer: no administrator rights, already on the company VPN](overseas-access/04-office-laptop.md) |
+| [05 · How to send a Linux server and command-line tools through the line](overseas-access/05-linux-server.md) |
+| [06 · How to send a Synology or QNAP NAS through the line](overseas-access/06-nas-openvpn.md) |
+| [07 · Accessing AI tools (ChatGPT, Claude, Gemini and others)](overseas-access/07-ai-tools.md) |
+| [08 · Searching the literature, downloading papers, submitting manuscripts](overseas-access/08-academic-research.md) |
+
 ### [Network Guides](network/)
 
 A clear explanation of the **principles** behind cross-border access, **how to choose among the six connection methods**, how we differ from other providers, and how to spot risky software. No jargon pile-ups.
