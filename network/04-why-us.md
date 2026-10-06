@@ -40,13 +40,13 @@ No single method is optimal on every network, so we do not lock you into one: wi
 - Accounts come in three plans, Personal, Family and Enterprise, with 2, 4 and 8 devices online at the same time respectively; regions, traffic and connection methods are the same on all three. There is no limit on how many devices you install on, only on the number of simultaneous connections. When the number online at the same time exceeds the plan's limit, you can temporarily upgrade the account type (remaining time is converted at equal value by price) and switch back when you are done.
 - You can switch among the three plans at any time, with remaining time converted at equal value (Family and Enterprise are 2 times and 4 times the Personal price respectively); all three plans support the router, and the Personal plan is enough for a single user.
 - Refunds are pro rata by time used and available at any time, and are handled manually; no specific arrival time is promised.
+- Speed: we promise smooth YouTube playback, even at the evening peak. If one region is slow, switch region or connection method.
 - The Hiddify and OpenVPN configurations carry your account, and changing the password revokes the old configurations. This is a security design, but it also means you have to re-import after changing the password.
 
 ## What we do not do
 
 - We do not provide an anonymity service. We record the information needed for billing (email, plan, expiry time, and the duration and traffic of each connection); we do not record what you visit, do not inject ads, and do not sell data; client IPs do not leave our servers. But "not recording content" does not equal "anonymous", and the About page says this clearly.
 - We do not make an app. Clients come only from the official upstreams of Cisco, OpenVPN, Hiddify and Tailscale, mirrored as-is without modification, so there is no such thing as "our app got taken down"; the price is one more configuration step than a one-click app.
-- We do not promise speed figures. Cross-border bandwidth is affected by three things, the carrier's exit, the time of day and your local broadband; from 8 to 11 pm is the nationwide peak and everyone is slow. What we give you is ways to switch region and switch protocol, not "a guaranteed so many megabits".
 - We do not pass off Hong Kong or Taiwan nodes as China-bound. The China region means mainland machines; the Hong Kong region was taken offline permanently in August 2026 because the local network environment had deteriorated, and we will not substitute Hong Kong or Taiwan IPs.
 
 ## FAQ
