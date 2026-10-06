@@ -10,7 +10,7 @@ Match your error to the table. For how to import in the first place, see [How to
 | Import succeeds, connection times out | The address for that region has just been changed, or that entry point is being interfered with by the carrier | Tap "Update subscription" in the client to pull the latest configuration; switch to another region — each region is a separate configuration and they do not affect each other |
 | Connected but no internet | The client's own routing rules are sending traffic to "direct" | Change the default outbound to that node, or delete the rules you added yourself |
 | Scanning says "Invalid QR code" | The QR code is meant for Hiddify-family clients; or it was scanned from someone else's screenshot | For Shadowrocket / NekoBox / Stash use the "share link"; the QR code contains your own credentials, and someone else's will not work |
-| Slow speed | Cross-border congestion at the evening peak | Look at the red, yellow and green lights in the region list on the website and switch to a region with a green light |
+| Slow speed | The chosen region is under high load, or the local broadband and the region do not match | Look at the red, yellow and green lights in the region list on the website and switch to a region with a green light; if it is still slow, change region by carrier |
 | Clicking the import link on desktop does nothing | On Windows / Linux, the sing-box:// deep link cannot always launch the app | Copy the "config URL" (starting with https://) and paste it into Hiddify to import |
 
 ## Do I need to re-import after renewing, switching plans, or changing the password

@@ -17,13 +17,13 @@ LeoTun's region list uses **red, yellow and green lights** to show each region's
 
 ## Then the time of day
 
-From 8 to 11 pm the cross-border links are at their most crowded. Fast by day and slow at night is congestion, not a fault. In that period, switching region is more useful than reconnecting again and again.
+From 8 to 11 pm is the peak. In that period, pick a green-light region or switch connection method; if it is still slow, the usual cause is the local broadband: community broadband, or a carrier and region that do not match, in which case choose again from the table above.
 
 ## Finally the protocol
 
 - A network with heavy packet loss (broadband in an old housing estate, mobile data): Hiddify's hysteria2 resists packet loss and is often the fastest.
 - A campus network or company network that restricts UDP: hysteria2 runs over UDP and will be throttled; use AnyConnect, which runs over TLS, instead.
-- The same account can use all three; if one does not work, switch.
+- Six methods on one account; there is always one that suits your network.
 
 ## A five-minute test
 

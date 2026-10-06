@@ -16,7 +16,7 @@ The proxy address given on this site's Proxy page, together with your account an
 
 The Docker daemon does not read shell environment variables; write it into Environment= in /etc/systemd/system/docker.service.d/proxy.conf and restart docker. For apt, write Acquire::https::Proxy in /etc/apt/apt.conf.d/proxy.conf.
 
-This route does not drop, needs no root, and does not change routes. It suits company servers and cases where you only want to speed up pulls; it applies only to programs that honour the proxy variables, and the rest of the traffic is untouched.
+On this route, by design there is no connection to drop; it needs no root and does not change routes. It suits company servers and cases where you only want to speed up pulls; it applies only to programs that honour the proxy variables, and the rest of the traffic is untouched.
 
 ## Route three: NetworkManager on desktop Linux
 

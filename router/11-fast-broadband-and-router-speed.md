@@ -11,7 +11,7 @@ Traffic to Chinese services does not use the tunnel and still runs at your full 
 ## Four things that decide the speed
 
 **1. The cross-border leg**
-International capacity is shared by everyone and has nothing to do with how fast your home plan is. 8 to 11 pm Beijing time is the national peak, and the same line can be several times faster at dawn than in the evening. That is traffic, not a fault. See [Why it is sometimes fast and sometimes slow](../network/06-why-sometimes-fast-sometimes-slow.md).
+International capacity is shared by everyone and has nothing to do with how fast your home plan is. 8 to 11 pm Beijing time is the national peak; in that period pick a green-light region. If it is still slow, the usual cause is the local broadband (community broadband, or a carrier and region that do not match; see the next point). See [Why it is sometimes fast and sometimes slow](../network/06-why-sometimes-fast-sometimes-slow.md).
 
 **2. Your carrier and the region you pick**
 Each carrier leaves China by a different path, and picking the right region matters more than anything else:
@@ -43,7 +43,7 @@ Sign up and take the 24-hour free trial, no credit card needed. Connect at the t
 
 ## FAQ
 
-**Why not just tell me how many megabits?** Because the number is different for every person and every hour. What we promise is smooth YouTube playback; taking the 24-hour free trial and trying it once yourself is the most accurate test.
+**Why not just tell me how many megabits?** Because the number is different for every person and every hour. We promise smooth YouTube playback, even at the evening peak, provided your broadband is good: China Unicom in the north or China Telecom in the south. Shared community broadband (小区宽带) is the exception. Taking the 24-hour free trial and trying it once yourself is the most accurate test.
 
 **The speed test site shows a low number, but video plays fine?** That is normal. Speed test servers have busy and quiet moments of their own, and two tests a minute apart can differ by a factor of two. Judge by the thing you actually want to do.
 

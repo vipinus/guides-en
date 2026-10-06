@@ -2,7 +2,7 @@
 
 ## Games: you can log in, but latency is high
 
-Most China-server games do not block overseas IPs; the problem is latency. If you are in Europe or North America, the physical distance to servers in China sets the base latency at 150 milliseconds or more, and on top of that come jitter and packet loss on the cross-border link, which show up as stuttering and disconnections.
+Most China-server games do not block overseas IPs; the problem is latency. If you are in Europe or North America, the physical distance to servers in China brings a fixed base latency, and on top of that come jitter and packet loss on the cross-border link, which show up as stuttering and disconnections.
 
 What "acceleration" does is this: it sends your traffic over a better line to China, reducing detours and packet loss. It turns a jittery, lossy connection into a stable one, and for most games that is the difference between playable and unplayable.
 

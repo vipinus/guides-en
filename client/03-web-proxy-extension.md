@@ -2,7 +2,7 @@
 
 > Website version (longer): https://7d24hrs.com/guides/web-proxy?utm_source=github&utm_content=client-03
 
-The web proxy sends only **this browser** through the line; other programs on the system are left alone. There is no client to install, no administrator rights are needed, and there is no "connected" state, so it cannot drop. It suits a company computer, a machine already connected to a company VPN, or cases where you want just one browser to use the line. For when to use it and when a VPN is required, see [Network guide 02](../network/02-choose-your-connection-method.md).
+The web proxy sends only **this browser** through the line; other programs on the system are left alone. There is no client to install, no administrator rights are needed, and there is no "connected" state, so by design there is no connection to drop. It suits a company computer, a machine already connected to a company VPN, or cases where you want just one browser to use the line. For when to use it and when a VPN is required, see [Network guide 02](../network/02-choose-your-connection-method.md).
 
 ## Two steps
 

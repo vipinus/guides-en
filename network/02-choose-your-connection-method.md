@@ -1,6 +1,6 @@
 # 02 · Which connection method suits which situation
 
-One LeoTun account has six connection methods: Private network (Tailscale), Cisco (AnyConnect), OpenVPN, Proxy (web proxy), Hiddify, and Router. Each method has the situations it suits best, and this article gives answers by situation: first by the device you use, then by the network you are on, and finally by what you want to do. Each situation comes with a recommendation, the reason, and an alternative. Remember one thing: with the same account you can switch among the six at any time, and if one does not work you switch to another.
+One LeoTun account has six connection methods: Private network (Tailscale), Cisco (AnyConnect), OpenVPN, Proxy (web proxy), Hiddify, and Router. Each method has the situations it suits best, and this article gives answers by situation: first by the device you use, then by the network you are on, and finally by what you want to do. Each situation comes with a recommendation, the reason, and an alternative. Remember one thing: six methods on one account; there is always one that suits your network.
 
 ## By device: what you go online with
 
@@ -15,7 +15,7 @@ One LeoTun account has six connection methods: Private network (Tailscale), Cisc
 ## By network environment: what network you are on
 
 - Dormitory or campus networks, company networks that restrict UDP: Cisco. It runs over TLS, the same as opening an HTTPS website, and is the most stable on restricted networks; Hiddify, Private network and OpenVPN all run over UDP and will be slow or drop.
-- Broadband that often drops, weak Wi‑Fi signal: web proxy. It works per request with no long-lived connection, so there is no connection to drop.
+- Broadband that often drops, weak Wi‑Fi signal: web proxy. It works per request with no long-lived connection, so by design there is no connection to drop.
 - Broadband in old residential compounds, mobile data, high packet loss: Hiddify. Its protocol is designed to resist packet loss and gives the best speed on such networks.
 - The computer is already connected to a company VPN: web proxy. Two whole-device VPNs running together fight over network settings; the web proxy only handles the browser, so they do not interfere with each other.
 - China Mobile, Great Wall and other broadband, or cross-border links that are always unstable: any method, choosing a China-region entry point. The client connects only to an address inside China and we handle the cross-border leg, so it is not affected by cross-border interference.
@@ -41,11 +41,11 @@ One LeoTun account has six connection methods: Private network (Tailscale), Cisc
 
 The same method can differ in speed several times over between regions; the reason lies in your carrier's outbound line to that region, not in the server. China Unicom in the north: try Japan and Korea first. China Telecom in the south: try Southeast Asia (Singapore, Malaysia, Thailand, the Philippines, Indonesia) or Australia first. Other broadband (China Mobile, Great Wall and so on): try the China-region entry point first.
 
-The red, yellow and green lights in the region list show each region's live load; among several Japan entries, pick the one with the green light. From 8 to 11 pm is the nationwide peak and everyone is slow; in that period switching region is more useful than reconnecting again and again.
+The red, yellow and green lights in the region list show each region's live load; among several Japan entries, pick the one with the green light. From 8 to 11 pm is the nationwide peak; in that period pick a green-light region or switch connection method. If it is still slow, the usual cause is the local broadband (community broadband, or a carrier and region that do not match).
 
 ## Split routing: direct inside China, through the line for overseas
 
-Only users who are in mainland China need split routing; overseas users use global mode, and turning split routing on would actually send some sites the long way round. In Hiddify you switch to "Auto split routing" in the client, in the web proxy you switch to "Split routing" in the extension, the router firmware uses split routing by default, and with Cisco and OpenVPN all traffic goes through the line once connected, so you need to run the split-routing script from the "Cisco" section.
+Only users who are in mainland China need split routing; overseas users use global mode, and turning split routing on would actually send some sites the long way round. In Hiddify you switch to "Auto split routing" in the client, in the web proxy you switch to "Split routing" in the extension, true split routing is on the router, where the firmware has it on by default; with Cisco and OpenVPN all traffic goes through the line once connected, and the split-routing script from the "Cisco" section is available; the Private network sends the whole device through the line.
 
 If a site will not open under split routing, first switch to "Global" temporarily to check: if it opens under global, it is not on the list; if it does not open under global either, the problem is with that site itself.
 

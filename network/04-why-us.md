@@ -31,7 +31,7 @@ Conversely, when overseas Chinese need to reach services in China, they simply s
 
 ## Six connection methods, one account
 
-Private network (Tailscale): log in once and stay online for good, and switch region from the menu. Cisco AnyConnect: the best compatibility, built into the system or with an official client. OpenVPN: for routers, NAS and Linux. Web proxy: only the browser goes through it, and it does not drop. Hiddify: resists packet loss, with the best speed. Router: whole-device access for TVs, set-top boxes and elderly relatives' devices.
+Private network (Tailscale): log in once and stay online for good, and switch region from the menu. Cisco AnyConnect: the best compatibility, built into the system or with an official client. OpenVPN: for routers, NAS and Linux. Web proxy: only the browser goes through it, and by design there is no connection to drop. Hiddify: resists packet loss, with the best speed. Router: whole-device access for TVs, set-top boxes and elderly relatives' devices.
 
 Each network has a method that suits it best, so you get all six: with the same account you switch at any time, from Hiddify to AnyConnect when a campus network restricts UDP, to the web proxy when the broadband is jittery. For how to choose, see "Which connection method suits which situation".
 
@@ -40,18 +40,18 @@ Each network has a method that suits it best, so you get all six: with the same 
 - Accounts come in three plans, Personal, Family and Enterprise, with 2, 4 and 8 devices online at the same time respectively; regions, traffic and connection methods are the same on all three. There is no limit on how many devices you install on, only on the number of simultaneous connections. When the number online at the same time exceeds the plan's limit, you can temporarily upgrade the account type (remaining time is converted at equal value by price) and switch back when you are done.
 - You can switch among the three plans at any time, with remaining time converted at equal value (Family and Enterprise are 2 times and 4 times the Personal price respectively); all three plans support the router, and the Personal plan is enough for a single user.
 - Refunds are pro rata by time used and available at any time, and are handled manually; no specific arrival time is promised.
-- Speed: we promise smooth YouTube playback, even at the evening peak. If one region is slow, switch region or connection method.
+- Speed: we promise smooth YouTube playback, even at the evening peak, provided your broadband is good: China Unicom in the north or China Telecom in the south. Shared community broadband (小区宽带) is the exception. If one region is slow, switch region or connection method.
 - The Hiddify and OpenVPN configurations carry your account, and changing the password revokes the old configurations: if a phone is lost or a link leaks, one password change takes them back, and you simply re-import afterwards.
 
 ## How we do things
 
-- We do not provide an anonymity service. We record the information needed for billing (email, plan, expiry time, and the duration and traffic of each connection); we do not record what you visit, do not inject ads, and do not sell data; client IPs do not leave our servers. But "not recording content" does not equal "anonymous", and the About page says this clearly.
-- We do not make an app. Clients come only from the official upstreams of Cisco, OpenVPN, Hiddify and Tailscale, mirrored as-is without modification, so there is no such thing as "our app got taken down"; configuration is done by scanning a QR code or one-click import.
-- We do not pass off Hong Kong or Taiwan nodes as China-bound. The China region means mainland machines; the Hong Kong region was taken offline permanently in August 2026 because the local network environment had deteriorated, and we will not substitute Hong Kong or Taiwan IPs.
+- We only keep the customer's email address. We do not record what you visit, do not inject ads, and do not sell data.
+- Every client comes from official vendors and well-known open-source organisations: Cisco, OpenVPN, Hiddify and Tailscale, mirrored as-is without modification; configuration is done by scanning a QR code or one-click import.
+- The China region runs on mainland machines, and its exit IPs are all in mainland China.
 
 ## FAQ
 
-**Are you more secure than the big international brands?** The encryption strength is comparable; both use standard protocols. The difference is the trust model: the big brands rely on audit reports, and we rely on spelling out what we record and on not making an app. If you want anonymity, neither side is the answer; that is Tor's territory.
+**Are you more secure than the big international brands?** The encryption strength is comparable; both use standard protocols. The difference is the trust model: the big brands rely on audit reports; we only keep the customer's email address, and every client comes from official vendors and well-known open-source organisations.
 
 **Why not offer hundreds of nodes like airport services do?** More nodes does not mean more stable. Behind each of our regions there are several machines, and on connecting the system picks the least busy one, so you do not have to run speed tests and pick nodes yourself; when an address is blocked it is replaced automatically, and the address in your client does not need changing.
 

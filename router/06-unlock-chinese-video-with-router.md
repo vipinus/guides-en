@@ -28,7 +28,7 @@ The video domains on the split routing list are maintained in a public repositor
 
 ## Picture quality and bandwidth
 
-1080p needs a steady 5 Mbps, and 4K needs 25 Mbps or more. The cross-border link is the bottleneck; if it is not enough at evening peak hours, lower the picture quality. For the entry region, pick one that is close to you and has a good route to mainland China; try a couple, and judge by whether playback stutters.
+1080p needs a steady 5 Mbps, and 4K needs 25 Mbps or more. If playback stutters at evening peak hours, pick a green-light region; if it still stutters, the usual cause is the local broadband. For the entry region, pick one that is close to you and has a good route to mainland China; try a couple, and judge by whether playback stutters.
 
 ## FAQ
 

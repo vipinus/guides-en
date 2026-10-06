@@ -7,7 +7,7 @@ A company computer has three restrictions: you cannot install unapproved softwar
 - No client to install: it is only a browser extension, and most companies allow extensions but not software.
 - No administrator rights: the extension runs in user space and does not change the system's network settings.
 - Coexists with the company VPN: the company VPN takes over the system routes, while the web proxy sits only at the browser layer, so the two do not interfere; company intranet pages keep going through the company VPN.
-- Does not drop: the proxy works per request with no long-lived connection, so you do not notice jitter on the company network either.
+- By design there is no connection to drop: the proxy works per request with no long-lived connection, so you do not notice jitter on the company network either.
 
 ## Set up in two steps
 

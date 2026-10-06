@@ -2,7 +2,7 @@
 
 ## The conclusion first
 
-For the same line, a speed difference of **several times** between different times of day is normal and does not mean something has broken. This is not unique to us; every cross-border line is the same.
+The speed of a cross-border line varies with the time of day and the path; every cross-border line is the same. We promise smooth YouTube playback, even at the evening peak, provided your broadband is good: China Unicom in the north or China Telecom in the south. Shared community broadband (小区宽带) is the exception.
 
 Understanding this saves a lot of pointless fiddling, such as switching regions over and over or reinstalling the client over and over.
 
@@ -10,7 +10,7 @@ Understanding this saves a lot of pointless fiddling, such as switching regions 
 
 **One: the evening peak.**
 
-Cross-border network capacity is shared. From 8 to 11 pm in China the whole country is watching video, and the cross-border stretch is like an elevated highway at the end of the working day. The same line can run at full speed in the small hours and at only a fraction of that at the evening peak; this is traffic conditions, not a fault.
+Cross-border network capacity is shared. From 8 to 11 pm in China the whole country is watching video, and the cross-border stretch is like an elevated highway at the end of the working day. In that period, pick a green-light region or switch connection method; if it is still slow, the usual cause is the local broadband: community broadband, or a carrier and region that do not match (China Unicom in the north: Japan or Korea; China Telecom in the south: Southeast Asia or Australia; other providers: the China entry points).
 
 **Two: the thing you are measuring is itself changing.**
 
@@ -24,7 +24,7 @@ When the site you open is slow, the line is not necessarily slow. Some Chinese v
 
 | What you see | Verdict |
 |---|---|
-| Slow at peak times, normal otherwise | Traffic conditions, normal |
+| Slow at peak times, normal otherwise | Pick a green-light region or switch connection method; if still slow, it is most likely the local broadband (community broadband, or a carrier and region that do not match) |
 | Always slow, at any time | Worth reporting |
 | Suddenly cannot connect at all | Worth reporting |
 | Connected, but no web page will open | Most likely DNS, worth reporting |

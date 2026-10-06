@@ -25,7 +25,7 @@ The desktop installers are unmodified mirrors of Hiddify's official release pack
 1. Download the .dmg from the download area of the Hiddify page, open it and drag Hiddify into "Applications".
 2. In "Finder" → "Applications", hold Control and click the Hiddify icon, choose "Open", then click "Open" again in the dialog.
 3. If it still won't open: "System Settings" → "Privacy & Security", click "Open Anyway" in the "Security" section and enter your password to confirm.
-4. If you are told it "is damaged and can't be opened": the file is not damaged; the system is blocking an unsigned app. Open "Terminal", run the command below, press Return and enter your login password, then open Hiddify again:
+4. If you are told it "is damaged and can't be opened": the file is not damaged; the system's Gatekeeper is blocking it. Open "Terminal", run the command below, press Return and enter your login password, then open Hiddify again:
 
 ```bash
 sudo xattr -dr com.apple.quarantine /Applications/Hiddify.app
@@ -38,7 +38,7 @@ The first time you click connect after installing, the system will also ask you 
 - **macOS 15 Sequoia and later**: "System Settings" → "General" → "Login Items & Extensions", scroll to "Extensions" at the bottom, switch the view to "By Category", click the ⓘ next to "Network Extensions", turn on the switch for Hiddify, and enter your password or use your fingerprint when prompted.
 - **macOS 13 Ventura / 14 Sonoma**: first launch Hiddify and click connect once, and "System Extension Blocked" will pop up; then go to "System Settings" → "Privacy & Security", scroll down to "System software from developer … was blocked from loading", click "Allow" and enter your password.
 
-On a company-issued Mac, if these buttons are greyed out, a device management policy has locked them; ask IT, or use the signed Cisco, OpenVPN or private network clients instead.
+On a company-issued Mac, if these buttons are greyed out, a device management policy has locked them; ask IT, or use the Cisco, OpenVPN or private network clients instead.
 
 ## Linux
 
@@ -67,7 +67,7 @@ The deb package is x64; on ARM Linux devices use OpenVPN, and the same account w
 ## iPhone / iPad
 
 1. Search for "Hiddify" in the App Store and install it; it is free.
-2. If you can't find it, or you see "This app is currently not available in your country or region": Hiddify is not listed in the China storefront (it is in the United States, Hong Kong, Taiwan, Japan and Singapore). Apple does not allow sideloading, so there is no installer that gets around this, and the only way is an Apple ID outside the China region. We recommend registering a new one: in the App Store, tap "Get" on any free app → "Create New Apple ID", choose a region such as Hong Kong or the United States, and choose "None" as the payment method. You switch accounts only in the App Store, and iCloud is not affected. For the full steps, see [06 · What to do when iOS won't let you install an app](06-ios-app-store.md).
+2. If you can't find it, or you see "This app is currently not available in your country or region": on iOS, install from the App Store with a non-China-region Apple ID (Hiddify is in the United States, Hong Kong, Taiwan, Japan and Singapore storefronts). We recommend registering a new one: in the App Store, tap "Get" on any free app → "Create New Apple ID", choose a region such as Hong Kong or the United States, and choose "None" as the payment method. You switch accounts only in the App Store, and iCloud is not affected. For the full steps, see [06 · What to do when iOS won't let you install an app](06-ios-app-store.md).
 3. The first time you tap connect, the system asks for VPN permission; tap allow.
 
 **Do not** use an Apple ID shared by someone else; they can lock your device remotely.

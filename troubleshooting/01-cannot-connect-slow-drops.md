@@ -17,7 +17,7 @@ Go through it in order. Each step is quick, and most problems are solved within 
 
 1. **Test your speed without the VPN.** If the local network itself is slow, no VPN route will help, however good it is.
 2. **Pick a region by carrier.** China Unicom in the north: try Japan or Korea. China Telecom in the south: try Southeast Asia or Australia. Other broadband providers: try the China entry points.
-3. **Check whether it is peak time.** Cross-border links are most crowded from 8 to 11 pm. Fast in the daytime and slow at night means congestion, not a fault.
+3. **Check whether it is peak time.** From 8 to 11 pm, pick a green-light region or switch connection method; if it is still slow, the usual cause is the local broadband: community broadband, or a carrier and region that do not match (see the previous step).
 4. **Switch protocols.** On a poor network, a protocol with stronger resistance to interference is often faster, because it loses fewer packets.
 
 ## Dropped connections

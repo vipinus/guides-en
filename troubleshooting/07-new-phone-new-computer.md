@@ -30,7 +30,7 @@ The configuration file is usually on the system drive and is lost on reinstall. 
 
 ### Switching routers
 
-A router is different from other devices: there is a **binding** between it and the account. Switching to a new router requires unbinding and then binding again. For this step you need to contact us; you cannot do it yourself on the web page. See the corresponding article in the Router Guide for details.
+A router is different from other devices: there is a **binding** between it and the account. To switch to a new router, unbind the old one first. You do this step yourself on the website: log in, open the Router section, and click Unbind in the "Bound · model · Unbind" row; the new router then connects by itself. See the corresponding article in the Router Guide for details.
 
 ## A very common misconception
 

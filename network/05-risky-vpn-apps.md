@@ -38,9 +38,9 @@ A VPN works at system level: it gets the traffic of every program on the device,
 
 ## How we let you verify
 
-LeoTun does not make its own app: clients come only from the official upstreams of Cisco, OpenVPN, Hiddify and Tailscale, mirrored as-is without modification, and you can replace the copy downloaded from this site with the official or open-source client at any time. The protocols are all standard protocols and can be verified by packet capture.
+Every LeoTun client comes from official vendors and well-known open-source organisations: Cisco, OpenVPN, Hiddify and Tailscale, mirrored as-is without modification, and you can replace the copy downloaded from this site with the official or open-source client at any time. The protocols are all standard protocols and can be verified by packet capture.
 
-Signing up needs only an email address, no phone number and no ID card. What we record and do not record is written on the About page: email, plan, expiry time, and the duration and traffic of each connection are used for billing; we do not record what you visit, do not inject ads, and do not sell data.
+Signing up needs only an email address, no phone number and no ID card. We only keep the customer's email address; we do not record what you visit, do not inject ads, and do not sell data.
 
 We do not install certificates and do not ask for contacts or location. If one day our client asks you to install a root certificate, it is definitely not us.
 

@@ -52,7 +52,7 @@ When connecting from inside China, the AnyConnect and Hiddify addresses change a
 
 **Why is Hiddify slow in the dormitory while AnyConnect is normal?** Most likely the campus network restricts UDP. Hiddify's hysteria2 protocol is based on UDP, and when throttled it shows up as slow or dropping; AnyConnect runs over TLS, the same as visiting an HTTPS website, and is not affected.
 
-**Can I play China-server games over a China-bound line?** You can log in, but latency depends on your physical distance to the China exit. Connecting back to China from North America is usually 150 to 250 milliseconds, which is acceptable for turn-based games and MOBAs and noticeable in shooters.
+**Can I play China-server games over a China-bound line?** You can log in, but latency depends on your physical distance to the China exit. That part of the latency is fixed; it is acceptable for turn-based games and MOBAs and noticeable in shooters.
 
 **Is the account still useful after I graduate and return to China?** Yes. The same account keeps working inside China with an overseas region, for reaching Google, GitHub, your university email and paper databases.
 

@@ -35,7 +35,7 @@ Cisco has renamed it Cisco Secure Client; it is used the same way. There is no n
 
 ## FAQ
 
-**Is slow speed a sign of throttling?** Most likely it is cross-border congestion at the evening peak. Switch region first: look at the red, yellow and green lights in the region list on the website and pick a green one.
+**Is slow speed a sign of throttling?** Switch region first: look at the red, yellow and green lights in the region list on the website and pick a green one. If it is still slow, the usual cause is the local broadband: community broadband, or a carrier and region that do not match (China Unicom in the north: Japan or Korea; China Telecom in the south: Southeast Asia or Australia; other providers: the China entry points).
 
 **Why is the same address sometimes good and sometimes bad?** The address is a domain name, and the machines behind it are replaced automatically according to blocking and load. Waiting a minute or two and trying again usually means you caught it mid-switch.
 

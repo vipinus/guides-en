@@ -1,6 +1,6 @@
 # 06 · What to do when iOS won't let you install an app
 
-If you can't find Hiddify, Tailscale or Telegram on your iPhone, or you see "This app is currently not available in your country or region", the app has not disappeared: the App Store is split into storefronts by the region of your Apple ID, and the China storefront does not list most networking apps. Apple does not allow sideloading, so there is no installer that gets around this, and this site does not provide one either. The only solution is an Apple ID in another region, and we recommend registering a new one rather than changing your existing account. Below are the steps, the trick for choosing "None" as the payment method, and why you must never use an account someone else has shared.
+If you can't find Hiddify, Tailscale or Telegram on your iPhone, or you see "This app is currently not available in your country or region", the app has not disappeared: the App Store is split into storefronts by the region of your Apple ID, and the China storefront does not list most networking apps. On iOS, install from the App Store with a non-China-region Apple ID; the steps are on this page. We recommend registering a new one rather than changing your existing account. Below are the steps, the trick for choosing "None" as the payment method, and why you must never use an account someone else has shared.
 
 ## Why this happens
 

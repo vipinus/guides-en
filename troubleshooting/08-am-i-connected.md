@@ -56,7 +56,7 @@ On a computer, hover the mouse over the light to see the region's average load.
 - Red does not mean broken; it only means there are many people at that moment. If you are already connected and the speed is good enough, leave it alone.
 - If it feels slow, switch to a region with a green light. For Cisco, click another flag on the web page to copy the new address; for Hiddify, import another region's configuration; for Private network, change it in Exit Node; for Proxy, click another region in the extension icon.
 - A region has several machines behind it, and the least busy one is picked automatically when you connect. There is no need to pick a machine yourself.
-- It is generally crowded from 8 to 11 pm. In this period, switching regions helps more than reconnecting repeatedly. For how to choose a region by carrier, see Further reading.
+- From 8 to 11 pm is the peak. In this period, pick a green-light region or switch connection method; if it is still slow, the usual cause is the local broadband (community broadband, or a carrier and region that do not match). For how to choose a region by carrier, see Further reading.
 
 ## Connected, but still showing local
 

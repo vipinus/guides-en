@@ -26,7 +26,7 @@ If you join only one: in China, join the QQ group first and add Telegram once th
 2. **Join at least one group**. When a domain is blocked, the new address is posted in the groups first; the group invite links do not depend on the website's domain. In China the QQ group does not need the VPN and is the last fallback.
 3. **Install the client and log in ahead of time**. The server addresses are replaced automatically, and the website being unreachable does not stop an already configured client from connecting; open the website after you are connected.
 4. **Keep your registered email address valid**, and add the support email address to your whitelist: expiry reminders, win-back emails, trial codes and domain change notices all come from there.
-5. **These six knowledge bases on GitHub** have the current website address and group links at the top of their README. Most networks in China can open them directly, so they are a backup route too.
+5. **The GitHub knowledge base** has the current website address and group links at the top of its README. Most networks in China can open it directly, so it is a backup route too.
 6. When recommending us to friends, give them `7d24hrs.com`. It is the domain dedicated to public use; if it is blocked we switch to a mirror, and existing users are not affected.
 
 ## Security reminders
