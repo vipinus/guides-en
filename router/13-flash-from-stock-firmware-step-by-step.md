@@ -104,7 +104,7 @@ If it still is not working after ten minutes or so, go through these in order:
 2. **Has the account expired?** Sign in on the website and check the expiry date. After renewing, wait a few minutes.
 3. **Is the account still bound to the old router?** In the Router section, look at the bound model. If it is not this router, click Unbind.
 4. **Restart the router once.** Unplug it, wait ten seconds, plug it back in and give it two to three minutes.
-5. **Sign in manually.** Open `http://192.168.11.1` and enter your account email and password in the admin page, then save.
+5. **Sign in manually.** Open `http://192.168.11.1` and log in to the router with username `root` and password `www.anyfq.com`. Then go to **Services** → **VPN**, enter your account email and password, and save.
 
 Still stuck? Ask in the group, and tell us the router model and how far you got in the list above.
 
