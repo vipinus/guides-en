@@ -88,12 +88,12 @@ The top bar looks at the IPv4 address of the connection this site received. If i
 
 ## Further reading
 
-- [How to troubleshoot can't connect, slow, and dropped connections](https://7d24hrs.com/guides/connect-issues)
-- [Which region is fastest from inside China](https://7d24hrs.com/guides/pick-region)
-- [Which scenarios each connection method suits](https://7d24hrs.com/guides/choose-connection)
-- [What the web proxy is and when to use it](https://7d24hrs.com/guides/web-proxy)
-- [What the router firmware can do](https://7d24hrs.com/guides/router-firmware)
-- [What to do when Tencent Video shows a copyright restriction notice abroad](https://7d24hrs.com/guides/overseas-video)
+- [How to troubleshoot can't connect, slow, and dropped connections](https://7d24hrs.com/guides/connect-issues?utm_source=github&utm_content=troubleshooting-08)
+- [Which region is fastest from inside China](https://7d24hrs.com/guides/pick-region?utm_source=github&utm_content=troubleshooting-08)
+- [Which scenarios each connection method suits](https://7d24hrs.com/guides/choose-connection?utm_source=github&utm_content=troubleshooting-08)
+- [What the web proxy is and when to use it](https://7d24hrs.com/guides/web-proxy?utm_source=github&utm_content=troubleshooting-08)
+- [What the router firmware can do](https://7d24hrs.com/guides/router-firmware?utm_source=github&utm_content=troubleshooting-08)
+- [What to do when Tencent Video shows a copyright restriction notice abroad](https://7d24hrs.com/guides/overseas-video?utm_source=github&utm_content=troubleshooting-08)
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-08) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

@@ -63,12 +63,12 @@ No single method is optimal on every network, so we do not lock you into one: wi
 
 ## Further reading
 
-- [Which connection method suits which situation](https://7d24hrs.com/guides/choose-connection)
-- [How to spot risky VPN software](https://7d24hrs.com/guides/risky-vpn-apps)
-- [China-bound VPN: free or paid](https://7d24hrs.com/guides/free-vs-paid)
-- [About us: how it is built and what we record](https://7d24hrs.com/about)
+- [Which connection method suits which situation](https://7d24hrs.com/guides/choose-connection?utm_source=github&utm_content=network-04)
+- [How to spot risky VPN software](https://7d24hrs.com/guides/risky-vpn-apps?utm_source=github&utm_content=network-04)
+- [China-bound VPN: free or paid](https://7d24hrs.com/guides/free-vs-paid?utm_source=github&utm_content=network-04)
+- [About us: how it is built and what we record](https://7d24hrs.com/about?utm_source=github&utm_content=network-04)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/why-us
+Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Join the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-04) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

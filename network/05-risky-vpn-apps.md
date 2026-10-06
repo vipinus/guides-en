@@ -58,12 +58,12 @@ We do not install certificates and do not ask for contacts or location. If one d
 
 ## Further reading
 
-- [How we differ from other VPNs](https://7d24hrs.com/guides/why-us)
-- [China-bound VPN: free or paid](https://7d24hrs.com/guides/free-vs-paid)
-- [What to do when Tencent Video shows a copyright restriction overseas](https://7d24hrs.com/guides/overseas-video)
-- [About us: how it is built and what we record](https://7d24hrs.com/about)
+- [How we differ from other VPNs](https://7d24hrs.com/guides/why-us?utm_source=github&utm_content=network-05)
+- [China-bound VPN: free or paid](https://7d24hrs.com/guides/free-vs-paid?utm_source=github&utm_content=network-05)
+- [What to do when Tencent Video shows a copyright restriction overseas](https://7d24hrs.com/guides/overseas-video?utm_source=github&utm_content=network-05)
+- [About us: how it is built and what we record](https://7d24hrs.com/about?utm_source=github&utm_content=network-05)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/risky-vpn-apps
+Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/risky-vpn-apps?utm_source=github&utm_content=network-05
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Join the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-05) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

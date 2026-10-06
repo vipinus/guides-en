@@ -1,6 +1,6 @@
 # 02 · Hiddify subscription links, import links and share links: what they are, and whether you need "subscription conversion"
 
-> Website version (longer): https://7d24hrs.com/guides/singbox-subscription
+> Website version (longer): https://7d24hrs.com/guides/singbox-subscription?utm_source=github&utm_content=client-02
 
 A Hiddify "subscription" is simply an HTTPS address from which the client downloads a complete configuration: server, port, credentials and routing rules are all in it, so nothing has to be typed by hand. After logging in to the website, LeoTun users get a separate QR code and config URL for each region.
 
@@ -49,4 +49,4 @@ If you have imported it but can't connect, see [Troubleshooting 04](../troublesh
 **Can I send the QR code to my family?** The QR code contains your account credentials; whoever you send it to gets your account. Sharing with family is allowed (simultaneous devices by plan: Personal 2, Family 4, Enterprise 8), but don't post it anywhere public; if it leaks, change your password and it stops working.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-02) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

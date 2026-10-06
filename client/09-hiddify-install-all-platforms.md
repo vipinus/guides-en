@@ -96,11 +96,11 @@ For the difference between the three kinds of link, how to import into other cli
 
 ## Further reading
 
-- [Hiddify page: client downloads and QR codes for each region](https://7d24hrs.com/singbox)
-- [How to import a Hiddify subscription link](https://7d24hrs.com/guides/singbox-subscription)
-- [Client flagged by antivirus / Mac says it is damaged: verify first, then allow](https://7d24hrs.com/guides/antivirus-false-positive)
-- [What macOS "network extension" authorisation is and how to allow it](https://7d24hrs.com/guides/macos-network-extension)
-- [What to do when iOS won't let you install an app](https://7d24hrs.com/guides/ios-app-store)
+- [Hiddify page: client downloads and QR codes for each region](https://7d24hrs.com/singbox?utm_source=github&utm_content=client-09)
+- [How to import a Hiddify subscription link](https://7d24hrs.com/guides/singbox-subscription?utm_source=github&utm_content=client-09)
+- [Client flagged by antivirus / Mac says it is damaged: verify first, then allow](https://7d24hrs.com/guides/antivirus-false-positive?utm_source=github&utm_content=client-09)
+- [What macOS "network extension" authorisation is and how to allow it](https://7d24hrs.com/guides/macos-network-extension?utm_source=github&utm_content=client-09)
+- [What to do when iOS won't let you install an app](https://7d24hrs.com/guides/ios-app-store?utm_source=github&utm_content=client-09)
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-09) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

@@ -40,12 +40,12 @@ Hiddify: go back to this site's Hiddify page and scan the code or copy the impor
 
 ## Further reading
 
-- [Contact page: client download cards and the three groups](https://7d24hrs.com/contact)
-- [Hiddify: import by scanning the code](https://7d24hrs.com/singbox)
-- [Private network (Tailscale): login steps](https://7d24hrs.com/mesh)
-- [How to contact us and how not to lose touch](https://7d24hrs.com/guides/stay-in-touch)
+- [Contact page: client download cards and the three groups](https://7d24hrs.com/contact?utm_source=github&utm_content=client-06)
+- [Hiddify: import by scanning the code](https://7d24hrs.com/singbox?utm_source=github&utm_content=client-06)
+- [Private network (Tailscale): login steps](https://7d24hrs.com/mesh?utm_source=github&utm_content=client-06)
+- [How to contact us and how not to lose touch](https://7d24hrs.com/guides/stay-in-touch?utm_source=github&utm_content=client-06)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/ios-app-store
+Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/ios-app-store?utm_source=github&utm_content=client-06
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-06) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-06) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

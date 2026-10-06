@@ -1,8 +1,8 @@
 # 05 · How to reach us, and how not to lose touch
 
-> Website version (longer): https://7d24hrs.com/guides/stay-in-touch
+> Website version (longer): https://7d24hrs.com/guides/stay-in-touch?utm_source=github&utm_content=troubleshooting-05
 
-The [Contact page](https://7d24hrs.com/contact) lists three support groups (QQ, Telegram, Discord), the support email address and the human support QQ account. In all three groups the AI support agent "SpongeBob" (海绵宝宝) is on call 24 hours a day, and the group owner and human support staff are there too. For how to ask so that it answers most accurately, see [10](10-ask-ai-support.md).
+The [Contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-05) lists three support groups (QQ, Telegram, Discord), the support email address and the human support QQ account. In all three groups the AI support agent "SpongeBob" (海绵宝宝) is on call 24 hours a day, and the group owner and human support staff are there too. For how to ask so that it answers most accurately, see [10](10-ask-ai-support.md).
 
 ## Which of the three groups to choose
 
@@ -36,4 +36,4 @@ If you join only one: in China, join the QQ group first and add Telegram once th
 - Do not post configuration files, QR codes or subscription links in the groups — they are equivalent to your account.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-05) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

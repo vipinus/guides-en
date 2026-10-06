@@ -1,6 +1,6 @@
 # 08 · After the firmware is installed: what it does on its own, and the few switches you should know
 
-> Website version (longer): https://7d24hrs.com/guides/router-firmware
+> Website version (longer): https://7d24hrs.com/guides/router-firmware?utm_source=github&utm_content=router-08
 
 After flashing this site's firmware or buying a pre-installed unit, all you need to do is log in to your account on the admin page. This article covers the things the firmware **does on its own** and the few switches you may need to touch; for getting started see [01](01-plug-and-play-router.md), for split routing see [03](03-router-split-routing.md), and for binding and replacing a router see [05](05-mac-binding-and-replacing.md).
 
@@ -45,4 +45,4 @@ Only a major version upgrade of the whole firmware requires flashing the sysupgr
 **Does the firmware have a backdoor?** It is compiled from OpenWrt, with only the component that connects to the VPN and the split routing rules added; the VPN records only connection duration and total traffic for billing.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=router-08) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=router-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

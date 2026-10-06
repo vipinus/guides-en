@@ -41,12 +41,12 @@ A router counts as one device, and the devices behind it are not counted. One ro
 
 ## Further reading
 
-- [Private network page: download and login steps](https://7d24hrs.com/mesh)
-- [What the private network (Tailscale) is](https://7d24hrs.com/guides/tailscale-mesh)
-- [Viewing your home cameras and NAS in China from abroad](https://7d24hrs.com/guides/home-camera)
-- [What the router firmware can do](https://7d24hrs.com/guides/router-firmware)
+- [Private network page: download and login steps](https://7d24hrs.com/mesh?utm_source=github&utm_content=client-08)
+- [What the private network (Tailscale) is](https://7d24hrs.com/guides/tailscale-mesh?utm_source=github&utm_content=client-08)
+- [Viewing your home cameras and NAS in China from abroad](https://7d24hrs.com/guides/home-camera?utm_source=github&utm_content=client-08)
+- [What the router firmware can do](https://7d24hrs.com/guides/router-firmware?utm_source=github&utm_content=client-08)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/multi-device
+Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-08) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

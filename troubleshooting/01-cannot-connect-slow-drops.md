@@ -1,6 +1,6 @@
 # 01 · Checklist for can't connect, slow, and dropped connections
 
-> Website version (longer): https://7d24hrs.com/guides/connect-issues
+> Website version (longer): https://7d24hrs.com/guides/connect-issues?utm_source=github&utm_content=troubleshooting-01
 
 Go through it in order. Each step is quick, and most problems are solved within the first four.
 
@@ -31,4 +31,4 @@ Go through it in order. Each step is quick, and most problems are solved within 
 If you have tried everything above and it still does not work, tell support these three things: the connection method you use, the region, and the exact error text or a screenshot. With these three, most problems can be pinpointed in one go.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-01) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

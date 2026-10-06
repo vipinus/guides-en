@@ -1,6 +1,6 @@
 # 10 · How to communicate effectively with AI support
 
-> Website version (longer): https://7d24hrs.com/guides/ai-support
+> Website version (longer): https://7d24hrs.com/guides/ai-support?utm_source=github&utm_content=troubleshooting-10
 
 The AI support agent "SpongeBob" (海绵宝宝) answers 24 hours a day in the three groups on Telegram, QQ and Discord (for the links see [05](05-how-to-reach-us.md)). Whether it answers accurately depends mainly on **whether your first message describes the situation completely**. If it does, you get the steps in one go; if you only say "can't connect", all it can do is ask you questions back. **If there is an error, just send a screenshot. You can ask in any language.**
 
@@ -51,4 +51,4 @@ The AI will not send VPN connection addresses: after logging in to the website, 
 - Support will never message you privately to ask for a password, a verification code or a payment, and will never ask you on their own initiative to install remote control software.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-10) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-10) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

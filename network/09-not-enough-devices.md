@@ -48,12 +48,12 @@ If there are more and more devices at home and family members each need it on th
 
 ## Further reading
 
-- [Configure multiple devices once, no starting over when you change phone](https://7d24hrs.com/guides/multi-device)
-- [How to choose a router for getting past the firewall](https://7d24hrs.com/guides/router)
-- [Which connection method suits which situation](https://7d24hrs.com/guides/choose-connection)
-- [How we differ from other VPNs](https://7d24hrs.com/guides/why-us)
+- [Configure multiple devices once, no starting over when you change phone](https://7d24hrs.com/guides/multi-device?utm_source=github&utm_content=network-09)
+- [How to choose a router for getting past the firewall](https://7d24hrs.com/guides/router?utm_source=github&utm_content=network-09)
+- [Which connection method suits which situation](https://7d24hrs.com/guides/choose-connection?utm_source=github&utm_content=network-09)
+- [How we differ from other VPNs](https://7d24hrs.com/guides/why-us?utm_source=github&utm_content=network-09)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/device-limit
+Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Join the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-09) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

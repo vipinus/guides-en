@@ -51,4 +51,4 @@ The typical signs are a prompt of "This content is not available in your region"
 Use the free trial first to try, one by one, the services you want to use. **If it solves the problem, stay; if it does not, do not buy**: buying will not make it better, and will only make you feel cheated.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Join the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-07) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

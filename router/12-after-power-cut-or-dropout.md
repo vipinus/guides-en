@@ -45,4 +45,4 @@ The first boot is slower than usual: the firmware checks for component updates a
 **Will component updates interrupt my connection?** No. Updates are checked and downloaded at boot and take effect on the next boot. The router will not restart on you mid-use.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=router-12) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=router-12) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

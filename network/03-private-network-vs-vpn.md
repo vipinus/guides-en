@@ -1,6 +1,6 @@
 # 03 · How the Private network (Tailscale) differs from a VPN, and when to use it
 
-> Website version (longer): https://7d24hrs.com/guides/tailscale-mesh
+> Website version (longer): https://7d24hrs.com/guides/tailscale-mesh?utm_source=github&utm_content=network-03
 
 The Private network section uses Tailscale: a networking tool based on WireGuard. LeoTun runs the control server itself, and you log in with your account on this site. It is not the same thing as "connection-type" VPNs such as AnyConnect and OpenVPN.
 
@@ -31,4 +31,4 @@ A device's login validity follows the account's expiry date; it goes offline wit
 For installation and login steps see [Client guide 05](../client/05-tailscale-private-network.md).
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Join the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-03) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-03) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

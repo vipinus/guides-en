@@ -40,7 +40,7 @@ Remote assistance runs through this site's self-hosted RustDesk server, which al
 
 Open RustDesk and the main screen shows this machine's ID and a one-time password. Before handing them over, confirm three things:
 
-1. **You asked first.** You described the problem in an official group listed on the [Contact page](https://7d24hrs.com/contact), and support decided remote assistance was needed, before moving on to the next step. Our support staff will not approach you on their own, ask you to install remote software, or ask for a connection code; whoever comes asking, verify in the official group first.
+1. **You asked first.** You described the problem in an official group listed on the [Contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-09), and support decided remote assistance was needed, before moving on to the next step. Our support staff will not approach you on their own, ask you to install remote software, or ask for a connection code; whoever comes asking, verify in the official group first.
 2. **Send them only through official support channels**: the human support contacts listed on the Contact page. Any private chat outside the groups claiming to be "LeoTun support" (雷顿（原蓝盾）客服) is not us.
 3. **Do not post them in the group.** A group is a place many people can see; an ID plus a password is the same as sticking your computer's key on the door.
 
@@ -76,11 +76,11 @@ For a router running this site's firmware, you do not need to install any remote
 
 ## Further reading
 
-- [How to use RustDesk remote assistance (website guide)](https://7d24hrs.com/guides/rustdesk-certificate)
-- [What to do when your Mac says the app "is damaged"](https://7d24hrs.com/guides/antivirus-false-positive)
-- [Contact page: support groups, human support and email](https://7d24hrs.com/contact)
+- [How to use RustDesk remote assistance (website guide)](https://7d24hrs.com/guides/rustdesk-certificate?utm_source=github&utm_content=troubleshooting-09)
+- [What to do when your Mac says the app "is damaged"](https://7d24hrs.com/guides/antivirus-false-positive?utm_source=github&utm_content=troubleshooting-09)
+- [Contact page: support groups, human support and email](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-09)
 - [05 · How to reach us, and how not to lose touch](05-how-to-reach-us.md)
 - [01 · Checklist for can't connect, slow, and dropped connections](01-cannot-connect-slow-drops.md)
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-09) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

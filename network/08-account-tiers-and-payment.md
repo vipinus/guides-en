@@ -110,11 +110,11 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 
 ## Further reading
 
-- [Prices and free trial (home page)](https://7d24hrs.com)
-- [China-bound VPN: free or paid](https://7d24hrs.com/guides/free-vs-paid)
-- [Configure multiple devices once, no starting over when you change phone](https://7d24hrs.com/guides/multi-device)
-- [How we differ from other VPNs](https://7d24hrs.com/guides/why-us)
-- [FAQ and contacting support](https://7d24hrs.com/contact)
+- [Prices and free trial (home page)](https://7d24hrs.com?utm_source=github&utm_content=network-08)
+- [China-bound VPN: free or paid](https://7d24hrs.com/guides/free-vs-paid?utm_source=github&utm_content=network-08)
+- [Configure multiple devices once, no starting over when you change phone](https://7d24hrs.com/guides/multi-device?utm_source=github&utm_content=network-08)
+- [How we differ from other VPNs](https://7d24hrs.com/guides/why-us?utm_source=github&utm_content=network-08)
+- [FAQ and contacting support](https://7d24hrs.com/contact?utm_source=github&utm_content=network-08)
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Join the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-08) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

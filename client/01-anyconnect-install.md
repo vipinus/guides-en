@@ -1,6 +1,6 @@
 # 01 · Cisco AnyConnect: installing, connecting and updating on every platform
 
-> Website version (longer): https://7d24hrs.com/guides/anyconnect-china
+> Website version (longer): https://7d24hrs.com/guides/anyconnect-china?utm_source=github&utm_content=client-01
 
 AnyConnect is Cisco's enterprise VPN client. Its official name is now **Cisco Secure Client**; it works the same way. You don't need a certificate file or an imported profile: enter the address, your account and your password, and you can connect. For whether it works in China and what to switch to when it won't connect, see [Reaching overseas services from China, guide 02](https://github.com/vipinus/guides-zh-CN/blob/main/chuhai/02-anyconnect-in-china.md) (in Chinese).
 
@@ -8,7 +8,7 @@ AnyConnect is Cisco's enterprise VPN client. Its official name is now **Cisco Se
 
 | Platform | What to install | Where to get it |
 |---|---|---|
-| Windows 10 and later | Cisco Secure Client 5.x | [The Cisco page on the website](https://7d24hrs.com/anyconnect) |
+| Windows 10 and later | Cisco Secure Client 5.x | [The Cisco page on the website](https://7d24hrs.com/anyconnect?utm_source=github&utm_content=client-01) |
 | Windows 7 / 8 | AnyConnect 4.9 (the last version that supports them; no longer updated) | Same as above |
 | macOS | Cisco Secure Client 5.x | Same as above |
 | iOS | Cisco Secure Client | App Store; if the store doesn't list it, install the open-source OpenConnect, which uses the same protocol |
@@ -37,4 +37,4 @@ No need to uninstall first: install the new version over the old one and your sa
 | Connection attempt has failed | This address is temporarily unreachable; switch region |
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-01) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

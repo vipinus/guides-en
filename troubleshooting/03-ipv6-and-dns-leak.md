@@ -1,6 +1,6 @@
 # 03 · Connected, but the video site still shows a copyright notice: IPv6 and DNS are the ones that slip through
 
-> Website version (longer): https://7d24hrs.com/guides/overseas-video
+> Website version (longer): https://7d24hrs.com/guides/overseas-video?utm_source=github&utm_content=troubleshooting-03
 
 You have passed step 1 of [02 · Connected to reach China but still can't watch](02-still-blocked-after-connecting.md) — the exit IP checks out as mainland China — yet the site still says "cannot be played due to copyright restrictions". Nine times out of ten there is still a path on the device that does not go through the VPN: **IPv6** or **DNS**. A video site decides where you are from the address it sees, and as long as one path leaks out, what it sees is still overseas.
 
@@ -34,4 +34,4 @@ The router option does not leak in the first place: the whole LAN goes out throu
 | You are using the web proxy | Works in the browser, not in apps | Watching video needs a whole-device tunnel; the web proxy only covers the browser |
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-03) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-03) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

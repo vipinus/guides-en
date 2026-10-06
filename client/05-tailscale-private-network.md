@@ -1,6 +1,6 @@
 # 05 · Private network (Tailscale): installing, logging in to this site's control server, choosing an exit
 
-> Website version (longer): https://7d24hrs.com/guides/tailscale-mesh
+> Website version (longer): https://7d24hrs.com/guides/tailscale-mesh?utm_source=github&utm_content=client-05
 
 The Private network section uses Tailscale (a networking tool built on WireGuard). LeoTun runs its own control server, and you log in with **your account on this site**, which has nothing to do with an official Tailscale account. Log in once and you stay online; the exit region can be changed from the menu at any time. For how it differs from a VPN and who it suits, see [Network guide 03](../network/03-private-network-vs-vpn.md).
 
@@ -8,7 +8,7 @@ The Private network section uses Tailscale (a networking tool built on WireGuard
 
 | Platform | Where to get it |
 |---|---|
-| Windows / macOS / Linux / Android | The download area on [the Private network page of the website](https://7d24hrs.com/mesh) (served directly by this site, no need to go to the official site) |
+| Windows / macOS / Linux / Android | The download area on [the Private network page of the website](https://7d24hrs.com/mesh?utm_source=github&utm_content=client-05) (served directly by this site, no need to go to the official site) |
 | iPhone / iPad | App Store; requires an Apple ID outside the China region (see [Client 06](06-ios-app-store.md)) |
 
 ## Logging in
@@ -37,4 +37,4 @@ The Private network section uses Tailscale (a networking tool built on WireGuard
 - On a campus / company network that restricts UDP: WireGuard runs over UDP, so it can only go through relays, which is very slow; switch to AnyConnect.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Come to the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-05) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

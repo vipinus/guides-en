@@ -28,4 +28,4 @@ That is what a "China-bound line" does: it sends your traffic out from a mainlan
 - [Checklist for cannot connect, slow, and dropped connections](../troubleshooting/01-cannot-connect-slow-drops.md)
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com) team · Questions? Join the [Telegram group](https://t.me/+NWJN_9yITj9kOWFh) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-01) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
