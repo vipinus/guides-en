@@ -59,7 +59,7 @@ When connecting from inside China, the AnyConnect and Hiddify addresses change a
 ## Further reading
 
 - [What to do when Tencent Video shows a copyright restriction notice abroad](https://7d24hrs.com/guides/overseas-video?utm_source=github&utm_content=china-access-10)
-- [How to choose a China-bound VPN](https://7d24hrs.com/guides/huiguo-vpn?utm_source=github&utm_content=china-access-10)
+- [How to choose a China-bound VPN](https://7d24hrs.com/guides/choose-china-vpn?utm_source=github&utm_content=china-access-10)
 - [AnyConnect client download](https://7d24hrs.com/anyconnect?utm_source=github&utm_content=china-access-10)
 - [Hiddify client and subscription import](https://7d24hrs.com/singbox?utm_source=github&utm_content=china-access-10)
 

@@ -1,6 +1,6 @@
 # 08 · How to choose a China-bound line: where the China IP comes from and where the free ones go wrong
 
-> Website version (longer): https://7d24hrs.com/guides/huiguo-vpn?utm_source=github&utm_content=china-access-08
+> Website version (longer): https://7d24hrs.com/guides/choose-china-vpn?utm_source=github&utm_content=china-access-08
 
 A China-bound line does only one thing: it makes the requests you send from overseas arrive at Tencent Video, NetEase Cloud Music or your online bank from a **mainland China** IP. So look at two points first: whether the exit really is a mainland IP, and whether any traffic on the device is bypassing it. Speed, price and the client all come after that.
 

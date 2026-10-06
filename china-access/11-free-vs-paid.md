@@ -53,7 +53,7 @@ When a friend you invite signs up and pays for the first time, your validity is 
 ## Further reading
 
 - [Pricing and free trial](https://7d24hrs.com?utm_source=github&utm_content=china-access-11)
-- [How to choose a China-bound VPN](https://7d24hrs.com/guides/huiguo-vpn?utm_source=github&utm_content=china-access-11)
+- [How to choose a China-bound VPN](https://7d24hrs.com/guides/choose-china-vpn?utm_source=github&utm_content=china-access-11)
 - [What to do when Tencent Video shows a copyright restriction notice abroad](https://7d24hrs.com/guides/overseas-video?utm_source=github&utm_content=china-access-11)
 - [How overseas students should set up a China-bound VPN](https://7d24hrs.com/guides/students?utm_source=github&utm_content=china-access-11)
 
