@@ -54,7 +54,8 @@ When not to choose it: for a large home, many devices or broadband above one gig
 ## The three most common problems after getting started
 
 - **Weak Wi‑Fi signal, only 20 dBm**: the firmware sets the wireless power automatically according to the regulations of the country you are in, and it only switches to your country's level after the router has been online once. Right after flashing, plug in a network cable first.
-- **Chinese websites become slow** (when you are in China): split routing is not on and everything is going through the VPN. With split routing on, Chinese IPs connect directly. If you are abroad watching Chinese content, keep split routing on as well: the Chinese video domains on the list go through the line for reaching China, and everything else connects directly. See [03 · Router split routing](03-router-split-routing.md).
+- **Chinese websites become slow** (when you are in China): split routing is off and everything is going through the route. In the split settings choose Forward Split: Chinese IPs go direct and everything else uses the route.
+- **Abroad and you want Chinese content**: choose Reverse Split. Reverse split turns the direction round — only mainland Chinese IPs go through the route back to China, and every other site uses your local broadband directly. Chinese video, music and apps see a Chinese address, while local sites and streaming take no detour. The firmware picks the direction from where the router is, so you rarely need to change it. See [03 · Router split routing](03-router-split-routing.md).
 - **One device does not go through the VPN**: that device has its own private DNS set (Android "Private DNS", the browser's secure DNS); turn it off.
 
 ## FAQ
