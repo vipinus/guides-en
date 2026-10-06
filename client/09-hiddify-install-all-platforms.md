@@ -92,7 +92,7 @@ For the difference between the three kinds of link, how to import into other cli
 
 **Can it be used on ARM Windows or Linux computers?** Yes, with another access method such as OpenVPN, and the same account works; the Hiddify desktop packages are currently x64.
 
-**Don't want to bother with the allow-through steps?** Cisco (Cisco Secure Client), OpenVPN (OpenVPN Connect) and the private network (Tailscale) are all vendor-signed clients; they are not flagged by antivirus software and a Mac does not say they are "damaged", and the account is the same one.
+**Don't want to bother with the allow-through steps?** Cisco (Cisco Secure Client), OpenVPN (OpenVPN Connect) and the private network (Tailscale) all open with a double-click; they are not flagged by antivirus software and a Mac does not say they are "damaged", and the account is the same one.
 
 ## Further reading
 

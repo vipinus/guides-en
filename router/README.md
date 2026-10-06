@@ -16,7 +16,7 @@ Put every device in the house on the VPN at once: getting started with a pre-ins
 | [06 · Unlocking Chinese video sites from abroad with a router](06-unlock-chinese-video-with-router.md) |
 | [07 · Should you get a router, and how to choose among the four models](07-which-router-to-buy.md) |
 | [08 · After the firmware is installed: what it does on its own, and the few switches you should know](08-what-the-firmware-does.md) |
-| [09 · The difference between real and fake split routing on a router](09-real-vs-fake-split.md) |
+| [09 · How the router's split routing works](09-real-vs-fake-split.md) |
 | [10 · Will the NAS, printer and cameras behind the router be affected?](10-nas-printer-camera-behind-router.md) |
 | [11 · Gigabit or 2 Gbps broadband with a router: what decides the speed](11-fast-broadband-and-router-speed.md) |
 | [12 · Does the router recover by itself after a power cut or a dropout?](12-after-power-cut-or-dropout.md) |

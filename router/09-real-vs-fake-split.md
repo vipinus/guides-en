@@ -1,18 +1,18 @@
-# 09 · The difference between real and fake split routing on a router
+# 09 · How the router's split routing works
 
 > Website version (longer): https://7d24hrs.com/guides/router-smart-split?utm_source=github&utm_content=router-09
 
-They are all called "smart split routing", yet some routers just feel awkward to use. For what split routing is, see [03](03-router-split-routing.md); this article only covers how to tell real from fake by the symptoms, and how our router does it.
+They are all called "smart split routing", yet some routers just feel awkward to use. For what split routing is, see [03](03-router-split-routing.md); this article only covers what split routing should do, the symptoms you see when part of it is missing, and how our router does it.
 
 ## In one sentence
 
-Real split routing: each website, **together with its images, video and login**, goes through the VPN or connects directly according to where it is located, and **every device in the house follows the same set of rules**. Fake split routing only does part of this, which leads to the symptoms below.
+What split routing should do: each website, **together with its images, video and login**, goes through the VPN or connects directly according to where it is located, and **every device in the house follows the same set of rules**. When only part of this is done, you see the symptoms below.
 
 ## Symptoms compared
 
 | What you see | What is going on behind it |
 |---|---|
-| With split routing on, Chinese websites actually get slower | Chinese websites are mistaken for overseas ones and the whole thing detours abroad and back, so split routing exists in name only |
+| With split routing on, Chinese websites actually get slower | Chinese websites are mistaken for overseas ones and the whole thing detours abroad and back |
 | The web page opens, but video keeps spinning, images do not appear, and login hangs | The list only contains the main site, and the same website's video, images and login take a different path |
 | You are abroad with the line for reaching China on, and the video app still says "仅限中国大陆" (mainland China only) | Part of the traffic did not enter the VPN, and the website saw an overseas address |
 | It plays on the phone but not on the TV or TV box; one computer simply will not go through the VPN | That device has its own network settings and bypasses the router |
@@ -21,7 +21,7 @@ Real split routing: each website, **together with its images, video and login**,
 
 None of these **produces an error**. The router shows "Connected" the whole time, which makes them the hardest to troubleshoot, and many people end up thinking the line is no good.
 
-## What real split routing should do
+## What split routing should do
 
 - A website goes one way together with its web pages, images, video and login, without being split up
 - When deciding "Chinese or overseas", it stands on the correct side, and Chinese websites take no detour

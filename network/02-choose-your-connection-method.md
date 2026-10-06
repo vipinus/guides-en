@@ -45,7 +45,7 @@ The red, yellow and green lights in the region list show each region's live load
 
 ## Split routing: direct inside China, through the line for overseas
 
-Only users who are in mainland China need split routing; overseas users use global mode, and turning split routing on would actually send some sites the long way round. In Hiddify you switch to "Auto split routing" in the client, in the web proxy you switch to "Split routing" in the extension, true split routing is on the router, where the firmware has it on by default; with Cisco and OpenVPN all traffic goes through the line once connected, and the split-routing script from the "Cisco" section is available; the Private network sends the whole device through the line.
+Only users who are in mainland China need split routing; overseas users use global mode, and turning split routing on would actually send some sites the long way round. In Hiddify you switch to "Auto split routing" in the client, in the web proxy you switch to "Split routing" in the extension, the router does split routing for every device on the network, and its firmware has it on by default; with Cisco and OpenVPN all traffic goes through the line once connected, and the split-routing script from the "Cisco" section is available; the Private network sends the whole device through the line.
 
 If a site will not open under split routing, first switch to "Global" temporarily to check: if it opens under global, it is not on the list; if it does not open under global either, the problem is with that site itself.
 

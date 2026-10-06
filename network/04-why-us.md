@@ -45,13 +45,13 @@ Each network has a method that suits it best, so you get all six: with the same 
 
 ## How we do things
 
-- We only keep the customer's email address. We do not record what you visit, do not inject ads, and do not sell data.
+- We only keep the information needed for billing. We do not record what you visit, do not inject ads, and do not sell data.
 - Every client comes from official vendors and well-known open-source organisations: Cisco, OpenVPN, Hiddify and Tailscale, mirrored as-is without modification; configuration is done by scanning a QR code or one-click import.
 - The China region runs on mainland machines, and its exit IPs are all in mainland China.
 
 ## FAQ
 
-**Are you more secure than the big international brands?** The encryption strength is comparable; both use standard protocols. The difference is the trust model: the big brands rely on audit reports; we only keep the customer's email address, and every client comes from official vendors and well-known open-source organisations.
+**Are you more secure than the big international brands?** The encryption strength is comparable; both use standard protocols. The difference is the trust model: the big brands rely on audit reports; we only keep the information needed for billing, and every client comes from official vendors and well-known open-source organisations.
 
 **Why not offer hundreds of nodes like airport services do?** More nodes does not mean more stable. Behind each of our regions there are several machines, and on connecting the system picks the least busy one, so you do not have to run speed tests and pick nodes yourself; when an address is blocked it is replaced automatically, and the address in your client does not need changing.
 

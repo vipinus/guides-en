@@ -39,11 +39,11 @@ A few reminders:
 
 ## Don't want to allow it? Use one of these three
 
-They use clients that the vendors themselves have signed and notarized, which **work on macOS with a double-click** and show none of the messages above. The account is the same one, with no extra payment:
+Their clients **work on macOS with a double-click** and show none of the messages above. The account is the same one, with no extra payment:
 
-- **Private network (official Tailscale client)**: vendor-signed, works as soon as it is installed, suitable for leaving on long-term
-- **OpenVPN Connect**: an installer signed by OpenVPN itself; just import the configuration
-- **Cisco Secure Client**: an enterprise-grade client, fully signed, already installed on many company computers
+- **Private network (official Tailscale client)**: works as soon as it is installed, suitable for leaving on long-term
+- **OpenVPN Connect**: OpenVPN’s own installer; just import the configuration
+- **Cisco Secure Client**: an enterprise-grade client, already installed on many company computers
 
 ## FAQ
 
