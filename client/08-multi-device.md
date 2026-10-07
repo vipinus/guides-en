@@ -5,7 +5,7 @@ For people with many devices, the most annoying part is configuring every one of
 ## What you do only once per device
 
 1. Install the Tailscale client (Android, Windows, macOS and Linux from the download area on this site's Private network page; iPhone / iPad from the App Store, which requires an Apple ID outside the China region).
-2. If you have logged in to an official Tailscale account, log out first, then point the login at this site's control server (phone: "⋯" on the logged-out screen → Use custom server; computer: copy the command from the page; macOS: hold Option and click the icon → Debug → Custom Login Server).
+2. If you have logged in to an official Tailscale account, log out first, then point the login at this site's control server (phone: "⋯" on the logged-out screen → Use custom server; computer: copy the command from the page; macOS: Account Settings → Accounts → the arrow next to "Add Account…" → Add Account Using Alternate Server).
 3. Confirm in the browser with your account on this site. From then on the device is in the private network and needs no further attention.
 4. Choose an exit: each device chooses in its own menu, independently of the others. To use no exit, choose None, which keeps only device-to-device access.
 

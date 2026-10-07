@@ -13,11 +13,11 @@ The Private network section uses Tailscale (a networking tool built on WireGuard
 
 ## Logging in
 
-1. **Log out of the official account first** (if you have ever logged in): on a phone, tap your avatar → Log Out; on a computer, run `tailscale logout` (prefix with sudo on Linux). Unless you are fully logged out, the option needed in the next step does not appear.
+1. **Log out of the official account first** (if you have ever logged in): on a phone, tap your avatar → Log Out; on a computer, run `tailscale logout`. Unless you are fully logged out, the option needed in the next step does not appear.
 2. **Point the login at this site**:
    - Phone: on the logged-out screen, tap "⋯" at the top right → Use custom server (called Use an alternate server in some versions), enter the address given on the website's Private network page, and tap Log in.
    - Windows / Linux: copy the `tailscale up --login-server=…` command from the website page and run it in PowerShell / a terminal.
-   - macOS: **hold Option** and click the menu bar icon → Debug → Custom Login Server → Add Account, then enter the address.
+   - macOS: **do not click Log in**. In the Tailscale window, click the arrow on the account row → Account Settings… → Accounts → the small arrow next to "Add Account…" → Add Account Using Alternate Server, paste the address and click Add Account….
 3. The browser opens this site's login page automatically; confirm with your account on this site. When you return to the client it is already online.
 
 ## Choosing an exit
