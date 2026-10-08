@@ -1,6 +1,6 @@
 # 07 · Should you get a router, and how to choose among the four models
 
-> Website version (longer): https://7d24hrs.com/guides/router?utm_source=github&utm_content=router-07
+> Website version (longer): https://www.leotun.com/guides/router?utm_source=github&utm_content=router-07
 
 The router approach solves the problem of "too many devices, and some cannot install a client": the VPN is set up once on the router, and the TV, game console, smart speaker and the elderly family member's phone all go through it automatically, with nothing to install. All it takes is a router that can be flashed and ten minutes of flashing. **Personal, Family and Enterprise accounts can all use a router.**
 
@@ -67,4 +67,4 @@ When not to choose it: for a large home, many devices or broadband above one gig
 **Does the firmware have a backdoor?** It is compiled from OpenWrt, with only the component that connects to the VPN and the split routing rules added; the VPN records only connection duration and total traffic for billing, and does not record what you visit.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=router-07) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=router-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

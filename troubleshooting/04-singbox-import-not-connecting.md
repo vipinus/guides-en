@@ -1,6 +1,6 @@
 # 04 · Hiddify imported but won't connect
 
-> Website version (longer): https://7d24hrs.com/guides/singbox-subscription?utm_source=github&utm_content=troubleshooting-04
+> Website version (longer): https://www.leotun.com/guides/singbox-subscription?utm_source=github&utm_content=troubleshooting-04
 
 Match your error to the table. For how to import in the first place, see [How to use Hiddify subscription links](../client/02-singbox-subscription-links.md).
 
@@ -25,4 +25,4 @@ Match your error to the table. For how to import in the first place, see [How to
 Tell support three things: the client name and version, the region, and the exact error text or a screenshot.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-04) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

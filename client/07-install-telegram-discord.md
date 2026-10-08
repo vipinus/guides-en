@@ -6,7 +6,7 @@ Both are group chat tools widely used by Chinese people overseas, and the suppor
 
 | Platform | How to install |
 |---|---|
-| Windows / macOS / Linux / Android | [This site's Contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-07) distributes installers identical to the official versions (for Android it is the full official APK, with no need for Google Play); you can also go to the official site <https://desktop.telegram.org> or Google Play |
+| Windows / macOS / Linux / Android | [This site's Contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-07) distributes installers identical to the official versions (for Android it is the full official APK, with no need for Google Play); you can also go to the official site <https://desktop.telegram.org> or Google Play |
 | iOS | App Store only; for the store region issue, see [the previous article](06-ios-app-store.md) |
 
 Registering requires a mobile number that can receive SMS. Afterwards you can set a username, and other people don't need to know your number.
@@ -25,4 +25,4 @@ Registering requires a mobile number that can receive SMS. Afterwards you can se
 - If it won't install or it crashes on launch, tell support your system version and device model; in most cases the model or version doesn't match.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-07) team · Got a question? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-07) team · Got a question? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

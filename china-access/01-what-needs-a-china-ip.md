@@ -23,4 +23,4 @@ There is only one test: when the service sees that your source IP is not in main
 Send the traffic first to a server in the mainland, which then visits the target. There are three ways to do this: a client, the web proxy, or a router. For how to choose, see [Which connection method suits which situation](../network/02-choose-your-connection-method.md) in the sister repository.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-01) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-01) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

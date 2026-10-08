@@ -1,6 +1,6 @@
 # 03 · Which region is fastest from inside China: by carrier
 
-> Website version (longer): https://7d24hrs.com/guides/pick-region?utm_source=github&utm_content=overseas-access-03
+> Website version (longer): https://www.leotun.com/guides/pick-region?utm_source=github&utm_content=overseas-access-03
 
 With the same service and the same protocol, speed can differ several times over between regions. The cause is not the server but **the exit route from your carrier to that region**. So when choosing a region, look at the carrier first, then the time of day, and only then the server.
 
@@ -33,4 +33,4 @@ From 8 to 11 pm is the peak. In that period, pick a green-light region or switch
 4. Take the one that is not bad in either test as your default and the other as your backup.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=overseas-access-03) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=overseas-access-03) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-03) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-03) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

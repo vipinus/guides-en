@@ -41,12 +41,12 @@ Keep work accounts and personal accounts apart: do not log in to company account
 
 ## Further reading
 
-- [Proxy setup page: extension install and restore link](https://7d24hrs.com/httpproxy?utm_source=github&utm_content=overseas-access-04)
-- [What the web proxy is and when to use it](https://7d24hrs.com/guides/web-proxy?utm_source=github&utm_content=overseas-access-04)
-- [How to send a Linux server and command-line tools through the line](https://7d24hrs.com/guides/linux-server?utm_source=github&utm_content=overseas-access-04)
-- [Which connection method suits which situation](https://7d24hrs.com/guides/choose-connection?utm_source=github&utm_content=overseas-access-04)
+- [Proxy setup page: extension install and restore link](https://www.leotun.com/httpproxy?utm_source=github&utm_content=overseas-access-04)
+- [What the web proxy is and when to use it](https://www.leotun.com/guides/web-proxy?utm_source=github&utm_content=overseas-access-04)
+- [How to send a Linux server and command-line tools through the line](https://www.leotun.com/guides/linux-server?utm_source=github&utm_content=overseas-access-04)
+- [Which connection method suits which situation](https://www.leotun.com/guides/choose-connection?utm_source=github&utm_content=overseas-access-04)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/office-laptop?utm_source=github&utm_content=overseas-access-04
+Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/office-laptop?utm_source=github&utm_content=overseas-access-04
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=overseas-access-04) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=overseas-access-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

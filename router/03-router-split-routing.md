@@ -1,6 +1,6 @@
 # 03 · What router split routing is
 
-> Website version (longer): https://7d24hrs.com/guides/router-firmware?utm_source=github&utm_content=router-03
+> Website version (longer): https://www.leotun.com/guides/router-firmware?utm_source=github&utm_content=router-03
 
 ## In one sentence
 
@@ -31,4 +31,4 @@ Split routing works by giving the router a list: domains on the list go through 
 Most services bind the router to the account (by MAC address). One account is bound to one router, and you unbind first when switching routers. That way the account stays yours alone.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=router-03) team · Got questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=router-03) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-03) team · Got questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-03) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

@@ -1,6 +1,6 @@
 # 08 · How to choose a China-bound line: where the China IP comes from and where the free ones go wrong
 
-> Website version (longer): https://7d24hrs.com/guides/choose-china-vpn?utm_source=github&utm_content=china-access-08
+> Website version (longer): https://www.leotun.com/guides/choose-china-vpn?utm_source=github&utm_content=china-access-08
 
 A China-bound line does only one thing: it makes the requests you send from overseas arrive at Tencent Video, NetEase Cloud Music or your online bank from a **mainland China** IP. So look at two points first: whether the exit really is a mainland IP, and whether any traffic on the device is bypassing it. Speed, price and the client all come after that.
 
@@ -53,4 +53,4 @@ For looking something up now and then, free is enough. For following series, lis
 **Can I use Clash?** Yes. LeoTun provides both a Hiddify configuration address and a hysteria2 share link, and importing the share link into Clash Meta is enough; after importing, set China domains to go through the node, not to "direct".
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-08) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

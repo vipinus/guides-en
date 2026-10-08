@@ -26,4 +26,4 @@ Some apps also run the region check on the local cache, so songs downloaded befo
 Music uses little traffic, so the **web proxy** or a browser-based method is enough, and the whole device does not need to go through the line. On a phone you can instead send only the music app through the line (per-app proxy) and keep the other apps on the local network, which saves both data and battery.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-05) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

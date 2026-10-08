@@ -44,4 +44,4 @@ After that you do not need to do anything at all. All they see is "the TV can sh
 You can also help them check remotely from abroad. Leave our contact details when you set things up, and when something goes wrong have them send one line, "I can't watch any more"; the rest is for you or support to work out, and they do not need to describe any technical details.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-14) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-14) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-14) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-14) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

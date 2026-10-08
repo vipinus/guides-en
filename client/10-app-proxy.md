@@ -1,6 +1,6 @@
 # 10 · What to do when Dropbox and other software ask for an HTTP / SOCKS proxy
 
-> Website version (longer): https://7d24hrs.com/guides/app-proxy?utm_source=github&utm_content=client-10
+> Website version (longer): https://www.leotun.com/guides/app-proxy?utm_source=github&utm_content=client-10
 
 **First, how things stand: a proxy has to be encrypted.** Unencrypted proxies (plain HTTP, SOCKS4, SOCKS5) are identified and interfered with on networks in China; after a short while the connection slows down or drops, and the account and password travel in clear text as well. Only encrypted connections stay usable over the long term, so this site's web proxy uses encrypted connections throughout; **for software that accepts only HTTP / SOCKS5, let Hiddify take over the whole machine** (see below).
 
@@ -52,4 +52,4 @@ With "automatic routing" on, overseas services such as Dropbox go through the li
 **Can I do without Hiddify?** Yes. Cisco, the private network and OpenVPN also take over the whole machine, and the software is likewise set to "No proxy". The advantage of Hiddify is built-in routing and better speed on networks with heavy packet loss.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-10) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-10) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-10) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

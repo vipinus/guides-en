@@ -1,12 +1,12 @@
 # 04 · OpenVPN: download the .ovpn profile, import it and connect; works on routers, NAS and Linux
 
-> Website version (longer): https://7d24hrs.com/guides/openvpn-setup?utm_source=github&utm_content=client-04
+> Website version (longer): https://www.leotun.com/guides/openvpn-setup?utm_source=github&utm_content=client-04
 
 OpenVPN is a long-established open-source protocol, and almost every operating system, router firmware and NAS ships with a client for it. LeoTun's profile files already include your account, password and encryption material, so you can connect as soon as you import one. For everyday use on phones and computers, AnyConnect or Hiddify is less effort; OpenVPN's value lies in **places that accept only OpenVPN**: OpenWrt routers, Synology / QNAP NAS, Linux servers and older devices.
 
 ## Three steps
 
-1. From the table on [the OpenVPN page of the website](https://7d24hrs.com/openvpn?utm_source=github&utm_content=client-04), install the client for your system (every platform has the official OpenVPN Connect; on Windows you can also use OpenVPN GUI, and on macOS Tunnelblick).
+1. From the table on [the OpenVPN page of the website](https://www.leotun.com/openvpn?utm_source=github&utm_content=client-04), install the client for your system (every platform has the official OpenVPN Connect; on Windows you can also use OpenVPN GUI, and on macOS Tunnelblick).
 2. After logging in, **click a region's flag** to download that region's .ovpn. One file per region.
 3. Open the file in the client and connect.
 
@@ -43,4 +43,4 @@ Both are available and you don't have to choose. UDP comes first in the profile,
 The profile file contains your account and password, which makes it equivalent to the account itself, so don't pass it on; if it leaks, change your password on the website and the old file stops working immediately. The handshake itself is also encrypted: without the key in the profile, a handshake cannot even be started, and the server is invisible to scanners.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-04) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

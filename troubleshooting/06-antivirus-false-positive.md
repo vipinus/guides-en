@@ -1,6 +1,6 @@
 # 06 · What to do when your Mac says the app "is damaged"
 
-> Website version (longer): https://7d24hrs.com/guides/antivirus-false-positive?utm_source=github&utm_content=troubleshooting-06
+> Website version (longer): https://www.leotun.com/guides/antivirus-false-positive?utm_source=github&utm_content=troubleshooting-06
 
 The conclusion first: the file is not broken, and nobody has tampered with it. When double-clicking Hiddify on a Mac shows "is damaged and can't be opened" or "the developer cannot be verified", it is the system's Gatekeeper blocking it; follow the steps below to allow it.
 
@@ -64,4 +64,4 @@ On iOS, installing from the App Store, the problem does not exist. Android occas
 
 ---
 
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-06) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-06) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-06) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

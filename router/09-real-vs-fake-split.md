@@ -1,6 +1,6 @@
 # 09 · How the router's split routing works
 
-> Website version (longer): https://7d24hrs.com/guides/router-smart-split?utm_source=github&utm_content=router-09
+> Website version (longer): https://www.leotun.com/guides/router-smart-split?utm_source=github&utm_content=router-09
 
 They are all called "smart split routing", yet some routers just feel awkward to use. For what split routing is, see [03](03-router-split-routing.md); this article only covers what split routing should do, the symptoms you see when part of it is missing, and how our router does it.
 
@@ -60,4 +60,4 @@ None of these **produces an error**. The router shows "Connected" the whole time
 **Will it affect printers or NAS?** No. Devices on the home network are reached directly as usual.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=router-09) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=router-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

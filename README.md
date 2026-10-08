@@ -1,6 +1,6 @@
 # LeoTun Knowledge Base
 
-How cross-border access works, how to set up each client, routers and home networks, and troubleshooting. One topic per article, in plain language. Maintained by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=readme) team.
+How cross-border access works, how to set up each client, routers and home networks, and troubleshooting. One topic per article, in plain language. Maintained by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=readme) team.
 
 Other languages: [简体中文](https://github.com/vipinus/guides-zh-CN) · [繁體中文](https://github.com/vipinus/guides-zh-TW)
 
@@ -11,7 +11,7 @@ Other languages: [简体中文](https://github.com/vipinus/guides-zh-CN) · [繁
 | Claim the free trial after signing up | 24 hours with every feature, no credit card |
 | Invite a friend who signs up and pays for the first time | +30 days on your expiry date (+15 days on Family, +7.5 days on Enterprise), once per friend, no limit on the number of friends |
 
-Website: <https://7d24hrs.com?utm_source=github&utm_content=readme> · Contact us: <https://7d24hrs.com/contact?utm_source=github&utm_content=readme>
+Website: <https://www.leotun.com?utm_source=github&utm_content=readme> · Contact us: <https://www.leotun.com/contact?utm_source=github&utm_content=readme>
 
 ## Contents
 

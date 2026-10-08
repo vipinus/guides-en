@@ -1,6 +1,6 @@
 # 02 · Watching Chinese video from abroad
 
-> Website version (longer): https://7d24hrs.com/guides/overseas-video?utm_source=github&utm_content=china-access-02
+> Website version (longer): https://www.leotun.com/guides/overseas-video?utm_source=github&utm_content=china-access-02
 
 ## Why you cannot watch
 
@@ -35,4 +35,4 @@ TVs and set-top boxes cannot install a client, so there are two routes:
 1080p needs a steady 5 Mbps or more. If playback stutters at the evening peak, pick a green-light region or switch connection method; if it still stutters, the usual cause is the local broadband. Choosing an entry point that is close to you and has an optimised line to the mainland works better than changing platform.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-02) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

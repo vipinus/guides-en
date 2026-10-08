@@ -27,4 +27,4 @@ Both are more tolerant of IP than banks are, and they usually work from an overs
 Do not do banking on public Wi-Fi, whether or not you are going through the line. The line only changes your exit IP and does not encrypt anything for you beyond the bank; the banking app's own encryption is where the security comes from.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-04) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

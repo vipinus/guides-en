@@ -43,4 +43,4 @@ When the site you open is slow, the line is not necessarily slow. Some Chinese v
 **Closer is not necessarily faster.** Network traffic follows the interconnection paths between carriers, not the straight-line distance on a map. Sometimes going the long way round is actually faster, and sometimes the same region is completely different in speed at different times of day. So there is no standard answer to "which region is fastest"; you can only try.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-06) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-06) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-06) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

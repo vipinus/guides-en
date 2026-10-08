@@ -1,6 +1,6 @@
 # 07 · Viewing your home cameras in China from abroad
 
-> Website version (longer): https://7d24hrs.com/guides/home-camera?utm_source=github&utm_content=china-access-07
+> Website version (longer): https://www.leotun.com/guides/home-camera?utm_source=github&utm_content=china-access-07
 
 ## Three cases, each with a different fix
 
@@ -35,4 +35,4 @@ A device bought in China is bound to a Chinese account, and the app from the ove
 The picture from your home cameras should only flow between your devices and your home. The private network option prefers a direct peer-to-peer connection and only forwards through a relay when a direct connection cannot be made, and the picture is not stored on any server; the vendor cloud option, by contrast, passes through the vendor. In either case do not use "tunnelling tools" of unknown origin, which amounts to handing your home cameras to someone else.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-07) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

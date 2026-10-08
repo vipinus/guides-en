@@ -1,8 +1,8 @@
 # 05 · How to reach us, and how not to lose touch
 
-> Website version (longer): https://7d24hrs.com/guides/stay-in-touch?utm_source=github&utm_content=troubleshooting-05
+> Website version (longer): https://www.leotun.com/guides/stay-in-touch?utm_source=github&utm_content=troubleshooting-05
 
-The [Contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-05) lists three support groups (QQ, Telegram, Discord), the support email address and the human support QQ account. In all three groups the AI support agent "SpongeBob" (海绵宝宝) is on call 24 hours a day, and the group owner and human support staff are there too. For how to ask so that it answers most accurately, see [10](10-ask-ai-support.md).
+The [Contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-05) lists three support groups (QQ, Telegram, Discord), the support email address and the human support QQ account. In all three groups the AI support agent "SpongeBob" (海绵宝宝) is on call 24 hours a day, and the group owner and human support staff are there too. For how to ask so that it answers most accurately, see [10](10-ask-ai-support.md).
 
 ## Which of the three groups to choose
 
@@ -22,12 +22,12 @@ If you join only one: in China, join the QQ group first and add Telegram once th
 
 ## Checklist for not losing touch
 
-1. **Remember the three domains and their order**: `7d24hrs.com` → `7x24btc.com` → `anyfq.com`. The content is the same and your account works on all of them; if one will not open, try the next. Save them as bookmarks.
+1. **Remember the four domains and their order**: `leotun.com` → `7d24hrs.com` → `7x24btc.com` → `anyfq.com`. The content is the same and your account works on all of them; if one will not open, try the next. Save them as bookmarks.
 2. **Join at least one group**. When a domain is blocked, the new address is posted in the groups first; the group invite links do not depend on the website's domain. In China the QQ group does not need the VPN and is the last fallback.
 3. **Install the client and log in ahead of time**. The server addresses are replaced automatically, and the website being unreachable does not stop an already configured client from connecting; open the website after you are connected.
 4. **Keep your registered email address valid**, and add the support email address to your whitelist: expiry reminders, win-back emails, trial codes and domain change notices all come from there.
 5. **The GitHub knowledge base** has the current website address and group links at the top of its README. Most networks in China can open it directly, so it is a backup route too.
-6. When recommending us to friends, give them `7d24hrs.com`. It is the domain dedicated to public use; if it is blocked we switch to a mirror, and existing users are not affected.
+6. When recommending us to friends, give them `www.leotun.com`. It is the domain dedicated to public use; if it is blocked we switch to a mirror, and existing users are not affected.
 
 ## Security reminders
 
@@ -36,4 +36,4 @@ If you join only one: in China, join the QQ group first and add Telegram once th
 - Do not post configuration files, QR codes or subscription links in the groups — they are equivalent to your account.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-05) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

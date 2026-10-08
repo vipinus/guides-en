@@ -63,12 +63,12 @@ Each network has a method that suits it best, so you get all six: with the same 
 
 ## Further reading
 
-- [Which connection method suits which situation](https://7d24hrs.com/guides/choose-connection?utm_source=github&utm_content=network-04)
-- [How to spot risky VPN software](https://7d24hrs.com/guides/risky-vpn-apps?utm_source=github&utm_content=network-04)
-- [China-bound VPN: free or paid](https://7d24hrs.com/guides/free-vs-paid?utm_source=github&utm_content=network-04)
-- [About us: how it is built and what we record](https://7d24hrs.com/about?utm_source=github&utm_content=network-04)
+- [Which connection method suits which situation](https://www.leotun.com/guides/choose-connection?utm_source=github&utm_content=network-04)
+- [How to spot risky VPN software](https://www.leotun.com/guides/risky-vpn-apps?utm_source=github&utm_content=network-04)
+- [China-bound VPN: free or paid](https://www.leotun.com/guides/free-vs-paid?utm_source=github&utm_content=network-04)
+- [About us: how it is built and what we record](https://www.leotun.com/about?utm_source=github&utm_content=network-04)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/why-us?utm_source=github&utm_content=network-04
+Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-04) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

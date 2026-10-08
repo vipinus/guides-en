@@ -70,12 +70,12 @@ If a site will not open under split routing, first switch to "Global" temporaril
 
 ## Further reading
 
-- [How we differ from other VPNs](https://7d24hrs.com/guides/why-us?utm_source=github&utm_content=network-02)
-- [What the Private network (Tailscale) is](https://7d24hrs.com/guides/tailscale-mesh?utm_source=github&utm_content=network-02)
-- [How to use OpenVPN and when to choose it](https://7d24hrs.com/guides/openvpn-setup?utm_source=github&utm_content=network-02)
-- [What the web proxy is and when to use it](https://7d24hrs.com/guides/web-proxy?utm_source=github&utm_content=network-02)
+- [How we differ from other VPNs](https://www.leotun.com/guides/why-us?utm_source=github&utm_content=network-02)
+- [What the Private network (Tailscale) is](https://www.leotun.com/guides/tailscale-mesh?utm_source=github&utm_content=network-02)
+- [How to use OpenVPN and when to choose it](https://www.leotun.com/guides/openvpn-setup?utm_source=github&utm_content=network-02)
+- [What the web proxy is and when to use it](https://www.leotun.com/guides/web-proxy?utm_source=github&utm_content=network-02)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/choose-connection?utm_source=github&utm_content=network-02
+Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=network-02) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=network-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date

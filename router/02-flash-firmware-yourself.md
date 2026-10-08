@@ -1,8 +1,8 @@
 # 02 · Flashing the firmware yourself: from stock to ours, step by step (with video)
 
-> Video tutorial (about two and a half minutes, English or Chinese narration): https://7d24hrs.com/video/router-flash?utm_source=github&utm_content=router-02
+> Video tutorial (about two and a half minutes, English or Chinese narration): https://www.leotun.com/video/router-flash?utm_source=github&utm_content=router-02
 >
-> Website version: https://7d24hrs.com/guides/router-flash?utm_source=github&utm_content=router-02
+> Website version: https://www.leotun.com/guides/router-flash?utm_source=github&utm_content=router-02
 
 This is for people who already have a router whose model is on the supported list. You have a router still running its stock system, and we go from opening the website to the whole household being connected — what to click at each step, what you will see, and where people slip up. The demonstration uses a GL.iNet GL-MT3000. Other models follow the same steps; only the stock admin panel looks different. If you would rather not do this yourself, a pre-installed router is less trouble: see [01](01-plug-and-play-router.md). For which model to pick, see [07](07-which-router-to-buy.md).
 
@@ -131,4 +131,4 @@ Most routers have a recovery mode: unplug the power, hold the reset button while
 **Do future updates need a re-flash?** Routine updates are picked up by the router on its own; you do not have to do anything. Only a major version needs a fresh build and one flash of the sysupgrade file, and the website will announce it when that happens.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=router-02) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=router-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

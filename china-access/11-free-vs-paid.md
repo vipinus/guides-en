@@ -52,12 +52,12 @@ When a friend you invite signs up and pays for the first time, your validity is 
 
 ## Further reading
 
-- [Pricing and free trial](https://7d24hrs.com?utm_source=github&utm_content=china-access-11)
-- [How to choose a China-bound VPN](https://7d24hrs.com/guides/choose-china-vpn?utm_source=github&utm_content=china-access-11)
-- [What to do when Tencent Video shows a copyright restriction notice abroad](https://7d24hrs.com/guides/overseas-video?utm_source=github&utm_content=china-access-11)
-- [How overseas students should set up a China-bound VPN](https://7d24hrs.com/guides/students?utm_source=github&utm_content=china-access-11)
+- [Pricing and free trial](https://www.leotun.com?utm_source=github&utm_content=china-access-11)
+- [How to choose a China-bound VPN](https://www.leotun.com/guides/choose-china-vpn?utm_source=github&utm_content=china-access-11)
+- [What to do when Tencent Video shows a copyright restriction notice abroad](https://www.leotun.com/guides/overseas-video?utm_source=github&utm_content=china-access-11)
+- [How overseas students should set up a China-bound VPN](https://www.leotun.com/guides/students?utm_source=github&utm_content=china-access-11)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
+Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-11) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-11) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-11) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-11) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

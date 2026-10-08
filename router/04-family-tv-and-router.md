@@ -1,6 +1,6 @@
 # 04 · For elderly family members and the TV
 
-> Website version (longer): https://7d24hrs.com/guides/family-tv?utm_source=github&utm_content=router-04
+> Website version (longer): https://www.leotun.com/guides/family-tv?utm_source=github&utm_content=router-04
 
 ## The situation
 
@@ -29,4 +29,4 @@ They do not need to know the word "VPN". iQIYI and Yangshipin (CCTV) on the TV o
 In split routing mode, local bank websites, local streaming services and printers keep connecting directly. Only the Chinese domains on the list go through the line for reaching China. This is also why split routing is recommended rather than Global.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=router-04) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=router-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

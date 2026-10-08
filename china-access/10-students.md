@@ -58,12 +58,12 @@ When connecting from inside China, the AnyConnect and Hiddify addresses change a
 
 ## Further reading
 
-- [What to do when Tencent Video shows a copyright restriction notice abroad](https://7d24hrs.com/guides/overseas-video?utm_source=github&utm_content=china-access-10)
-- [How to choose a China-bound VPN](https://7d24hrs.com/guides/choose-china-vpn?utm_source=github&utm_content=china-access-10)
-- [AnyConnect client download](https://7d24hrs.com/anyconnect?utm_source=github&utm_content=china-access-10)
-- [Hiddify client and subscription import](https://7d24hrs.com/singbox?utm_source=github&utm_content=china-access-10)
+- [What to do when Tencent Video shows a copyright restriction notice abroad](https://www.leotun.com/guides/overseas-video?utm_source=github&utm_content=china-access-10)
+- [How to choose a China-bound VPN](https://www.leotun.com/guides/choose-china-vpn?utm_source=github&utm_content=china-access-10)
+- [AnyConnect client download](https://www.leotun.com/anyconnect?utm_source=github&utm_content=china-access-10)
+- [Hiddify client and subscription import](https://www.leotun.com/singbox?utm_source=github&utm_content=china-access-10)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/students?utm_source=github&utm_content=china-access-10
+Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-10) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-10) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-10) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

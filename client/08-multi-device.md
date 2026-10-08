@@ -41,12 +41,12 @@ A router counts as one device, and the devices behind it are not counted. One ro
 
 ## Further reading
 
-- [Private network page: download and login steps](https://7d24hrs.com/mesh?utm_source=github&utm_content=client-08)
-- [What the private network (Tailscale) is](https://7d24hrs.com/guides/tailscale-mesh?utm_source=github&utm_content=client-08)
-- [Viewing your home cameras and NAS in China from abroad](https://7d24hrs.com/guides/home-camera?utm_source=github&utm_content=client-08)
-- [What the router firmware can do](https://7d24hrs.com/guides/router-firmware?utm_source=github&utm_content=client-08)
+- [Private network page: download and login steps](https://www.leotun.com/mesh?utm_source=github&utm_content=client-08)
+- [What the private network (Tailscale) is](https://www.leotun.com/guides/tailscale-mesh?utm_source=github&utm_content=client-08)
+- [Viewing your home cameras and NAS in China from abroad](https://www.leotun.com/guides/home-camera?utm_source=github&utm_content=client-08)
+- [What the router firmware can do](https://www.leotun.com/guides/router-firmware?utm_source=github&utm_content=client-08)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/multi-device?utm_source=github&utm_content=client-08
+Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=client-08) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=client-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer

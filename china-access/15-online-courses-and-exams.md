@@ -47,4 +47,4 @@ For more points to watch with online banking, see [04 · Online banking and paym
 Quite a few universities give students a campus VPN for reaching library databases. That is a different thing from what is discussed here, and the two do not conflict: the campus VPN solves "whether you have permission to use this database", but you first have to be able to reach the university's servers. The two can be used on top of each other.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-15) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-15) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-15) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-15) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

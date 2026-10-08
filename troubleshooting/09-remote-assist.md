@@ -16,7 +16,7 @@ In the following case **do not use remote assistance**; communicate in text in t
 
 The website recommends [RustDesk](https://rustdesk.com): it is open source (AGPL-3.0), so the code can be audited by anyone; and when a session starts and when it ends are both decided by your own click. It supports Windows, macOS, Linux, Android and iOS (an iPhone / iPad can only control others; it cannot be controlled).
 
-Download it from the [Contact page](https://7d24hrs.com/contact#downloads) under "Download center" → "Remote assistance", or from the official site rustdesk.com. Do not use third-party download sites from search results. Both sides of the session need to install it.
+Download it from the [Contact page](https://www.leotun.com/contact#downloads) under "Download center" → "Remote assistance", or from the official site rustdesk.com. Do not use third-party download sites from search results. Both sides of the session need to install it.
 
 ## What to authorise after installing
 
@@ -30,7 +30,7 @@ Download it from the [Contact page](https://7d24hrs.com/contact#downloads) under
 
 Remote assistance runs through this site's self-hosted RustDesk server, which also connects reliably from inside China. **Both sides of the session need to import it once**; the two ends can only find each other when they use the same server:
 
-1. Log in to the website first, then on the [Contact page](https://7d24hrs.com/contact#downloads) go to "Download center" → "Remote assistance" → "Connect to our server" and click "Copy".
+1. Log in to the website first, then on the [Contact page](https://www.leotun.com/contact#downloads) go to "Download center" → "Remote assistance" → "Connect to our server" and click "Copy".
 2. On a computer, open RustDesk "Settings → Network", click "Unlock network settings" first, then click "ID/Relay server"; on a phone it is "Settings → ID/Relay server".
 3. In the window that pops up, click the clipboard icon at the top right (on a phone tap "Import"). The configuration is filled in automatically; click "OK".
 
@@ -40,7 +40,7 @@ Remote assistance runs through this site's self-hosted RustDesk server, which al
 
 Open RustDesk and the main screen shows this machine's ID and a one-time password. Before handing them over, confirm three things:
 
-1. **You asked first.** You described the problem in an official group listed on the [Contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-09), and support decided remote assistance was needed, before moving on to the next step. Our support staff will not approach you on their own, ask you to install remote software, or ask for a connection code; whoever comes asking, verify in the official group first.
+1. **You asked first.** You described the problem in an official group listed on the [Contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-09), and support decided remote assistance was needed, before moving on to the next step. Our support staff will not approach you on their own, ask you to install remote software, or ask for a connection code; whoever comes asking, verify in the official group first.
 2. **Send them only through official support channels**: the human support contacts listed on the Contact page. Any private chat outside the groups claiming to be "LeoTun support" (雷顿（原蓝盾）客服) is not us.
 3. **Do not post them in the group.** A group is a place many people can see; an ID plus a password is the same as sticking your computer's key on the door.
 
@@ -76,11 +76,11 @@ For a router running this site's firmware, you do not need to install any remote
 
 ## Further reading
 
-- [How to use RustDesk remote assistance (website guide)](https://7d24hrs.com/guides/rustdesk-certificate?utm_source=github&utm_content=troubleshooting-09)
-- [What to do when your Mac says the app "is damaged"](https://7d24hrs.com/guides/antivirus-false-positive?utm_source=github&utm_content=troubleshooting-09)
-- [Contact page: support groups, human support and email](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-09)
+- [How to use RustDesk remote assistance (website guide)](https://www.leotun.com/guides/rustdesk-certificate?utm_source=github&utm_content=troubleshooting-09)
+- [What to do when your Mac says the app "is damaged"](https://www.leotun.com/guides/antivirus-false-positive?utm_source=github&utm_content=troubleshooting-09)
+- [Contact page: support groups, human support and email](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-09)
 - [05 · How to reach us, and how not to lose touch](05-how-to-reach-us.md)
 - [01 · Checklist for can't connect, slow, and dropped connections](01-cannot-connect-slow-drops.md)
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=troubleshooting-09) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=troubleshooting-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

@@ -27,4 +27,4 @@ Your traffic is first encrypted and sent to an overseas server, which then acces
 - **While you are using Chinese apps, not everything has to go through the line.** Turn on split routing: Chinese sites connect directly and overseas sites go through the line, so neither takes a detour; see [Router split routing](../router/03-router-split-routing.md).
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=overseas-access-01) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=overseas-access-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-01) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

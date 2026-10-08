@@ -6,7 +6,7 @@ For a short trip abroad or a business trip back to China you do not need a route
 
 1. Install Cisco Secure Client on your phone (App Store / Google Play, or the installer from the Cisco page on this site), log in to this site and click a flag to copy a region's address and enter it, then connect once with your account and password for this site to confirm it works.
 2. Copy the addresses of two more regions and save them in the client: one near your destination and one as a backup. The network there will be different, and the best region is often not the same.
-3. Note down the three domains (7d24hrs.com → 7x24btc.com → anyfq.com) and the entry to at least one support group, so that you can find someone if something goes wrong in a place where you do not know the network.
+3. Note down the four domains (leotun.com → 7d24hrs.com → 7x24btc.com → anyfq.com) and the entry to at least one support group, so that you can find someone if something goes wrong in a place where you do not know the network.
 4. Install one on your laptop as well, or use the web proxy extension; when a company computer cannot install a client, it still works.
 
 ## After you land
@@ -39,12 +39,12 @@ SMS verification codes that never arrive have nothing to do with the line; it is
 
 ## Further reading
 
-- [Cisco AnyConnect download and setup](https://7d24hrs.com/anyconnect?utm_source=github&utm_content=china-access-12)
-- [How overseas students should set up a China-bound VPN](https://7d24hrs.com/guides/students?utm_source=github&utm_content=china-access-12)
-- [How to contact us and how not to lose touch](https://7d24hrs.com/guides/stay-in-touch?utm_source=github&utm_content=china-access-12)
-- [China-bound VPN: free or paid](https://7d24hrs.com/guides/free-vs-paid?utm_source=github&utm_content=china-access-12)
+- [Cisco AnyConnect download and setup](https://www.leotun.com/anyconnect?utm_source=github&utm_content=china-access-12)
+- [How overseas students should set up a China-bound VPN](https://www.leotun.com/guides/students?utm_source=github&utm_content=china-access-12)
+- [How to contact us and how not to lose touch](https://www.leotun.com/guides/stay-in-touch?utm_source=github&utm_content=china-access-12)
+- [China-bound VPN: free or paid](https://www.leotun.com/guides/free-vs-paid?utm_source=github&utm_content=china-access-12)
 
-Website version of this article (also in Traditional Chinese and English): https://7d24hrs.com/guides/travel?utm_source=github&utm_content=china-access-12
+Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=china-access-12) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=china-access-12) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-12) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-12) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term

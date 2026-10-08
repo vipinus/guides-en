@@ -1,6 +1,6 @@
 # 02 · Does Cisco AnyConnect work in China
 
-> Website version (longer): https://7d24hrs.com/guides/anyconnect-china?utm_source=github&utm_content=overseas-access-02
+> Website version (longer): https://www.leotun.com/guides/anyconnect-china?utm_source=github&utm_content=overseas-access-02
 
 Yes. AnyConnect is Cisco's enterprise VPN protocol. Companies all over the world rely on it for remote work, and the China branches of foreign companies use it every day, so the cost of banning it outright is too high. **What actually gets blocked is one particular server address, not the protocol.** So "does it work" depends on whether the provider has enough addresses and replaces them quickly enough.
 
@@ -42,4 +42,4 @@ Cisco has renamed it Cisco Secure Client; it is used the same way. There is no n
 **Does it disconnect by itself after being connected for a long time?** Not because of time. When the account expires the server disconnects you; renew and reconnect.
 
 ---
-Compiled by the [LeoTun](https://7d24hrs.com?utm_source=github&utm_content=overseas-access-02) team · Questions? See the [contact page](https://7d24hrs.com/contact?utm_source=github&utm_content=overseas-access-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
