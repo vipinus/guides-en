@@ -41,7 +41,7 @@ Remote assistance runs through this site's self-hosted RustDesk server, which al
 Open RustDesk and the main screen shows this machine's ID and a one-time password. Before handing them over, confirm three things:
 
 1. **You asked first.** You described the problem in an official group listed on the [Contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-09), and support decided remote assistance was needed, before moving on to the next step. Our support staff will not approach you on their own, ask you to install remote software, or ask for a connection code; whoever comes asking, verify in the official group first.
-2. **Send them only through official support channels**: the human support contacts listed on the Contact page. Any private chat outside the groups claiming to be "LeoTun support" (雷腾（原蓝盾）客服) is not us.
+2. **Send them only through official support channels**: the human support contacts listed on the Contact page. Any private chat outside the groups claiming to be "LeoTun support" is not us.
 3. **Do not post them in the group.** A group is a place many people can see; an ID plus a password is the same as sticking your computer's key on the door.
 
 ## During the session
