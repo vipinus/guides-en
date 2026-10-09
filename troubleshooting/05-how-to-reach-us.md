@@ -31,7 +31,7 @@ If you join only one: in China, join the QQ group first and add Telegram once th
 
 ## Security reminders
 
-- The only official groups are the few on the Contact page. Any "LeoTun group" (雷腾群, formerly 蓝盾群) or "support private chat" elsewhere is not us.
+- The only official groups are the few on the Contact page. Any "LeoTun group" or "support private chat" elsewhere is not us.
 - The group owner and support staff will never message you privately to ask for a password, a verification code or a payment.
 - Do not post configuration files, QR codes or subscription links in the groups — they are equivalent to your account.
 

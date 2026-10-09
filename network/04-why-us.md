@@ -59,7 +59,6 @@ Each network has a method that suits it best, so you get all six: with the same 
 
 **How can I verify what you say?** Get the 24-hour trial, connect to the China region at the evening peak and watch an episode on Tencent Video, connect to an overseas region and open YouTube, and check the IP's registered location and an IPv6 test page. The checklist is in "How to choose a China-bound VPN".
 
-**Who were you before the rename to LeoTun?** Before August 2026 we were called ViPiN: the same company, the same team, the same service. Accounts and prices did not change; only the name did.
 
 ## Further reading
 
