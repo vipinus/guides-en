@@ -1,6 +1,6 @@
 # 04 · How we differ from other VPNs
 
-VPNs on the market fall roughly into three kinds: big international brands aimed at users worldwide, the "airport" services known in Chinese-speaking circles (resold subscription proxies), and all sorts of free software. LeoTun has run its own servers since 2007 and does only one thing: keeping the connection stable in both directions for users in mainland China and for overseas Chinese. This article sets us side by side with the three kinds of product, item by item, showing who each one suits and how we do things, so you can see clearly before paying.
+VPNs on the market fall roughly into three kinds: big international brands aimed at users worldwide, the "airport" services known in Chinese-speaking circles (resold subscription proxies), and all sorts of free software. LeoTun has run its own servers since 2006 and does only one thing: keeping the connection stable in both directions for users in mainland China and for overseas Chinese. This article sets us side by side with the three kinds of product, item by item, showing who each one suits and how we do things, so you can see clearly before paying.
 
 ## Our positioning in one sentence
 
@@ -19,7 +19,7 @@ Conversely, when overseas Chinese need to reach services in China, they simply s
 
 - Strengths of airport services: cheap, many nodes, usable as soon as you paste a subscription link, and people who like tinkering with clients enjoy the freedom.
 - Weaknesses of airport services: most are individuals or small teams renting overseas machines and reselling traffic, with no landing in China of their own, and exit quality varies with the rented lines; disappearing with the money, renaming and shutting down are common, and paying for a year does not mean you get to use the full year; clients are almost entirely left to users to work out for themselves, and nobody is responsible when something goes wrong.
-- What we do: the machines are our own, and the China exits are our own real-name-registered machines at mainland cloud providers; one account has six connection methods, and the whole-device router solution and the 24-hour support group are things airport services do not have; we have operated from 2007 to today, and accounts, validity periods and prices did not change before or after the rename.
+- What we do: the machines are our own, and the China exits are our own real-name-registered machines at mainland cloud providers; one account has six connection methods, and the whole-device router solution and the 24-hour support group are things airport services do not have; we have operated from 2006 to today, and accounts, validity periods and prices did not change before or after the rename.
 - Our pricing: Personal plan $4 per month, Family plan $8, Enterprise plan $16, which covers our own machines, six connection methods and the 24-hour support group; you choose only the region, and behind each region the system picks the least busy machine, so there is no need to speed-test and pick nodes yourself.
 
 ## Compared with free software
