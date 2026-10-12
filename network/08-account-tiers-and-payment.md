@@ -82,11 +82,11 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 | | Personal | Family | Enterprise |
 |---|---|---|---|
 | Free trial | 24 hours | 12 hours | 6 hours |
-| For each invited friend's first payment | +30 days | +15 days | +7.5 days |
+| For each invited friend's first payment (you and your friend each get) | +20 days | +10 days | +5 days |
 | Service included with a router purchase (24-month models) | 24 months | 12 months | 6 months |
 
 - Trial: claim it on the home page after registering, no credit card needed; a trial code is sent to your email, and you enter the 6-digit code to activate; once per account. A new account is on the Personal plan, so what you normally get is 24 hours.
-- Invitation: after a friend registers through your referral link and completes their first payment, your validity is extended directly, with no limit on the number of people. The days are calculated by the plan you are on at that time.
+- Invitation: after a friend registers through your referral link and completes their first payment, your validity and your friend's are both extended directly, with no limit on the number of people. Each side's days are calculated by the plan that person is on at that time.
 - These figures are all converted in inverse proportion to the price multiple, so the value you get is the same whichever plan you change to.
 
 ## After expiry
@@ -117,4 +117,4 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 - [FAQ and contacting support](https://www.leotun.com/contact?utm_source=github&utm_content=network-08)
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date

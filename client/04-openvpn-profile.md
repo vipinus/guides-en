@@ -43,4 +43,4 @@ Both are available and you don't have to choose. UDP comes first in the profile,
 The profile file contains your account and password, which makes it equivalent to the account itself, so don't pass it on; if it leaks, change your password on the website and the old file stops working immediately. The handshake itself is also encrypted: without the key in the profile, a handshake cannot even be started, and the server is invisible to scanners.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer

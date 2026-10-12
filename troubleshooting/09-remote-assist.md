@@ -83,4 +83,4 @@ For a router running this site's firmware, you do not need to install any remote
 - [01 · Checklist for can't connect, slow, and dropped connections](01-cannot-connect-slow-drops.md)
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

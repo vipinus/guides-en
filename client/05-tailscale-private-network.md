@@ -37,4 +37,4 @@ The Private network section uses Tailscale (a networking tool built on WireGuard
 - On a campus / company network that restricts UDP: WireGuard runs over UDP, so it can only go through relays, which is very slow; switch to AnyConnect.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer

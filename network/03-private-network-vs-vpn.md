@@ -31,4 +31,4 @@ A device's login validity follows the account's expiry date; it goes offline wit
 For installation and login steps see [Client guide 05](../client/05-tailscale-private-network.md).
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-03) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-03) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite earns you 30 days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-03) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-03) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date

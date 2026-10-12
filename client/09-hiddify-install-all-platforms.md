@@ -103,4 +103,4 @@ For the difference between the three kinds of link, how to import into other cli
 - [What to do when iOS won't let you install an app](https://www.leotun.com/guides/ios-app-store?utm_source=github&utm_content=client-09)
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer

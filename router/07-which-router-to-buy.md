@@ -67,4 +67,4 @@ When not to choose it: for a large home, many devices or broadband above one gig
 **Does the firmware have a backdoor?** It is compiled from OpenWrt, with only the component that connects to the VPN and the split routing rules added; the VPN records only connection duration and total traffic for billing, and does not record what you visit.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-07) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

@@ -49,4 +49,4 @@ Keep work accounts and personal accounts apart: do not log in to company account
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/office-laptop?utm_source=github&utm_content=overseas-access-04
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

@@ -131,4 +131,4 @@ Most routers have a recovery mode: unplug the power, hold the reset button while
 **Do future updates need a re-flash?** Routine updates are picked up by the router on its own; you do not have to do anything. Only a major version needs a fresh build and one flash of the sysupgrade file, and the website will announce it when that happens.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-02) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

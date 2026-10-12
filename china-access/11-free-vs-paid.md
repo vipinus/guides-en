@@ -28,7 +28,7 @@ LeoTun's Personal plan is 4 US dollars a month and includes 24 regions, 2 device
 
 If you do not want to buy by the month, there are two routes: first claim the 24-hour free trial (no credit card needed, once per account) and try it once at the evening peak; or pay by the day. After topping up credits, the Personal plan costs 1 credit a day, and 25 credits cost 8 US dollars, which works out at about 0.32 US dollars a day; buying just a few days before a trip back to China fits well.
 
-When a friend you invite signs up and pays for the first time, your validity is extended by 30 days, with no limit on the number of people. This is a long-term source of free time.
+When a friend you invite signs up and pays for the first time, your validity and your friend's are each extended by 20 days (Personal-plan basis), with no limit on the number of people. This is a long-term source of free time.
 
 ## How to check the goods before paying
 
@@ -60,4 +60,4 @@ When a friend you invite signs up and pays for the first time, your validity is 
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-11) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-11) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-11) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-11) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

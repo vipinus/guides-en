@@ -36,4 +36,4 @@ If you join only one: in China, join the QQ group first and add Telegram once th
 - Do not post configuration files, QR codes or subscription links in the groups — they are equivalent to your account.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite friends and get 30 days for each one, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-05) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
