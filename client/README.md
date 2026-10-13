@@ -7,7 +7,7 @@ Step-by-step instructions for **installing and connecting** each access method: 
 | Article |
 |---|
 | [01 · Cisco AnyConnect: installing, connecting and updating on every platform](01-anyconnect-install.md) |
-| [02 · Hiddify subscription links, import links and share links: what they are, and whether you need "subscription conversion"](02-singbox-subscription-links.md) |
+| [02 · How to Import a Subscription Link (Hiddify, Clash, Shadowrocket)](02-singbox-subscription-links.md) |
 | [03 · Web proxy: set up the ZeroOmega extension in two steps](03-web-proxy-extension.md) |
 | [04 · OpenVPN: download the .ovpn profile, import it and connect; works on routers, NAS and Linux](04-openvpn-profile.md) |
 | [05 · Private network (Tailscale): installing, logging in to this site's control server, choosing an exit](05-tailscale-private-network.md) |

@@ -26,7 +26,7 @@ Sign in at account.apple.com and change the country or region. You first have to
 
 ## After installing
 
-Hiddify: go back to this site's Hiddify page and scan the code or copy the import link. Tailscale: log out of the official account first, then follow the steps on the Private network page to enter this site's control server address. Telegram, Discord: go to this site's Contact page and scan the code to join the group.
+Hiddify: go back to this site's Hiddify page and scan the code, or tap the "sing-box subscription" button to copy, then switch to Hiddify and add it. Tailscale: log out of the official account first, then follow the steps on the Private network page to enter this site's control server address. Telegram, Discord: go to this site's Contact page and scan the code to join the group.
 
 ## FAQ
 

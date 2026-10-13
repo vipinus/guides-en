@@ -2,16 +2,17 @@
 
 > Website version (longer): https://www.leotun.com/guides/singbox-subscription?utm_source=github&utm_content=troubleshooting-04
 
-Match your error to the table. For how to import in the first place, see [How to use Hiddify subscription links](../client/02-singbox-subscription-links.md).
+Match your error to the table. For how to import in the first place, see [How to Import a Subscription Link (Hiddify, Clash, Shadowrocket)](../client/02-singbox-subscription-links.md).
 
 | Symptom | Cause | What to do |
 |---|---|---|
 | "Unable to fetch subscription", 401 | The account has expired, or the password was changed (changing the password invalidates old configurations immediately; this is by design) | Log in to the website and check the validity period; after renewing or changing the password, scan the QR code again |
 | Import succeeds, connection times out | The address for that region has just been changed, or that entry point is being interfered with by the carrier | Tap "Update subscription" in the client to pull the latest configuration; switch to another region — each region is a separate configuration and they do not affect each other |
 | Connected but no internet | The client's own routing rules are sending traffic to "direct" | Change the default outbound to that node, or delete the rules you added yourself |
-| Scanning says "Invalid QR code" | The QR code is meant for Hiddify-family clients; or it was scanned from someone else's screenshot | For Shadowrocket / NekoBox / Stash use the "share link"; the QR code contains your own credentials, and someone else's will not work |
+| Scanning says "Invalid QR code" | When the popup first opens the QR code is the Hiddify / sing-box one, and other clients scanning it directly get this error; or it was scanned from someone else's screenshot | Click your client's button first, which switches the QR code to the matching type, then scan or paste: Clash-family clients click "Clash subscription"; Shadowrocket / NekoBox / v2rayN and so on click "Share link". The QR code contains your own credentials, and someone else's will not work |
 | Slow speed | The chosen region is under high load, or the local broadband and the region do not match | Look at the red, yellow and green lights in the region list on the website and switch to a region with a green light; if it is still slow, change region by carrier |
-| Clicking the import link on desktop does nothing | On Windows / Linux, the sing-box:// deep link cannot always launch the app | Copy the "config URL" (starting with https://) and paste it into Hiddify to import |
+| A Clash-family client fails to import the share link | Clash Meta, Clash Verge, FlClash, Stash and the like cannot import a single hysteria2:// line as a profile | Click the "Clash subscription" button and paste the URL into the client's subscription list; the original Clash and Clash for Windows lack hysteria2 in their core, so use a mihomo-core client instead |
+| The share link fails to import or won't connect | The lines use port hopping, which a few clients cannot parse | Switch to Hiddify |
 
 ## Do I need to re-import after renewing, switching plans, or changing the password
 

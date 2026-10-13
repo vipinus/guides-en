@@ -50,7 +50,7 @@ For looking something up now and then, free is enough. For following series, lis
 
 **How many devices per account?** With LeoTun, simultaneous connections follow the plan: Personal 2 devices, Family 4 devices, Enterprise 8 devices. A router counts as one device, and the devices behind it are not counted separately. When more are online at once than your plan's limit, you can temporarily upgrade the account type (the remaining time is converted at equivalent value by price) and switch back afterwards.
 
-**Can I use Clash?** Yes. LeoTun provides both a Hiddify configuration address and a hysteria2 share link, and importing the share link into Clash Meta is enough; after importing, set China domains to go through the node, not to "direct".
+**Can I use Clash?** Yes. LeoTun provides a sing-box subscription, a Clash subscription and a hysteria2 share link. With Clash Meta, Clash Verge, FlClash, Stash and the like, click the "Clash subscription" button and paste the URL into the client's subscription list; no subscription converter is needed, and do not use the share link. The original Clash and Clash for Windows cannot be used, because their core lacks hysteria2. This subscription sends everything except your local network through the node by default, so nothing needs changing for China video; if you add your own rules, do not set China domains to "direct".
 
 ---
 Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

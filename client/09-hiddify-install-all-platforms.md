@@ -76,10 +76,10 @@ The deb package is x64; on ARM Linux devices use OpenVPN, and the same account w
 
 1. Log in to the website and open the Hiddify page.
 2. Click the flag of the region you want and a QR code pops up; or click "Import all regions · auto-select" at the top of the page to import all regions outside China at once and let the client choose automatically. **The China region is imported separately**: for watching video or using online banking in China from abroad, click the China flag to import it.
-3. Phone: tap "Copy import link", then switch to Hiddify and add it as prompted, or scan the code with Hiddify on another device. Computer: click "Copy config URL (to paste)", then in Hiddify click "+" → "Add from clipboard".
+3. Below the QR code are three buttons, grouped by subscription type. Hiddify uses the first one (it shows Hiddify / sing-box / GUI.for.SingBox / Karing, with the subtitle "sing-box subscription"), and it is the same button on phone and computer. Phone: tap it, then switch to Hiddify and add it as prompted, or scan the code with Hiddify on another device. Computer: click it to copy an https:// address, then in Hiddify click "+" → "Add from clipboard".
 4. Click connect.
 
-For the difference between the three kinds of link, how to import into other clients, and whether a subscription expires, see [02 · Hiddify subscription links](02-singbox-subscription-links.md). If you have imported it but can't connect, see [Troubleshooting 04](../troubleshooting/04-singbox-import-not-connecting.md).
+For the difference between the three buttons, how to import into Clash and other clients, and whether a subscription expires, see [02 · How to Import a Subscription Link (Hiddify, Clash, Shadowrocket)](02-singbox-subscription-links.md). If you have imported it but can't connect, see [Troubleshooting 04](../troubleshooting/04-singbox-import-not-connecting.md).
 
 ## FAQ
 
@@ -97,7 +97,7 @@ For the difference between the three kinds of link, how to import into other cli
 ## Further reading
 
 - [Hiddify page: client downloads and QR codes for each region](https://www.leotun.com/singbox?utm_source=github&utm_content=client-09)
-- [How to import a Hiddify subscription link](https://www.leotun.com/guides/singbox-subscription?utm_source=github&utm_content=client-09)
+- [How to Import a Subscription Link (Hiddify, Clash, Shadowrocket)](https://www.leotun.com/guides/singbox-subscription?utm_source=github&utm_content=client-09)
 - [Client flagged by antivirus / Mac says it is damaged: verify first, then allow](https://www.leotun.com/guides/antivirus-false-positive?utm_source=github&utm_content=client-09)
 - [What macOS "network extension" authorisation is and how to allow it](https://www.leotun.com/guides/macos-network-extension?utm_source=github&utm_content=client-09)
 - [What to do when iOS won't let you install an app](https://www.leotun.com/guides/ios-app-store?utm_source=github&utm_content=client-09)
