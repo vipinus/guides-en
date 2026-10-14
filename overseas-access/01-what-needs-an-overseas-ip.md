@@ -24,7 +24,7 @@ Your traffic is first encrypted and sent to an overseas server, which then acces
 
 - **Changing DNS does not help.** Failing to connect is a path problem, not a resolution problem.
 - **Speed depends on the line between the two points.** Going out from China, the bottleneck is the cross-border link and your carrier's exit, so choosing the region matters more than the server's specifications; see [03](03-which-region-is-fastest.md).
-- **While you are using Chinese apps, not everything has to go through the line.** Turn on split routing: Chinese sites connect directly and overseas sites go through the line, so neither takes a detour; see [Router split routing](../router/03-router-split-routing.md).
+- **While you are using Chinese apps, not everything has to go through the line.** Turn on split routing: by default only blocked sites go through the line, while Chinese sites and overseas sites that open fine from China anyway connect directly, so neither takes a detour; see [Router split routing](../router/03-router-split-routing.md).
 
 ---
 Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-01) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

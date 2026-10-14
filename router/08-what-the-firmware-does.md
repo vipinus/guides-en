@@ -8,7 +8,7 @@ After flashing this site's firmware or buying a pre-installed unit, all you need
 
 | What | How it works | What you need to do |
 |---|---|---|
-| Component and split routing list updates | Checks at boot and downloads any update, which **takes effect at the next boot** | Nothing; changed line addresses and websites added to the list are picked up automatically |
+| Component and split routing list updates | Checks at boot and downloads any update, which **takes effect at the next boot**; the blocked-site list used for reaching overseas services from China also updates automatically every day | Nothing; changed line addresses and websites added to the list are picked up automatically |
 | Wi‑Fi country code | Detects the country it is in once online and sets wireless power and channels automatically | Right after flashing, **plug in a network cable first** so it gets online once; a weaker signal before it has been online is normal |
 | Expiry handling | When the account expires it stops going through the VPN; the local network carries on as usual | It recovers automatically after you renew, with no need to log in again |
 | Router binding | The first login records this router under the account | Unbind on the website before switching routers |
@@ -19,6 +19,7 @@ Only a major version upgrade of the whole firmware requires flashing the sysupgr
 
 - **Split routing mode**: Split routing (default) / Global / Direct. If a website will not open, switch to Global first to verify: if it opens under Global, it is not on the list, so give the address to customer service to have it added; if it will not open under Global either, the problem is with the website itself.
 - **Region**: chosen on the admin page. Choose the China region to watch Chinese content from abroad, and an overseas region to reach overseas services from China.
+- **Blocked sites only**: a checkbox under "VPN settings", in the smart split routing section, ticked by default. It applies only to the direction for reaching overseas services from China (you are in China and chose an overseas region). When ticked, only blocked websites and services go through the VPN (based on a blocked-site list that updates automatically every day, plus services such as Telegram that connect to fixed addresses); Chinese websites, and foreign websites that open fine from China anyway (foreign company websites, Apple and Microsoft downloads, game platforms and the like), connect directly with no detour. Untick it to go back to the previous behaviour: Chinese websites direct, everything else through the VPN. If a foreign website will not open while you are in China, untick it (or switch to Global temporarily) and try again; if it then opens, the site is blocked but not yet on the list, so send the address to customer service. Firmware flashed before October 2026 does not show this checkbox yet (the new default already applies through automatic updates); to change it, contact customer service, who can do it remotely. The direction for reaching China from abroad is not affected by this switch.
 - **Automatically select the fastest line**: located below the region, off by default, and recommended when network quality is poor.
 
   | | Off (default) | On |
@@ -33,7 +34,7 @@ Only a major version upgrade of the whole firmware requires flashing the sysupgr
 ## TVs, TV boxes and elderly family members' devices
 
 - Just connect to this router's Wi‑Fi or by cable, and the mainland China edition of an app plays right away; the international editions (iQIYI, WeTV) have a different content library, so install the mainland China edition.
-- A device is connected but does not go through the VPN: most likely it has its own private DNS set (Android "Private DNS", the browser's secure DNS); turn it off.
+- A device is connected but does not go through the VPN, or blocked websites will not open while everything else works: most likely it has its own private DNS set (Android "Private DNS", the browser's secure DNS), so the router cannot see which site it is looking up; turn it off.
 - You want a device to always connect directly (a work computer that needs to connect to the company VPN): have it connect to the Wi‑Fi of the upstream router or the modem.
 
 ## FAQ

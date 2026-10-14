@@ -34,22 +34,22 @@ None of these **produces an error**. The router shows "Connected" the whole time
 
 | | How it is done |
 |---|---|
-| Switch | On by default; choosing a region in China = the direction for reaching China from abroad, choosing an overseas region = the direction for reaching overseas services from China, applied automatically |
+| Switch | On by default; choosing a region in China = the direction for reaching China from abroad, choosing an overseas region = the direction for reaching overseas services from China, applied automatically. The direction for reaching overseas services from China also has a "Blocked sites only" checkbox ("VPN settings" → smart split routing), ticked by default; unticked = Chinese websites direct, everything else through the VPN. Firmware flashed before October 2026 does not show this checkbox yet; contact customer service to have it changed remotely |
 | List | Organised by "whole website": the web pages go together with the video, image and login sources they use |
-| Chinese websites | In the direction for reaching overseas services from China they connect directly with no detour, at the same speed as without the router |
+| Reaching overseas services from China | By default only blocked websites and services go through the VPN (based on a blocked-site list that updates automatically every day, plus services such as Telegram that connect to fixed addresses); Chinese websites, and foreign websites that open fine from China anyway (foreign company websites, Apple and Microsoft downloads, game platforms), connect directly with no detour, at the same speed as without the router |
 | Devices at home | Taken over uniformly; network settings changed on the device itself still follow the rules; there is no "back door" around the router |
-| Updates | The list and rules update automatically when the router boots |
+| Updates | The list and rules update automatically when the router boots; the blocked-site list also updates automatically every day |
 | Memory | Kept after a reconnect or reboot; once off, it stays off |
 | Local network | Printers, NAS and cameras are reached directly as usual |
 
-**The one case that needs your help**: when a phone or browser has an encrypted setting such as "Private DNS" or "Secure DNS" turned on, the device encrypts its own lookups and the router cannot see them. If a device misbehaves, turn off this kind of setting first.
+**The one case that needs your help**: when a phone or browser has an encrypted setting such as "Private DNS" or "Secure DNS" turned on, the device encrypts its own lookups and the router cannot see them. If a device misbehaves, or blocked websites will not open while everything else works, turn off this kind of setting first.
 
 ## Verify it yourself
 
-1. You are in China (reaching overseas services): Baidu and Taobao are at normal speed; overseas websites open and video plays.
+1. You are in China (reaching overseas services): Baidu and Taobao, and foreign sites that open fine from China anyway such as Apple and Microsoft downloads, are at normal speed; blocked overseas websites open and video plays.
 2. You are abroad (reaching China): pick any episode on Tencent Video or iQIYI and it plays, with no "仅限中国大陆" (mainland China only) message; local bank and shopping websites work as usual.
 3. Try every device, especially the TV and TV box; for one that misbehaves, check "Private DNS / Secure DNS" first, then confirm it is connected to this router's Wi‑Fi and not the modem's.
-4. A website will not open under split routing: switch to "Global" temporarily. If it opens under Global but not under split routing, it is not on the list yet; send the address to customer service to have it added to the list, and it will be delivered with the automatic update.
+4. A website will not open under split routing: switch to "Global" temporarily. If it opens under Global but not under split routing, it is not on the list yet; send the address to customer service to have it added to the list, and it will be delivered with the automatic update. In China you can also untick "Blocked sites only" in the smart split routing section and try again; if it then opens, it is likewise blocked but not yet on the list.
 
 ## FAQ
 

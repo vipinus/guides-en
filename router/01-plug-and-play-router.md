@@ -12,7 +12,7 @@ The factory admin password and Wi-Fi password are public, so change them first t
 
 ## Split routing mode
 
-The default is split routing: Chinese domains on the list go through the VPN, and everything else connects directly. This mode is the best fit if you are abroad watching Chinese video, or if elderly family members use the TV. When you temporarily need everything to go through the VPN, switch to "Global" and switch back when you are done.
+The default is split routing: Chinese domains on the list go through the VPN, and everything else connects directly. This mode is the best fit if you are abroad watching Chinese video, or if elderly family members use the TV. When you are in China and choose an overseas region, the direction turns round automatically: by default only blocked websites and services go through the VPN, and Chinese websites as well as foreign websites that open fine from China anyway connect directly; see [03 · What router split routing is](03-router-split-routing.md). When you temporarily need everything to go through the VPN, switch to "Global" and switch back when you are done.
 
 ## FAQ
 

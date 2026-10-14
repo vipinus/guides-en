@@ -26,7 +26,7 @@ Two ways:
 - Keep doing what you did before (the vendor's remote access, port forwarding). The router does not block it.
 
 **Downloads running on the NAS**
-Downloads from Chinese sources go direct and are unaffected. Downloads from overseas sites go through the tunnel and run at tunnel speed. If you do not want downloads using the tunnel, plug the NAS into the upstream router or the modem and it bypasses this router entirely.
+Downloads from Chinese sources go direct and are unaffected. Downloads from overseas sites that open fine from China anyway (Apple and Microsoft downloads, for example) go direct by default too; only downloads from blocked sites go through the tunnel and run at tunnel speed. If you do not want downloads using the tunnel, plug the NAS into the upstream router or the modem and it bypasses this router entirely.
 
 **A work laptop that needs the company VPN**
 Connect it to the Wi-Fi of the upstream router or the modem, separate from this router. Two VPNs stacked on top of each other usually break access to the company network.

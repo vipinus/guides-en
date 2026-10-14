@@ -2,7 +2,7 @@
 
 You are in China, and the overseas services you need for work, development, research, gaming and streaming will not open or are extremely slow. One situation per article, with a clear account of **what you need, how to choose, and what the pitfalls are**.
 
-**For the whole family or a whole office**: see [Router split routing](../router/03-router-split-routing.md) — Chinese sites connect directly, overseas sites go through the line, and nothing needs to be installed on the devices.
+**For the whole family or a whole office**: see [Router split routing](../router/03-router-split-routing.md) — by default only blocked sites go through the line, while Chinese sites and overseas sites that open fine from China anyway connect directly, and nothing needs to be installed on the devices.
 
 ## Contents
 
