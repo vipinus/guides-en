@@ -17,7 +17,7 @@ International capacity is shared by everyone and has nothing to do with how fast
 Each carrier leaves China by a different path, and picking the right region matters more than anything else:
 - China Unicom in the north: try Japan and Korea first
 - China Telecom in the south: try Southeast Asia first
-- Other carriers: try the China relay regions first
+- Other carriers: try several regions and, at peak time, pick a green one that tests fastest
 
 **3. The router itself**
 Traffic has to be encrypted before it enters the tunnel, and that is work for the router's processor. The models differ a lot:
