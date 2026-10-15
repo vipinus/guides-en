@@ -123,7 +123,7 @@ A checklist to work through in order when something goes wrong: can't connect, s
 
 Questions are welcome in this repository's [Discussions](https://github.com/vipinus/guides-en/discussions).
 
-> The Chinese knowledge base has two more sections about China-specific situations (reaching Chinese services from abroad, and reaching overseas services from inside China); they are not translated. These articles are translated from the Chinese edition; where the two differ, the Chinese edition is authoritative.
+> These articles are translated from the Chinese edition; where the two differ, the Chinese edition is authoritative.
 
 ## License
 
