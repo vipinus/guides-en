@@ -18,7 +18,7 @@ One LeoTun account has six connection methods: Private network (Tailscale), Cisc
 - Broadband that often drops, weak Wi‑Fi signal: web proxy. It works per request with no long-lived connection, so by design there is no connection to drop.
 - Broadband in old residential compounds, mobile data, high packet loss: Hiddify. Its protocol is designed to resist packet loss and gives the best speed on such networks.
 - The computer is already connected to a company VPN: web proxy. Two whole-device VPNs running together fight over network settings; the web proxy only handles the browser, so they do not interfere with each other.
-- China Mobile, Great Wall and other broadband, or cross-border links that are always unstable: any method, choosing a China-region entry point. The client connects only to an address inside China and we handle the cross-border leg, so it is not affected by cross-border interference.
+- China Mobile, Great Wall and other broadband, or cross-border links that are always unstable: any method, choosing a China-region entry point. It is usually the steadiest choice on these networks.
 
 ## By purpose: what you want to do
 

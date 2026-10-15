@@ -10,7 +10,7 @@ With the same service and the same protocol, speed can differ several times over
 |---|---|---|
 | China Unicom in the north | Japan, South Korea | Unicom's exit to Japan and South Korea is usually the most direct |
 | China Telecom in the south | Southeast Asia (Singapore), Australia | Telecom's southbound exit is good |
-| China Mobile, Great Wall and so on | China entry | The client connects only to an address inside China, and we handle the cross-border leg, so it is not affected by cross-border interference |
+| China Mobile, Great Wall and so on | China entry | Usually the steadiest on these networks |
 | Mobile data | Differs by carrier; test it separately from broadband | On the same phone, the best region on Wi‑Fi and on mobile data is often different |
 
 LeoTun's region list uses **red, yellow and green lights** to show each region's current load; among several Japan entries, pick the one with the green light.
