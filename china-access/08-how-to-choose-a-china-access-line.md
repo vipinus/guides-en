@@ -15,7 +15,7 @@ A common substitute is to pass off machines in Hong Kong, Taiwan or Japan as "Ch
 | Item | How to check | What failing looks like |
 |---|---|---|
 | Exit region | Look up where the IP is registered after connecting | Hong Kong, Taiwan, Japan or Korea addresses |
-| IPv6 and DNS | Search for "test ipv6" and open a test page | The IPv6 field shows the country you are in → video sites will still block you, see [Troubleshooting 06](../troubleshooting/03-ipv6-and-dns-leak.md) |
+| IPv6 and DNS | Search for "test ipv6" and open a test page | The IPv6 field shows the country you are in → video sites will still block you, see [Troubleshooting 03](../troubleshooting/03-ipv6-and-dns-leak.md) |
 | Client | Whether it is a standard protocol (AnyConnect, OpenVPN, Hiddify) | There is only one proprietary app, and once it is taken down you have nothing to use |
 | Bandwidth | Play 1080p between 8 and 11 pm Beijing time | Fast during the day, spinning in the evening |
 | Multiple devices and router | How many devices per account, and whether a router can connect a whole household | Each device has to be bought separately |
