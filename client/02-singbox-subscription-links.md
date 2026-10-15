@@ -2,7 +2,7 @@
 
 > Website version (longer): https://www.leotun.com/guides/singbox-subscription?utm_source=github&utm_content=client-02
 
-The "subscription link" an airport service gives you is simply an HTTPS address from which the client downloads a complete configuration: server, port and credentials are all in it, so nothing has to be typed by hand. LeoTun's Hiddify page gives you the same kind of thing, and gives it in three formats directly, so Hiddify, Clash and Shadowrocket each take their own and nothing needs converting.
+The "subscription link" a proxy line provider gives you is simply an HTTPS address from which the client downloads a complete configuration: server, port and credentials are all in it, so nothing has to be typed by hand. LeoTun's Hiddify page gives you the same kind of thing, and gives it in three formats directly, so Hiddify, Clash and Shadowrocket each take their own and nothing needs converting.
 
 ## The three buttons in the popup
 

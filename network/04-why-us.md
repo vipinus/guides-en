@@ -1,6 +1,6 @@
 # 04 · How we differ from other VPNs
 
-VPNs on the market fall roughly into three kinds: big international brands aimed at users worldwide, the "airport" services known in Chinese-speaking circles (resold subscription proxies), and all sorts of free software. LeoTun has run its own servers since 2006 and does only one thing: keeping the connection stable in both directions for users in mainland China and for overseas Chinese. This article sets us side by side with the three kinds of product, item by item, showing who each one suits and how we do things, so you can see clearly before paying.
+VPNs on the market fall roughly into three kinds: big international brands aimed at users worldwide, the proxy line providers (“jichang”) known in Chinese-speaking circles (resold subscription proxies), and all sorts of free software. LeoTun has run its own servers since 2006 and does only one thing: keeping the connection stable in both directions for users in mainland China and for overseas Chinese. This article sets us side by side with the three kinds of product, item by item, showing who each one suits and how we do things, so you can see clearly before paying.
 
 ## Our positioning in one sentence
 
@@ -15,11 +15,11 @@ Conversely, when overseas Chinese need to reach services in China, they simply s
 - What we do: use only standard protocols (AnyConnect, OpenVPN, Hiddify, Tailscale, HTTPS web proxy), with clients that come from the vendors or the open-source community. What gets blocked can only be a particular address, and changing the address is enough; the client will not be taken down.
 - Our trade-offs: 24 regions, each backed by several machines, with the least busy one picked automatically when you connect; the clients are the official releases from the vendors and the open-source community, set up by scanning a QR code or one-click import; no third-party audit report; what we record and do not record is written on the About page, and we rely on spelling it out rather than on a stamp of approval.
 
-## Compared with "airport" services
+## Compared with proxy line providers
 
-- Strengths of airport services: cheap, many nodes, usable as soon as you paste a subscription link, and people who like tinkering with clients enjoy the freedom.
-- Weaknesses of airport services: most are individuals or small teams renting overseas machines and reselling traffic, with no landing in China of their own, and exit quality varies with the rented lines; disappearing with the money, renaming and shutting down are common, and paying for a year does not mean you get to use the full year; clients are almost entirely left to users to work out for themselves, and nobody is responsible when something goes wrong.
-- What we do: the machines are our own, and the China exits are our own real-name-registered machines at mainland cloud providers; one account has six connection methods, and the whole-device router solution and the 24-hour support group are things airport services do not have; we have operated from 2006 to today, and accounts, validity periods and prices did not change before or after the rename.
+- Strengths of proxy line providers: cheap, many nodes, usable as soon as you paste a subscription link, and people who like tinkering with clients enjoy the freedom.
+- Weaknesses of proxy line providers: most are individuals or small teams renting overseas machines and reselling traffic, with no landing in China of their own, and exit quality varies with the rented lines; disappearing with the money, renaming and shutting down are common, and paying for a year does not mean you get to use the full year; clients are almost entirely left to users to work out for themselves, and nobody is responsible when something goes wrong.
+- What we do: the machines are our own, and the China exits are our own real-name-registered machines at mainland cloud providers; one account has six connection methods, and the whole-device router solution and the 24-hour support group are things proxy line providers do not have; we have operated from 2006 to today, and accounts, validity periods and prices did not change before or after the rename.
 - Our pricing: Personal plan $4 per month, Family plan $8, Enterprise plan $16, which covers our own machines, six connection methods and the 24-hour support group; you choose only the region, and behind each region the system picks the least busy machine, so there is no need to speed-test and pick nodes yourself.
 
 ## Compared with free software
@@ -53,7 +53,7 @@ Each network has a method that suits it best, so you get all six: with the same 
 
 **Are you more secure than the big international brands?** The encryption strength is comparable; both use standard protocols. The difference is the trust model: the big brands rely on audit reports; we only keep the information needed for billing, and every client comes from official vendors and well-known open-source organisations.
 
-**Why not offer hundreds of nodes like airport services do?** More nodes does not mean more stable. Behind each of our regions there are several machines, and on connecting the system picks the least busy one, so you do not have to run speed tests and pick nodes yourself; when an address is blocked it is replaced automatically, and the address in your client does not need changing.
+**Why not offer hundreds of nodes like proxy line providers do?** More nodes does not mean more stable. Behind each of our regions there are several machines, and on connecting the system picks the least busy one, so you do not have to run speed tests and pick nodes yourself; when an address is blocked it is replaced automatically, and the address in your client does not need changing.
 
 **Could the price be any lower?** The Personal plan is $4 per month, and the longer you buy the bigger the discount (5% off → 10% off → 20% off); by the day with credits it is about $0.32 a day; when a friend you invite pays, you each get 20 more days (Personal-plan basis), with no limit on the number of people. Signing up also comes with a 24-hour free trial.
 
