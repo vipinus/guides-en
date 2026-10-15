@@ -37,7 +37,7 @@ For Clash Meta (mihomo), Clash Verge, FlClash, Stash and the like, click the "Cl
 
 Click the "Share link" button, then use "Import from clipboard" in NekoBox / Shadowrocket / v2rayN / v2rayNG and so on, or scan the QR code above after clicking the button. A share link carries no rules, so you have to set up routing and IPv6 yourself: if you are overseas and want to watch content from China, route Chinese domains through the node and turn IPv6 off.
 
-The clients listed after v2rayN on the button all support hysteria2, but the lines use port hopping, which a few clients cannot parse; if the import fails or it won't connect, switch to Hiddify.
+The clients listed after v2rayN on the button all support hysteria2, but the share link uses an extended hysteria2 format that a few clients cannot parse; if the import fails or it won't connect, switch to Hiddify.
 
 ## Clients that cannot be used
 
