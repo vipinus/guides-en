@@ -2,7 +2,7 @@
 
 How cross-border access works, how to set up each client, routers and home networks, and troubleshooting. One topic per article, in plain language. Maintained by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=readme) team.
 
-Other languages: [简体中文](https://github.com/vipinus/guides-zh-CN) · [繁體中文](https://github.com/vipinus/guides-zh-TW)
+Other languages: English · [简体中文](https://github.com/vipinus/guides-zh-CN) · [繁體中文](https://github.com/vipinus/guides-zh-TW) · [العربية](https://github.com/vipinus/guides-ar) · [Deutsch](https://github.com/vipinus/guides-de) · [Español](https://github.com/vipinus/guides-es) · [فارسی](https://github.com/vipinus/guides-fa) · [Français](https://github.com/vipinus/guides-fr) · [हिन्दी](https://github.com/vipinus/guides-hi) · [Bahasa Indonesia](https://github.com/vipinus/guides-id) · [日本語](https://github.com/vipinus/guides-ja) · [한국어](https://github.com/vipinus/guides-ko) · [Português](https://github.com/vipinus/guides-pt) · [Русский](https://github.com/vipinus/guides-ru) · [ไทย](https://github.com/vipinus/guides-th) · [Türkçe](https://github.com/vipinus/guides-tr) · [Tiếng Việt](https://github.com/vipinus/guides-vi)
 
 ## Free time, always available
 
