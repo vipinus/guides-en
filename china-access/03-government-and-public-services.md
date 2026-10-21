@@ -26,4 +26,4 @@ CHSI itself is not especially strict with overseas IPs; slowness is the main pro
 Government-type tasks often come up only once or twice a year, and finding a line at the last minute every time is a lot of trouble. Setting up the China-bound line as one fixed entry point and switching back when you are done is less hassle than configuring it again each time.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-03) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-03) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-03) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-03) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term

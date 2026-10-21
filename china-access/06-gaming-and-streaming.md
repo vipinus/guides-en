@@ -23,4 +23,4 @@ Douyin, Kuaishou, Douyu and Huya differ in how they restrict overseas IPs; most 
 China-server games require real-name verification. This is an account-level requirement that has nothing to do with IP, and changing the IP does not solve it.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-06) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-06) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term

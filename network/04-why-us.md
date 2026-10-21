@@ -26,7 +26,7 @@ Conversely, when overseas Chinese need to reach services in China, they simply s
 
 - Strengths of free: it costs nothing, and is enough for looking something up now and then.
 - Weaknesses of free: mainland exit bandwidth is billed by usage, so a free service can only keep going by crowding users together, by throttling, or by selling data; browser-extension types only proxy web requests, and video, apps and system DNS do not go through them; installers of unknown origin are a risk in themselves, see "How to spot risky VPN software".
-- What we do: the 4-hour free trial needs no credit card and is for checking the goods; pay-by-day (credits) is for occasional users; when a friend you invite pays, you each get 20 days (Personal-plan basis), which is a long-term source of free time.
+- What we do: the 4-hour free trial needs no credit card and is for checking the goods; pay-by-day (credits) is for occasional users; when a friend you invite pays, you each get 15 credits (about 15 days on the Personal plan), which is a long-term source of free time.
 - How we arrange it: free time comes from the 4-hour trial and invitation rewards; for long-term use you pay by the month, by the year or by the day.
 
 ## Six connection methods, one account
@@ -55,7 +55,7 @@ Each network has a method that suits it best, so you get all six: with the same 
 
 **Why not offer hundreds of nodes like proxy line providers do?** More nodes does not mean more stable. Behind each of our regions there are several machines, and on connecting the system picks the least busy one, so you do not have to run speed tests and pick nodes yourself; when an address is blocked it is replaced automatically, and the address in your client does not need changing.
 
-**Could the price be any lower?** The Personal plan is $5 per month, and the longer you buy the bigger the discount (5% off → 10% off → 20% off); by the day with credits it is about $0.32 a day; when a friend you invite pays, you each get 20 more days (Personal-plan basis), with no limit on the number of people. Signing up also comes with a 4-hour free trial.
+**Could the price be any lower?** The Personal plan is $5 per month, and the longer you buy the bigger the discount (5% off → 10% off → 20% off); by the day with credits it is about $0.32 a day; when a friend you invite pays, you each get 15 credits (about 15 days on the Personal plan), with no limit on the number of people. Signing up also comes with a 4-hour free trial.
 
 **How can I verify what you say?** Get the 4-hour trial, connect to the China region at the evening peak and watch an episode on Tencent Video, connect to an overseas region and open YouTube, and check the IP's registered location and an IPv6 test page. The checklist is in "How to choose a China-bound VPN".
 
@@ -70,4 +70,4 @@ Each network has a method that suits it best, so you get all six: with the same 
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-04) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-04) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; every friend you invite who pays earns you both 15 credits (about 15 Personal-plan days), an offer with no end date

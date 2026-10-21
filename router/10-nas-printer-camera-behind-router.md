@@ -45,4 +45,4 @@ Connect it to the Wi-Fi of the upstream router or the modem, separate from this 
 **Can I keep one device off the VPN permanently?** Yes, connect it to the upstream router or the modem. The admin page can also switch the whole router to "Direct" mode, but that applies to everyone at once.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-10) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-10) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term

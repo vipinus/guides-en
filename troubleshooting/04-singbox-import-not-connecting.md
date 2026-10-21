@@ -26,4 +26,4 @@ Match your error to the table. For how to import in the first place, see [How to
 Tell support three things: the client name and version, the region, and the exact error text or a screenshot.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-04) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-04) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term

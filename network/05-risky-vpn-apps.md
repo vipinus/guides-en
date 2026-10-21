@@ -66,4 +66,4 @@ We do not install certificates and do not ask for contacts or location. If one d
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/risky-vpn-apps?utm_source=github&utm_content=network-05
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-05) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-05) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; every friend you invite who pays earns you both 15 credits (about 15 Personal-plan days), an offer with no end date

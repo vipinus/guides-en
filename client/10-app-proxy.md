@@ -52,4 +52,4 @@ With "automatic routing" on, overseas services such as Dropbox go through the li
 **Can I do without Hiddify?** Yes. Cisco, the private network and OpenVPN also take over the whole machine, and the software is likewise set to "No proxy". The advantage of Hiddify is built-in routing and better speed on networks with heavy packet loss.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-10) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-10) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), an ongoing offer

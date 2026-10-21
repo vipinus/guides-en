@@ -47,4 +47,4 @@ Academic sites are mostly in Europe and North America, but **latency has little 
 The cases where you really need to choose Europe or North America are: some publishers apply regional restrictions by the source of access, or your institutional account is tied to a particular region. Switch when you run into it.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-08) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-08) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term

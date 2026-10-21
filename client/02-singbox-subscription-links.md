@@ -65,4 +65,4 @@ If you have imported it but can't connect, see [Troubleshooting 04](../troublesh
 **Can I send the QR code to my family?** The QR code contains your account credentials; whoever you send it to gets your account. Sharing with family is allowed (simultaneous devices by plan: Personal 2, Family 4, Enterprise 8), but don't post it anywhere public; if it leaks, change your password and it stops working.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-02) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-02) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), an ongoing offer

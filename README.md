@@ -9,7 +9,7 @@ Other languages: English · [简体中文](https://github.com/vipinus/guides-zh-
 | How to get it | What you get |
 |---|---|
 | Claim the free trial after signing up | 4 hours with every feature, no credit card |
-| Invite a friend who signs up and pays for the first time | +20 days each on your expiry date and your friend's (Personal-plan basis; +10 days on Family, +5 days on Enterprise, each by their own plan), once per friend, no limit on the number of friends |
+| Invite a friend who signs up and pays for the first time | 15 credits each for you and your friend (about 15 days on the Personal plan, which uses 1 credit a day), added straight to your credit balance, once per friend, no limit on the number of friends |
 
 Website: <https://www.leotun.com?utm_source=github&utm_content=readme> · Contact us: <https://www.leotun.com/contact?utm_source=github&utm_content=readme>
 

@@ -37,4 +37,4 @@ The video domains on the split routing list are maintained in a public repositor
 - **The whole household slows down on an old router**: the CPU cannot keep up with encrypted traffic; switch to a model with better performance, see [Getting started with a pre-installed router](01-plug-and-play-router.md).
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-06) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-06) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term

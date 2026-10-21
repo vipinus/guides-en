@@ -22,4 +22,4 @@ SMS verification codes are sent only to Chinese phone numbers. When you are over
 - Face recognition failures are mostly a matter of the app version or the camera permission; install the Chinese edition of the app and allow the camera.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-09) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-09) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term

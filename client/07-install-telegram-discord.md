@@ -25,4 +25,4 @@ Registering requires a mobile number that can receive SMS. Afterwards you can se
 - If it won't install or it crashes on launch, tell support your system version and device model; in most cases the model or version doesn't match.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-07) team · Got a question? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-07) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-07) team · Got a question? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-07) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), an ongoing offer
