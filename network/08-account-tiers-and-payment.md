@@ -75,7 +75,7 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 - Topping up credits: 25 credits for $8, and you can choose 25–150 credits at a time. Credits never expire.
 - Daily consumption: Personal 1 credit per day, Family 2 credits, Enterprise 4 credits. A day on the Personal plan is about $0.32.
 - Credits can also renew by the month (counted as 30 days) or by the year (counted as 365 days), but credits get no discount.
-- Who it suits: people who use it only ten or so days a month, or who need only a few days before going back to China. If you use it every day, a monthly subscription is better value; on the Personal plan, if you use more than 12 days a month you should subscribe monthly.
+- Who it suits: people who use it only ten or so days a month, or who need only a few days before going back to China. If you use it every day, a monthly subscription is better value; on the Personal plan, if you use more than 15 days a month you should subscribe monthly.
 
 ## Free trial and invitation reward: equal value on every plan
 
