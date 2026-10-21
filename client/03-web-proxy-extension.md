@@ -27,4 +27,4 @@ After that, click the extension icon and pick a region, then enter your website 
 | Slow | Switch region; the proxy and the VPN use the same set of servers |
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-03) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-03) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-03) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-03) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer

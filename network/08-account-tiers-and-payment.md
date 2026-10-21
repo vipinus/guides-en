@@ -6,7 +6,7 @@ LeoTun accounts come in three plans, Personal, Family and Enterprise. They diffe
 
 | | Personal | Family | Enterprise |
 |---|---|---|---|
-| Monthly price | $4 | $8 | $16 |
+| Monthly price | $5 | $10 | $20 |
 | Price multiple | 1x | 2x | 4x |
 | Devices online at the same time | 2 | 4 | 8 |
 | Regions / traffic / connection methods | All / unlimited / all | Same | Same |
@@ -47,14 +47,14 @@ The three plans use the same discount curve: 5% off → 10% off → 20% off. The
 | Enterprise | From 3 months | From 6 months | From 12 months |
 
 - Buying by the month, the most at one time is 12 months; buying by the year, the most at one time is 4 years. Buying by the month gets the same discount once you reach a breakpoint, so you do not have to choose "by the year".
-- A few actual figures: Personal 12 months $45.60, 4 years $153.60; Family 6 months $45.60, 2 years $153.60; Enterprise 3 months $45.60, 1 year $153.60.
+- A few actual figures: Personal 12 months $57, 4 years $192; Family 6 months $57, 2 years $192; Enterprise 3 months $57, 1 year $192.
 - If your validity has not yet run out when you renew, the time purchased is added after the original expiry date and does not eat into the remaining days.
 
 ## Payment methods
 
 | Method | Notes |
 |---|---|
-| Alipay | Payment in RMB, converted from the US dollar price at the live exchange rate |
+| Alipay | Payment in RMB at a fixed rate of US$1 = ¥7: monthly ¥35 Personal, ¥70 Family, ¥140 Enterprise; 25 credits ¥56 |
 | PayPal | Paid in US dollars; supports bank cards issued in China |
 | Credit card | Visa, Mastercard, AMEX |
 | Credits | Deducted from credits you have already topped up; can be used to buy by the day |
@@ -81,11 +81,11 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 
 | | Personal | Family | Enterprise |
 |---|---|---|---|
-| Free trial | 24 hours | 12 hours | 6 hours |
+| Free trial | 4 hours | 2 hours | 1 hour |
 | For each invited friend's first payment (you and your friend each get) | +20 days | +10 days | +5 days |
 | Service included with a router purchase (24-month models) | 24 months | 12 months | 6 months |
 
-- Trial: claim it on the home page after registering, no credit card needed; a trial code is sent to your email, and you enter the 6-digit code to activate; once per account. A new account is on the Personal plan, so what you normally get is 24 hours.
+- Trial: claim it on the home page after registering, no credit card needed; a trial code is sent to your email, and you enter the 6-digit code to activate; once per account. A new account is on the Personal plan, so what you normally get is 4 hours.
 - Invitation: after a friend registers through your referral link and completes their first payment, your validity and your friend's are both extended directly, with no limit on the number of people. Each side's days are calculated by the plan that person is on at that time.
 - These figures are all converted in inverse proportion to the price multiple, so the value you get is the same whichever plan you change to.
 
@@ -93,7 +93,7 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 
 - Within the 24 hours before expiry you will receive a "Service about to expire" reminder email.
 - After expiry no connection method will connect; devices in the Private network go offline within a few minutes, and the Hiddify QR code can only be regenerated after renewing.
-- A day or two after expiry you will receive a "Service has expired" email; for those who qualify it includes a claim button that needs no login and gives 24 / 12 / 6 hours according to your plan; the link is valid for 7 days and can only be clicked once.
+- A day or two after expiry you will receive a "Service has expired" email; for those who qualify it includes a claim button that needs no login and gives 4 / 2 / 1 hours according to your plan; the link is valid for 7 days and can only be clicked once.
 - Service is restored directly after renewing; Private network devices each just need login clicked once more, and the exit setting is kept.
 
 ## FAQ
@@ -102,7 +102,7 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 
 **Should a single user go on the Family plan?** No. The three plans have the same features and the router can be used too; the Personal plan's 2 devices online at the same time are enough for one phone plus one computer. Consider the Family plan only if you have a router at home and also carry two devices with you.
 
-**Why do I see an RMB amount when using Alipay?** Prices are set in US dollars, and Alipay converts to RMB at the live exchange rate at the time of payment, so the RMB amount fluctuates slightly with the exchange rate.
+**Why do I see an RMB amount when using Alipay?** Prices are set in US dollars, and Alipay converts to RMB at a fixed rate of US$1 = ¥7 (since 2026-10-21; it no longer follows the live exchange rate): monthly ¥35 Personal, ¥70 Family, ¥140 Enterprise, with the same volume discounts.
 
 **Can credits and a monthly subscription be used together?** Yes. Credits sit there without expiring; when renewing, choosing "Credits" as the payment method deducts from the balance, and choosing another method pays cash as usual.
 
@@ -117,4 +117,4 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 - [FAQ and contacting support](https://www.leotun.com/contact?utm_source=github&utm_content=network-08)
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-08) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date

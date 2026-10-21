@@ -29,7 +29,7 @@ SMS verification codes that never arrive have nothing to do with the line; it is
 
 ## FAQ
 
-**The trip is only a few days. Do I need to buy a month?** No. Claim the 24-hour free trial, or top up credits and pay by the day: the Personal plan costs 1 credit a day, about 0.32 US dollars a day, which fits a few days well.
+**The trip is only a few days. Do I need to buy a month?** No. Claim the 4-hour free trial, or top up credits and pay by the day: the Personal plan costs 1 credit a day, about 0.32 US dollars a day, which fits a few days well.
 
 **Can my phone and laptop connect at the same time?** Yes. Depending on the plan, one account has 2 / 4 / 8 devices online at the same time (Personal / Family / Enterprise), and the Personal plan is exactly one phone plus one laptop.
 
@@ -47,4 +47,4 @@ SMS verification codes that never arrive have nothing to do with the line; it is
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-12) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-12) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-12) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-12) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

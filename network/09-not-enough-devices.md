@@ -22,7 +22,7 @@ Relatives or friends staying at your home for a few days, an extra tablet and la
 
 ## What a temporary upgrade costs: working it out
 
-The three plans are priced 1 : 2 : 4 (Personal $4, Family $8, Enterprise $16 per month), so on a plan change the remaining time is converted at this ratio and nobody loses out. For example: with 30 days left on the Family plan, switching temporarily to the Enterprise plan makes it 15 days; after using 3 days there are 12 days left, and switching back to the Family plan makes it 24 days. Compared with staying on the Family plan throughout (30 − 3 = 27 days) that is 3 days fewer; in other words, those 3 days were charged at the Enterprise plan's price, and what you paid extra is only the difference for those 3 days.
+The three plans are priced 1 : 2 : 4 (Personal $5, Family $10, Enterprise $20 per month), so on a plan change the remaining time is converted at this ratio and nobody loses out. For example: with 30 days left on the Family plan, switching temporarily to the Enterprise plan makes it 15 days; after using 3 days there are 12 days left, and switching back to the Family plan makes it 24 days. Compared with staying on the Family plan throughout (30 − 3 = 27 days) that is 3 days fewer; in other words, those 3 days were charged at the Enterprise plan's price, and what you paid extra is only the difference for those 3 days.
 
 Two restrictions: if a payment was started within the last 30 minutes but not completed, the switch will not go through; complete or abandon that payment and wait half an hour before switching. When switching back to the lower plan, if the devices online still exceed the lower plan's limit, the website will prompt you to disconnect the extra devices first.
 
@@ -56,4 +56,4 @@ If there are more and more devices at home and family members each need it on th
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-09) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-09) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-09) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date

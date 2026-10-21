@@ -51,4 +51,4 @@ VPN connection addresses are taken from the website: after logging in, click the
 - Support will never message you privately to ask for a password, a verification code or a payment, and will never ask you on their own initiative to install remote control software.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-10) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-10) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

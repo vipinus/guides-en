@@ -37,4 +37,4 @@ No need to uninstall first: install the new version over the old one and your sa
 | Connection attempt has failed | This address is temporarily unreachable; switch region |
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-01) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-01) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-01) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, an ongoing offer

@@ -20,14 +20,14 @@ Conversely, when overseas Chinese need to reach services in China, they simply s
 - Strengths of proxy line providers: cheap, many nodes, usable as soon as you paste a subscription link, and people who like tinkering with clients enjoy the freedom.
 - Weaknesses of proxy line providers: most are individuals or small teams renting overseas machines and reselling traffic, with no landing in China of their own, and exit quality varies with the rented lines; disappearing with the money, renaming and shutting down are common, and paying for a year does not mean you get to use the full year; clients are almost entirely left to users to work out for themselves, and nobody is responsible when something goes wrong.
 - What we do: the machines are our own, and the China exits are our own real-name-registered machines at mainland cloud providers; one account has six connection methods, and the whole-device router solution and the 24-hour support group are things proxy line providers do not have; we have operated from 2006 to today, and accounts, validity periods and prices did not change before or after the rename.
-- Our pricing: Personal plan $4 per month, Family plan $8, Enterprise plan $16, which covers our own machines, six connection methods and the 24-hour support group; you choose only the region, and behind each region the system picks the least busy machine, so there is no need to speed-test and pick nodes yourself.
+- Our pricing: Personal plan $5 per month, Family plan $10, Enterprise plan $20, which covers our own machines, six connection methods and the 24-hour support group; you choose only the region, and behind each region the system picks the least busy machine, so there is no need to speed-test and pick nodes yourself.
 
 ## Compared with free software
 
 - Strengths of free: it costs nothing, and is enough for looking something up now and then.
 - Weaknesses of free: mainland exit bandwidth is billed by usage, so a free service can only keep going by crowding users together, by throttling, or by selling data; browser-extension types only proxy web requests, and video, apps and system DNS do not go through them; installers of unknown origin are a risk in themselves, see "How to spot risky VPN software".
-- What we do: the 24-hour free trial needs no credit card and is for checking the goods; pay-by-day (credits) is for occasional users; when a friend you invite pays, you each get 20 days (Personal-plan basis), which is a long-term source of free time.
-- How we arrange it: free time comes from the 24-hour trial and invitation rewards; for long-term use you pay by the month, by the year or by the day.
+- What we do: the 4-hour free trial needs no credit card and is for checking the goods; pay-by-day (credits) is for occasional users; when a friend you invite pays, you each get 20 days (Personal-plan basis), which is a long-term source of free time.
+- How we arrange it: free time comes from the 4-hour trial and invitation rewards; for long-term use you pay by the month, by the year or by the day.
 
 ## Six connection methods, one account
 
@@ -55,9 +55,9 @@ Each network has a method that suits it best, so you get all six: with the same 
 
 **Why not offer hundreds of nodes like proxy line providers do?** More nodes does not mean more stable. Behind each of our regions there are several machines, and on connecting the system picks the least busy one, so you do not have to run speed tests and pick nodes yourself; when an address is blocked it is replaced automatically, and the address in your client does not need changing.
 
-**Could the price be any lower?** The Personal plan is $4 per month, and the longer you buy the bigger the discount (5% off → 10% off → 20% off); by the day with credits it is about $0.32 a day; when a friend you invite pays, you each get 20 more days (Personal-plan basis), with no limit on the number of people. Signing up also comes with a 24-hour free trial.
+**Could the price be any lower?** The Personal plan is $5 per month, and the longer you buy the bigger the discount (5% off → 10% off → 20% off); by the day with credits it is about $0.32 a day; when a friend you invite pays, you each get 20 more days (Personal-plan basis), with no limit on the number of people. Signing up also comes with a 4-hour free trial.
 
-**How can I verify what you say?** Get the 24-hour trial, connect to the China region at the evening peak and watch an episode on Tencent Video, connect to an overseas region and open YouTube, and check the IP's registered location and an IPv6 test page. The checklist is in "How to choose a China-bound VPN".
+**How can I verify what you say?** Get the 4-hour trial, connect to the China region at the evening peak and watch an episode on Tencent Video, connect to an overseas region and open YouTube, and check the IP's registered location and an IPv6 test page. The checklist is in "How to choose a China-bound VPN".
 
 
 ## Further reading
@@ -70,4 +70,4 @@ Each network has a method that suits it best, so you get all six: with the same 
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/why-us?utm_source=github&utm_content=network-04
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-04) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-04) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; every friend you invite who pays earns you both 20 Personal-plan days, an offer with no end date

@@ -20,4 +20,4 @@ The default is split routing: Chinese domains on the list go through the VPN, an
 - **You want to switch to a different router**: unbind the old one on the website first; see [MAC binding and replacing a router](05-mac-binding-and-replacing.md).
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-01) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-01) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-01) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-01) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

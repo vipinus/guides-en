@@ -26,7 +26,7 @@ The problem is not "free" but the cost structure. Mainland exit bandwidth is pai
 
 Free "China-bound" browser extensions have one more blind spot: they only proxy the browser's web requests, and the video player, apps and system DNS do not go through them, which is why "the web page opens but the video will not play" is so common.
 
-For looking something up now and then, free is enough. For following series, listening to music and doing online banking, the time a stable paid line saves is worth far more than the subscription fee. Claim the 24-hour trial first, try it once at the evening peak, and then decide.
+For looking something up now and then, free is enough. For following series, listening to music and doing online banking, the time a stable paid line saves is worth far more than the subscription fee. Claim the 4-hour trial first, try it once at the evening peak, and then decide.
 
 ## How overseas students, travellers and families should each set up
 
@@ -53,4 +53,4 @@ For looking something up now and then, free is enough. For following series, lis
 **Can I use Clash?** Yes. LeoTun provides a sing-box subscription, a Clash subscription and a hysteria2 share link. With Clash Meta, Clash Verge, FlClash, Stash and the like, click the "Clash subscription" button and paste the URL into the client's subscription list; no subscription converter is needed, and do not use the share link. The original Clash and Clash for Windows cannot be used, because their core lacks hysteria2. This subscription sends everything except your local network through the node by default, so nothing needs changing for China video; if you add your own rules, do not set China domains to "direct".
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-08) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-08) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term

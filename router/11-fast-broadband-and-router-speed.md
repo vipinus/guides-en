@@ -39,15 +39,15 @@ Wire the TV and the desktop wherever you can. Wi-Fi in a crowded apartment block
 
 ## How to know before you buy
 
-Sign up and take the 24-hour free trial, no credit card needed. Connect at the time of day you use it most, the evening for instance, and watch a YouTube video in HD. What you see on a phone or laptop is close to what the router will give you. Decide about the router after that.
+Sign up and take the 4-hour free trial, no credit card needed. Connect at the time of day you use it most, the evening for instance, and watch a YouTube video in HD. What you see on a phone or laptop is close to what the router will give you. Decide about the router after that.
 
 ## FAQ
 
-**Why not just tell me how many megabits?** Because the number is different for every person and every hour. We promise smooth YouTube playback, even at the evening peak, provided your broadband is good: China Unicom in the north or China Telecom in the south. Shared community broadband (小区宽带) is the exception. Taking the 24-hour free trial and trying it once yourself is the most accurate test.
+**Why not just tell me how many megabits?** Because the number is different for every person and every hour. We promise smooth YouTube playback, even at the evening peak, provided your broadband is good: China Unicom in the north or China Telecom in the south. Shared community broadband (小区宽带) is the exception. Taking the 4-hour free trial and trying it once yourself is the most accurate test.
 
 **The speed test site shows a low number, but video plays fine?** That is normal. Speed test servers have busy and quiet moments of their own, and two tests a minute apart can differ by a factor of two. Judge by the thing you actually want to do.
 
 **Will a more expensive router make it faster?** Only if the router is the bottleneck, for instance a mini model on a fast line. When the bottleneck is the cross-border leg, a new router does nothing and a different region does.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-11) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-11) (groups, email and support are all listed there) · Sign up for a 24-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-11) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-11) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; invite a friend who pays and you each get 20 Personal-plan days, valid long-term
