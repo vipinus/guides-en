@@ -29,7 +29,7 @@ SMS verification codes that never arrive have nothing to do with the line; it is
 
 ## FAQ
 
-**The trip is only a few days. Do I need to buy a month?** No. Claim the 4-hour free trial, or top up credits and pay by the day: the Personal plan costs 1 credit a day, about 0.32 US dollars a day, which fits a few days well.
+**The trip is only a few days. Do I need to buy a month?** No. Claim the 4-hour free trial, or top up credits and pay by the day: the Personal plan costs 1 credit a day, about 0.4 US dollars a day, which fits a few days well.
 
 **Can my phone and laptop connect at the same time?** Yes. Depending on the plan, one account has 2 / 4 / 8 devices online at the same time (Personal / Family / Enterprise), and the Personal plan is exactly one phone plus one laptop.
 

@@ -26,7 +26,7 @@ A simple test: if you would be annoyed when it drops, it is time to pay.
 
 LeoTun's Personal plan is 5 US dollars a month and includes 24 regions, 2 devices online at the same time, and all connection methods — AnyConnect / OpenVPN / Hiddify / web proxy — and it can also be used with a router. The Family and Enterprise plans cost 2 times and 4 times the Personal plan respectively. Regions, lines and connection methods are exactly the same on all three plans, and the only difference is the number of devices online at the same time (4 and 8).
 
-If you do not want to buy by the month, there are two routes: first claim the 4-hour free trial (no credit card needed, once per account) and try it once at the evening peak; or pay by the day. After topping up credits, the Personal plan costs 1 credit a day, and 25 credits cost 8 US dollars, which works out at about 0.32 US dollars a day; buying just a few days before a trip back to China fits well.
+If you do not want to buy by the month, there are two routes: first claim the 4-hour free trial (no credit card needed, once per account) and try it once at the evening peak; or pay by the day. After topping up credits, the Personal plan costs 1 credit a day, and 25 credits cost 10 US dollars, which works out at about 0.4 US dollars a day; buying just a few days before a trip back to China fits well.
 
 When a friend you invite signs up and pays for the first time, you and your friend each get 15 credits (about 15 days on the Personal plan), with no limit on the number of people. This is a long-term source of free time.
 
