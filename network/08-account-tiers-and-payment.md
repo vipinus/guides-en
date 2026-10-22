@@ -54,7 +54,7 @@ The three plans use the same discount curve: 5% off → 10% off → 20% off. The
 
 | Method | Notes |
 |---|---|
-| Alipay | Payment in RMB at a fixed rate of US$1 = ¥7: monthly ¥35 Personal, ¥70 Family, ¥140 Enterprise; 25 credits ¥70 |
+| Alipay | Payment in RMB at a fixed rate of US$1 = ¥7: monthly ¥35 Personal, ¥70 Family, ¥140 Enterprise; 28 credits ¥70 |
 | PayPal | Paid in US dollars; supports bank cards issued in China |
 | Credit card | Visa, Mastercard, AMEX |
 | Credits | Deducted from credits you have already topped up; can be used to buy by the day |
@@ -72,10 +72,10 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 
 ## Credits and paying by the day
 
-- Topping up credits: 25 credits for $10, and you can choose 25–150 credits at a time. Credits never expire.
-- Daily consumption: Personal 1 credit per day, Family 2 credits, Enterprise 4 credits. A day on the Personal plan is about $0.4.
+- Topping up credits: 28 credits for $10, and you can choose 28–168 credits at a time. Credits never expire.
+- Daily consumption: Personal 1 credit per day, Family 2 credits, Enterprise 4 credits. A day on the Personal plan is about $0.36.
 - Credits can also renew by the month (counted as 30 days) or by the year (counted as 365 days), but credits get no discount.
-- Who it suits: people who use it only ten or so days a month, or who need only a few days before going back to China. If you use it every day, a monthly subscription is better value; on the Personal plan, if you use more than 12 days a month you should subscribe monthly.
+- Who it suits: people who use it only ten or so days a month, or who need only a few days before going back to China. If you use it every day, a monthly subscription is better value; on the Personal plan, if you use more than 14 days a month you should subscribe monthly.
 
 ## Free trial and invitation reward on each plan
 

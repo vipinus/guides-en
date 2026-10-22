@@ -55,7 +55,7 @@ Each network has a method that suits it best, so you get all six: with the same 
 
 **Why not offer hundreds of nodes like proxy line providers do?** More nodes does not mean more stable. Behind each of our regions there are several machines, and on connecting the system picks the least busy one, so you do not have to run speed tests and pick nodes yourself; when an address is blocked it is replaced automatically, and the address in your client does not need changing.
 
-**Could the price be any lower?** The Personal plan is $5 per month, and the longer you buy the bigger the discount (5% off → 10% off → 20% off); by the day with credits it is about $0.4 a day; when a friend you invite pays, you each get 15 credits (about 15 days on the Personal plan), with no limit on the number of people. Signing up also comes with a 4-hour free trial.
+**Could the price be any lower?** The Personal plan is $5 per month, and the longer you buy the bigger the discount (5% off → 10% off → 20% off); by the day with credits it is about $0.36 a day; when a friend you invite pays, you each get 15 credits (about 15 days on the Personal plan), with no limit on the number of people. Signing up also comes with a 4-hour free trial.
 
 **How can I verify what you say?** Get the 4-hour trial, connect to the China region at the evening peak and watch an episode on Tencent Video, connect to an overseas region and open YouTube, and check the IP's registered location and an IPv6 test page. The checklist is in "How to choose a China-bound VPN".
 
