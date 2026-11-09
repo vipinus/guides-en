@@ -26,7 +26,7 @@ With either route the firmware updates its components by itself, with no need to
 
 | Model | Type | Price | Included | What it is | Best for |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Portable | $300 | 2 years of Personal service | Dual-band Wi‑Fi 6 with a 2.5G port, slightly larger than a palm | The main router for a small household — TV, streaming box, several phones and computers — and small enough for a backpack |
+| **GL-MT3000** | Portable | $250 | 2 years of Personal service | Dual-band Wi‑Fi 6 with a 2.5G port, slightly larger than a palm | The main router for a small household — TV, streaming box, several phones and computers — and small enough for a backpack |
 | GL-AXT1800 | Portable | $300 | 2 years of Personal service | Dual-band Wi‑Fi 6, one gigabit WAN port and two gigabit LAN ports, about the size of the GL-MT3000 | On the move and need to wire two devices at once — a laptop and a TV box, say — as well as use Wi‑Fi |
 | GL-MT3600BE | Portable | $350 | 2 years of Personal service | Dual-band Wi‑Fi 7 with two 2.5G ports, about the size of the GL-MT3000 | Phones and laptops that already support Wi‑Fi 7, and you want faster wireless in something you can still carry |
 | GL-MT6000 | Desktop | $400 | 2 years of Personal service | Two 2.5G ports plus four gigabit ports, external antennas, the most processing power | Large homes, many devices (a dozen or more), broadband above one gigabit, 4K and console gaming, or a small office. Stays in one place as the only router |
@@ -46,7 +46,7 @@ Included months are on the Personal plan; Family gets half and Enterprise a quar
 
 - **One unit, two roles.** Powerful enough to be a small household's main router, small enough to travel with. It is the only one of the four that does both.
 - **It will not date quickly.** Wi‑Fi 6 and a 2.5G port leave headroom over most home broadband.
-- **The price is the lowest.** $300 with 2 years of Personal service, the same as the GL-AXT1800, but with a 2.5G port.
+- **The price is the lowest.** $250 with 2 years of Personal service — the cheapest of the four, $50 less than the GL-AXT1800, yet with a 2.5G port.
 - **It is the one we know best.** Our own test unit is this model, new firmware is checked on it first, and the [flashing video tutorial](02-flash-firmware-yourself.md) uses it. When you hit a problem, we have the same device on the desk to compare.
 
 When not to choose it: for a portable unit with two wired ports, the GL-AXT1800; for devices that support Wi‑Fi 7, the GL-MT3600BE; for a large home, many devices or broadband above one gigabit, go straight to the GL-MT6000.
