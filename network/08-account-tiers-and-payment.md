@@ -93,7 +93,7 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 
 - Within the 24 hours before expiry you will receive a "Service about to expire" reminder email.
 - After expiry no connection method will connect; devices in the Private network go offline within a few minutes, and the Hiddify QR code can only be regenerated after renewing.
-- A day or two after expiry you will receive a "Service has expired" email; for those who qualify it includes a claim button that needs no login and gives 30 minutes; the link is valid for 7 days and can only be clicked once.
+- A day or two after expiry you will receive a "Service has expired" reminder email.
 - Service is restored directly after renewing; Private network devices each just need login clicked once more, and the exit setting is kept.
 
 ## FAQ
