@@ -21,11 +21,12 @@ Each carrier leaves China by a different path, and picking the right region matt
 
 **3. The router itself**
 Traffic has to be encrypted before it enters the tunnel, and that is work for the router's processor. The models differ a lot:
-- GL-MT300N-V2 (mini): 100 Mbps ports. Fine for 1080p on a phone or laptop, not a match for a fast line
 - GL-MT3000 (portable): handles a small household. The first router for most people
+- GL-AXT1800 (portable): gigabit ports. For wiring two devices on the road
+- GL-MT3600BE (portable): Wi‑Fi 7 and two 2.5G ports. The fastest wireless you can carry
 - GL-MT6000 (desktop): 2.5G port. For many devices, 4K and game consoles
 
-With a fast line and a busy household, choose the MT3000 or MT6000, not the mini.
+With a fast line and a busy household, choose the MT3000 or MT6000.
 
 **4. The last few metres at home**
 Wire the TV and the desktop wherever you can. Wi-Fi in a crowded apartment block suffers heavy interference, and a lot of "the line is slow" turns out to be inside the home.
