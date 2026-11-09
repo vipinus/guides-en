@@ -17,7 +17,7 @@ LeoTun accounts come in three plans, Personal, Family and Enterprise. They diffe
 
 ## New accounts, and choosing a plan when buying
 
-- A newly registered account is on the Personal plan by default, and the free trial is given at the Personal plan's length.
+- A newly registered account is on the Personal plan by default.
 - The renewal dialog has an "Account plan" selector that defaults to your current plan; whichever price card you click on the home page, the dialog pre-selects that plan, and you can still change it afterwards.
 - If you select a different plan, the dialog shows "After payment completes, the account switches automatically to such-and-such plan, and unexpired validity is converted at equal value". Price, discount and number of credits are all calculated live for the plan you selected; what you see is what is actually charged.
 - You can also change plan without buying anything: click your username to switch plan.
@@ -81,19 +81,19 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 
 | | Personal | Family | Enterprise |
 |---|---|---|---|
-| Free trial | 4 hours | 2 hours | 1 hour |
+| Free trial | 30 minutes | 30 minutes | 30 minutes |
 | For each invited friend's first payment (you and your friend each get) | 15 credits | 15 credits | 15 credits |
 | Service included with a router purchase (24-month models) | 24 months | 12 months | 6 months |
 
-- Trial: claim it on the home page after registering, no credit card needed; a trial code is sent to your email, and you enter the 6-digit code to activate; once per account. A new account is on the Personal plan, so what you normally get is 4 hours.
+- Trial: claim it on the home page after registering, no credit card needed; a trial code is sent to your email, and you enter the 6-digit code to activate; once per account; 30 minutes on every plan.
 - Invitation: after a friend registers through your referral link and completes their first payment, you and your friend each get 15 credits, added straight to your credit balance, the same on every plan, with no limit on the number of people. The Personal plan uses 1 credit a day, so 15 credits is about 15 days on Personal, and you can use them to renew by the day.
-- The trial and the service included with a router purchase are converted in inverse proportion to the price multiple, so the value is the same whichever plan you are on; the invitation reward is paid in credits and is the same on all three plans.
+- The service included with a router purchase is converted in inverse proportion to the price multiple, so the value is the same whichever plan you are on; the trial and the invitation reward (paid in credits) are the same on all three plans.
 
 ## After expiry
 
 - Within the 24 hours before expiry you will receive a "Service about to expire" reminder email.
 - After expiry no connection method will connect; devices in the Private network go offline within a few minutes, and the Hiddify QR code can only be regenerated after renewing.
-- A day or two after expiry you will receive a "Service has expired" email; for those who qualify it includes a claim button that needs no login and gives 4 / 2 / 1 hours according to your plan; the link is valid for 7 days and can only be clicked once.
+- A day or two after expiry you will receive a "Service has expired" email; for those who qualify it includes a claim button that needs no login and gives 30 minutes; the link is valid for 7 days and can only be clicked once.
 - Service is restored directly after renewing; Private network devices each just need login clicked once more, and the exit setting is kept.
 
 ## FAQ
@@ -117,4 +117,4 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 - [FAQ and contacting support](https://www.leotun.com/contact?utm_source=github&utm_content=network-08)
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-08) (groups, email and support are all listed there) · Sign up for a 4-hour free trial; every friend you invite who pays earns you both 15 credits (about 15 Personal-plan days), an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-08) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; every friend you invite who pays earns you both 15 credits (about 15 Personal-plan days), an offer with no end date
