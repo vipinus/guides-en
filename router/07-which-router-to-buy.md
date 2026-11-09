@@ -31,7 +31,7 @@ With either route the firmware updates its components by itself, with no need to
 | GL-MT3600BE | Portable | $350 | 2 years of Personal service | Dual-band Wi‑Fi 7 with two 2.5G ports, about the size of the GL-MT3000 | Phones and laptops that already support Wi‑Fi 7, and you want faster wireless in something you can still carry |
 | GL-MT6000 | Desktop | $400 | 2 years of Personal service | Two 2.5G ports plus four gigabit ports, external antennas, the most processing power | Large homes, many devices (a dozen or more), broadband above one gigabit, 4K and console gaming, or a small office. Stays in one place as the only router |
 
-Included months are on the Personal plan; Family gets half and Enterprise a quarter, the same value either way. Free shipping worldwide, usually 3–14 days, returnable within 30 days.
+Included months are on the Personal plan; Family gets half and Enterprise a quarter, the same value either way. Free shipping worldwide, usually 3–14 days. Six-month warranty; routers are non-refundable.
 
 ### Quick picks by situation
 
