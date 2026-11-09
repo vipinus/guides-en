@@ -27,9 +27,9 @@ With either route the firmware updates its components by itself, with no need to
 | Model | Type | Price | Included | What it is | Best for |
 |---|---|---|---|---|---|
 | GL-MT300N-V2 | Mini | $200 | 12 months of service | Palm-sized and USB-powered (a power bank can run it); 2.4 GHz Wi‑Fi only, 100 Mbps ports | One person travelling: hotel Ethernet or hotel Wi‑Fi, a phone and laptop browsing and watching 1080p. Not suited to being the main router at home |
-| **GL-MT3000** | Portable | $300 | 3 years of Personal service | Dual-band Wi‑Fi 6 with a 2.5G port, slightly larger than a palm | The main router for a small household — TV, streaming box, several phones and computers — and small enough for a backpack |
-| GL-MT6000 | Desktop | $400 | 3 years of Personal service | Two 2.5G ports plus four gigabit ports, external antennas, the most processing power | Large homes, many devices (a dozen or more), broadband above one gigabit, 4K and console gaming, or a small office. Stays in one place as the only router |
-| GL-XE3000 | Mobile | $400 | 3 years of Personal service | Built-in 5G/4G and battery; a SIM card makes it a standalone network, and it also takes Ethernet | Places without fixed broadband: camper vans, job sites, trade shows, short lets; or a backup for the home line |
+| **GL-MT3000** | Portable | $300 | 2 years of Personal service | Dual-band Wi‑Fi 6 with a 2.5G port, slightly larger than a palm | The main router for a small household — TV, streaming box, several phones and computers — and small enough for a backpack |
+| GL-MT6000 | Desktop | $400 | 2 years of Personal service | Two 2.5G ports plus four gigabit ports, external antennas, the most processing power | Large homes, many devices (a dozen or more), broadband above one gigabit, 4K and console gaming, or a small office. Stays in one place as the only router |
+| GL-XE3000 | Mobile | $400 | 2 years of Personal service | Built-in 5G/4G and battery; a SIM card makes it a standalone network, and it also takes Ethernet | Places without fixed broadband: camper vans, job sites, trade shows, short lets; or a backup for the home line |
 
 Included months are on the Personal plan; Family gets half and Enterprise a quarter, the same value either way. Free shipping worldwide, usually 3–14 days, returnable within 30 days.
 
@@ -46,7 +46,7 @@ Included months are on the Personal plan; Family gets half and Enterprise a quar
 
 - **One unit, two roles.** Powerful enough to be a small household's main router, small enough to travel with. It is the only one of the four that does both.
 - **It will not date quickly.** Wi‑Fi 6 and a 2.5G port leave headroom over most home broadband. The mini has only 2.4 GHz Wi‑Fi and 100 Mbps ports, which becomes the bottleneck at home.
-- **The price works out.** $300 with 3 years of Personal service, against $200 with 12 months for the mini. Counting the included service, the extra $100 buys a clearly better device plus two more years.
+- **The price works out.** $300 with 2 years of Personal service, against $200 with 12 months for the mini. Counting the included service, the extra $100 buys a clearly better device plus another year.
 - **It is the one we know best.** Our own test unit is this model, new firmware is checked on it first, and the [flashing video tutorial](02-flash-firmware-yourself.md) uses it. When you hit a problem, we have the same device on the desk to compare.
 
 When not to choose it: for a large home, many devices or broadband above one gigabit, go straight to the GL-MT6000; with no fixed broadband, the GL-XE3000; if it is only for one person on trips and price matters most, the GL-MT300N-V2 is enough.

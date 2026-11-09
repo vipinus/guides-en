@@ -83,7 +83,7 @@ In mainland China, after you click "Confirm payment", the page first shows "Ente
 |---|---|---|---|
 | Free trial | 30 minutes | 30 minutes | 30 minutes |
 | For each invited friend's first payment (you and your friend each get) | 15 credits | 15 credits | 15 credits |
-| Service included with a router purchase (3-year models) | 3 years | 18 months | 9 months |
+| Service included with a router purchase (2-year models) | 2 years | 12 months | 6 months |
 
 - Trial: claim it on the home page after registering, no credit card needed; a trial code is sent to your email, and you enter the 6-digit code to activate; once per account; 30 minutes on every plan.
 - Invitation: after a friend registers through your referral link and completes their first payment, you and your friend each get 15 credits, added straight to your credit balance, the same on every plan, with no limit on the number of people. The Personal plan uses 1 credit a day, so 15 credits is about 15 days on Personal, and you can use them to renew by the day.
