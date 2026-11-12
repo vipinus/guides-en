@@ -24,11 +24,11 @@ A simple test: if you would be annoyed when it drops, it is time to pay.
 
 ## How much to spend
 
-LeoTun's Personal plan is 5 US dollars a month and includes 24 regions, 2 devices online at the same time, and all connection methods — AnyConnect / OpenVPN / Hiddify / web proxy — and it can also be used with a router. The Family and Enterprise plans cost 2 times and 4 times the Personal plan respectively. Regions, lines and connection methods are exactly the same on all three plans, and the only difference is the number of devices online at the same time (4 and 8).
+LeoTun's Basic plan is 5 US dollars a month and includes 24 regions, 2 devices online at the same time, and all connection methods — AnyConnect / OpenVPN / Hiddify / web proxy — and it can also be used with a router. Above it, Standard, Pro, Elite, Enterprise and Ultimate each double the price. Regions, lines and connection methods are exactly the same on every plan; the only differences are the number of devices online at the same time (4 to 64) and how many routers you can bind.
 
-If you do not want to buy by the month, there are two routes: first claim the 30-minute free trial (no credit card needed, once per account) and try it once at the evening peak; or pay by the day. After topping up credits, the Personal plan costs 1 credit a day, and 28 credits cost 10 US dollars, which works out at about 0.36 US dollars a day; buying just a few days before a trip back to China fits well.
+If you do not want to buy by the month, there are two routes: first claim the 30-minute free trial (no credit card needed, once per account) and try it once at the evening peak; or pay by the day. After topping up credits, the Basic plan costs 1 credit a day, and 28 credits cost 10 US dollars, which works out at about 0.36 US dollars a day; buying just a few days before a trip back to China fits well.
 
-When a friend you invite signs up and pays for the first time, you and your friend each get 15 credits (about 15 days on the Personal plan), with no limit on the number of people. This is a long-term source of free time.
+When a friend you invite signs up and pays for the first time, you and your friend each get 15 credits (about 15 days on the Basic plan), with no limit on the number of people. This is a long-term source of free time.
 
 ## How to check the goods before paying
 
@@ -60,4 +60,4 @@ When a friend you invite signs up and pays for the first time, you and your frie
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-11) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-11) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-11) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-11) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

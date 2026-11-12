@@ -30,7 +30,7 @@ The configuration file is usually on the system drive and is lost on reinstall. 
 
 ### Switching routers
 
-A router is different from other devices: there is a **binding** between it and the account. To switch to a new router, unbind the old one first. You do this step yourself on the website: log in, open the Router section, and click Unbind in the "Bound · model · Unbind" row; the new router then connects by itself. See the corresponding article in the Router Guide for details.
+A router is different from other devices: there is a **binding** between it and the account. One account can bind 1 to 6 routers depending on the plan; if not all slots are used, a new router just connects. If they are all used, unbind the old one first. You do this step yourself on the website: log in, open the Router section, and in the binding list under "Build Router Firmware" ("x / y routers"), click Unbind at the end of the old router's row; the new router then connects by itself. See the corresponding article in the Router Guide for details.
 
 ## A very common misconception
 
@@ -45,7 +45,7 @@ So the standard practice is always: **go to the website and get a fresh copy**. 
 
 ## What to do when the slots are full
 
-The number of devices that can be online at the same time on one account depends on the plan: 2 for Personal, 4 for Family, 8 for Enterprise. If the old device is still connected when you switch, you may be told the limit has been reached. Three options:
+The number of devices that can be online at the same time on one account depends on the plan: Basic 2, Standard 4, Pro 8, Elite 16, Enterprise 32, Ultimate 64. If the old device is still connected when you switch, you may be told the limit has been reached. Three options:
 
 - Log out or close the client on the old device
 - Wait a while — idle connections are released automatically
@@ -54,4 +54,4 @@ The number of devices that can be online at the same time on one account depends
 On the web page you can see how many devices are currently online and what type each one is, and use that to work out whether you forgot to turn one off.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-07) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-07) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

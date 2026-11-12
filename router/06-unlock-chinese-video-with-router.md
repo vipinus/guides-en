@@ -11,7 +11,7 @@
 | Item | Notes |
 |---|---|
 | A supported router | A pre-installed one works out of the box; if you flash it yourself, see [How to flash the firmware](02-flash-firmware-yourself.md) |
-| An account | Personal, Family and Enterprise accounts all support the router feature. After signing up, claim the 30-minute free trial first to verify the whole process |
+| An account | All six paid plans support routers (the free trial does not include routers); buy any plan and you can use it |
 | An upstream network | The modem or router you already have at home; the new router goes behind it |
 
 ## Done in five steps
@@ -37,4 +37,4 @@ The video domains on the split routing list are maintained in a public repositor
 - **The whole household slows down on an old router**: the CPU cannot keep up with encrypted traffic; switch to a model with better performance, see [Getting started with a pre-installed router](01-plug-and-play-router.md).
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-06) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-06) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

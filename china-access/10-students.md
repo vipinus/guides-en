@@ -48,7 +48,7 @@ When connecting from inside China, the AnyConnect and Hiddify addresses change a
 
 **Will using a China-bound VPN affect an overseas student's university network account?** No. The line only sends your traffic to a China exit, and what the campus network sees is one encrypted connection. Most universities' usage rules prohibit only infringing downloads and attacks, and personal access to services in your own country is not among them; if you are unsure, take a look at the university's acceptable use policy.
 
-**Can one account be shared with a roommate?** Depending on the plan, one account can have 2 (Personal), 4 (Family) or 8 (Enterprise) devices online at the same time, and sharing with family or roommates is within what the rules allow. But for situations like online banking it is safer for each person to use their own account, to avoid several people switching frequently on the same line and triggering risk control.
+**Can one account be shared with a roommate?** Depending on the plan, one account can have 2 (Basic), 4 (Standard), 8 (Pro) and up to 64 (Ultimate) devices online at the same time, and sharing with family or roommates is within what the rules allow. But for situations like online banking it is safer for each person to use their own account, to avoid several people switching frequently on the same line and triggering risk control.
 
 **Why is Hiddify slow in the dormitory while AnyConnect is normal?** Most likely the campus network restricts UDP. Hiddify's hysteria2 protocol is based on UDP, and when throttled it shows up as slow or dropping; AnyConnect runs over TLS, the same as visiting an HTTPS website, and is not affected.
 
@@ -66,4 +66,4 @@ When connecting from inside China, the AnyConnect and Hiddify addresses change a
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/students?utm_source=github&utm_content=china-access-10
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-10) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-10) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

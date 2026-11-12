@@ -29,9 +29,9 @@ SMS verification codes that never arrive have nothing to do with the line; it is
 
 ## FAQ
 
-**The trip is only a few days. Do I need to buy a month?** No. Top up credits and pay by the day: the Personal plan costs 1 credit a day, about 0.36 US dollars a day, which fits a few days well. Try it first with the 30-minute free trial.
+**The trip is only a few days. Do I need to buy a month?** No. Top up credits and pay by the day: the Basic plan costs 1 credit a day, about 0.36 US dollars a day, which fits a few days well. Try it first with the 30-minute free trial.
 
-**Can my phone and laptop connect at the same time?** Yes. Depending on the plan, one account has 2 / 4 / 8 devices online at the same time (Personal / Family / Enterprise), and the Personal plan is exactly one phone plus one laptop.
+**Can my phone and laptop connect at the same time?** Yes. Depending on the plan, one account has 2 to 64 devices online at the same time (Basic 2, Standard 4, doubling with each plan up), and the Basic plan is exactly one phone plus one laptop.
 
 **Why is Cisco recommended for travel rather than Hiddify?** On an unfamiliar network the biggest worry is restricted UDP. Cisco runs over TLS, the same as visiting an HTTPS website, and gets through almost anywhere; Hiddify is faster on networks with high packet loss, but does not work when UDP is restricted. Installing both and switching when one does not work is the most reliable.
 
@@ -47,4 +47,4 @@ SMS verification codes that never arrive have nothing to do with the line; it is
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-12) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-12) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-12) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-12) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

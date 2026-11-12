@@ -29,7 +29,7 @@ The Private network section uses Tailscale (a networking tool built on WireGuard
 ## Expiry and device count
 
 - A device's login validity follows the account's expiry date, and it goes offline within a few minutes of expiry; after renewing, just log in once more. No reinstall is needed.
-- The number of devices online at the same time depends on your plan (Personal 2, Family 4, Enterprise 8), and the quota is shared with the other access methods; when you exceed your plan's limit, you can temporarily upgrade the account type (the remaining time is converted at equivalent value by price) and switch back when you are done.
+- The number of devices online at the same time depends on your plan (Basic 2, Standard 4, Pro 8, Elite 16, Enterprise 32, Ultimate 64), and the quota is shared with the other access methods; when you exceed your plan's limit, you can temporarily upgrade the account type (the remaining time is converted at equivalent value by price) and switch back when you are done.
 
 ## Two cases where another method fits
 
@@ -37,4 +37,4 @@ The Private network section uses Tailscale (a networking tool built on WireGuard
 - On a campus / company network that restricts UDP: WireGuard runs over UDP, so it can only go through relays, which is very slow; switch to AnyConnect.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-05) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-05) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), an ongoing offer

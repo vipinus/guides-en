@@ -41,9 +41,9 @@ The direction for reaching China from abroad is unchanged.
 - **The printer or NAS cannot be reached after connecting**: this means local network addresses are being sent out as well. Check whether the split routing rules exclude private ranges such as 192.168.x.x.
 - **Router performance** sets the ceiling. An old router's CPU maxes out on encrypted traffic, which shows up as the whole household slowing down. In that case the VPN line is not the problem.
 
-## One account, one router
+## Routers are bound to your account
 
-Most services bind the router to the account (by MAC address). One account is bound to one router, and you unbind first when switching routers. That way the account stays yours alone.
+Most services bind the router to the account (by MAC address). We let one account bind 1 to 6 routers depending on the plan; when all are used, unbind one before switching routers. That way the account stays yours alone.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-03) team · Got questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-03) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-03) team · Got questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-03) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

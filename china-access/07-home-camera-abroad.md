@@ -24,7 +24,7 @@ This is the most common case and also the hardest. The NVR has no public IP, and
 2. Add the phone or computer overseas to the same private network as well.
 3. From then on the overseas device reaches the NVR directly at its home LAN address, just as if you were at home.
 
-LeoTun's "Private network" is exactly this kind of private network. There is no limit on how many devices you install it on with one account, and the number online at the same time follows the plan: Personal 2 devices, Family 4 devices, Enterprise 8 devices. One device at home plus a few overseas fits the Family plan exactly.
+LeoTun's "Private network" is exactly this kind of private network. There is no limit on how many devices you install it on with one account, and the number online at the same time follows the plan: Basic 2, Standard 4, Pro 8, Elite 16, Enterprise 32, Ultimate 64. One device at home plus a few overseas fits the Standard plan exactly.
 
 ## Case three: the accounts do not match
 
@@ -35,4 +35,4 @@ A device bought in China is bound to a Chinese account, and the app from the ove
 The picture from your home cameras should only flow between your devices and your home. The private network option prefers a direct peer-to-peer connection and only forwards through a relay when a direct connection cannot be made, and the picture is not stored on any server; the vendor cloud option, by contrast, passes through the vendor. In either case do not use "tunnelling tools" of unknown origin, which amounts to handing your home cameras to someone else.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-07) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=china-access-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=china-access-07) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

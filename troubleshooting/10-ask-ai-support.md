@@ -17,7 +17,7 @@ The AI support agent "SpongeBob" (海绵宝宝) answers 24 hours a day in the th
 |---|---|
 | Can't connect | Windows 11, Cisco connecting to Japan, it keeps spinning and finally says the connection timed out, same with Korea, home broadband is China Unicom |
 | Very slow | iPhone using Hiddify, Singapore selected, web pages open but video keeps buffering, especially noticeable after 9 pm |
-| How do I do it | I just bought the Family plan and want the Xiaomi TV at home to be able to use it too. Is there a way? |
+| How do I do it | I just bought the Standard plan and want the Xiaomi TV at home to be able to use it too. Is there a way? |
 | Asking about renewal, switching regions and the router in one message | Ask one thing at a time, and ask the next once it is solved |
 
 ## How to get it to reply in each of the three groups
@@ -51,4 +51,4 @@ VPN connection addresses are taken from the website: after logging in, click the
 - Support will never message you privately to ask for a password, a verification code or a payment, and will never ask you on their own initiative to install remote control software.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-10) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-10) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-10) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

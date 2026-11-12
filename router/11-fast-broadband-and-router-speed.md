@@ -51,4 +51,4 @@ Sign up and take the 30-minute free trial, no credit card needed. Connect at the
 **Will a more expensive router make it faster?** Only if the router is the bottleneck, for instance a mini model on a fast line. When the bottleneck is the cross-border leg, a new router does nothing and a different region does.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-11) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-11) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-11) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-11) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

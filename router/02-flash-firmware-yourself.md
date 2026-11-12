@@ -9,7 +9,7 @@ This is for people who already have a router whose model is on the supported lis
 ## Before you start
 
 - **Check that your model is supported.** Sign in, open the **Router** section and find your model by brand. The hardware revision after the model name (v1, v2 and so on) has to match too.
-- **Your account must be active.** Personal, Family and Enterprise plans can all use a router.
+- **Your account must be active.** All six paid plans can use a router (the free trial cannot).
 - **Have a network cable ready.** The router's WAN port goes to your modem or upstream router. While flashing, it is best to connect your computer to the router by cable as well; it is steadier than Wi-Fi.
 - **Keep a copy of the stock firmware.** Download the stock firmware for your model from the manufacturer's site, in case you ever want to go back.
 
@@ -84,10 +84,10 @@ To confirm it is connected, open a site from a device on the router that you nor
 
 ## Replacing an old router with a new one
 
-An account is bound to one router at a time. If your account was used on another router before:
+One account can bind 1 to 6 routers depending on the plan (Basic 1, one more with each plan up). While there is a free slot, a new router **connects automatically** and is bound, no unbinding needed. When all slots are used and you want to switch to a new router:
 
-1. Sign in, open the **Router** section, and under the "Build Router Firmware" heading you will see the model that is **Bound**, with **Unbind** next to it.
-2. Click Unbind. You can do this even if the old router is broken or not at hand.
+1. Sign in and open the **Router** section. Under the "Build Router Firmware" heading is the binding list (marked "x / y routers"), one row per router with its model and the last digits of its MAC.
+2. Click **Unbind** at the end of the row for the router you no longer use. You can do this even if the old router is broken or not at hand.
 3. Nothing to do on the new router: it **connects automatically** and is bound to your account.
 
 If you flash the new router before unbinding, that is fine too. The new router keeps waiting and connects by itself once you unbind.
@@ -104,7 +104,7 @@ If it still is not working after ten minutes or so, go through these in order:
 
 1. **Is the broadband itself working?** From a device on the router, open any ordinary website. If that fails, the problem is the cable or the modem: check that the cable in the WAN port is seated properly.
 2. **Has the account expired?** Sign in on the website and check the expiry date. After renewing, wait a few minutes.
-3. **Is the account still bound to the old router?** In the Router section, look at the bound model. If it is not this router, click Unbind.
+3. **Are all of the account's router slots used?** In the Router section, look at "x / y routers". If it is full, click Unbind at the end of the row for a router you no longer use. If the router's login page says the username or password is wrong even though the password is right, it is most likely full.
 4. **Restart the router once.** Unplug it, wait ten seconds, plug it back in and give it two to three minutes.
 5. **Sign in manually.** Open `http://192.168.11.1` and log in to the router with username `root` and password `www.anyfq.com`. Then go to **Services** → **VPN**, enter your account email and password, and save.
 
@@ -124,11 +124,11 @@ Most routers have a recovery mode: unplug the power, hold the reset button while
 
 **Can I go back to the stock firmware?** Yes. Use the recovery mode described under "If the flash goes wrong" to upload the stock firmware.
 
-**Can one firmware file be used on two routers?** No. Firmware is built per account, and an account is bound to one router at a time.
+**Can one account use two routers?** On Standard and above, yes (Basic can bind only 1): in the Router section, build firmware for the second router's model and flash it; it binds automatically the first time it connects.
 
 **Do I need a new build if I change accounts?** No. Sign out in the admin page and sign in with the new account.
 
 **Do future updates need a re-flash?** Routine updates are picked up by the router on its own; you do not have to do anything. Only a major version needs a fresh build and one flash of the sysupgrade file, and the website will announce it when that happens.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-02) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-02) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

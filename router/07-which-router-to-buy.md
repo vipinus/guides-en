@@ -2,7 +2,7 @@
 
 > Website version (longer): https://www.leotun.com/guides/router?utm_source=github&utm_content=router-07
 
-The router approach solves the problem of "too many devices, and some cannot install a client": the VPN is set up once on the router, and the TV, game console, smart speaker and the elderly family member's phone all go through it automatically, with nothing to install. All it takes is a router that can be flashed and ten minutes of flashing. **Personal, Family and Enterprise accounts can all use a router.**
+The router approach solves the problem of "too many devices, and some cannot install a client": the VPN is set up once on the router, and the TV, game console, smart speaker and the elderly family member's phone all go through it automatically, with nothing to install. All it takes is a router that can be flashed and ten minutes of flashing. **All six paid plans can use a router, binding 1 to 6 depending on the plan.**
 
 ## When to use one and when not to
 
@@ -26,12 +26,12 @@ With either route the firmware updates its components by itself, with no need to
 
 | Model | Type | Price | Included | What it is | Best for |
 |---|---|---|---|---|---|
-| **GL-MT3000** | Portable | $250 | 2 years of Personal service | Dual-band Wi‑Fi 6 with a 2.5G port, slightly larger than a palm | The main router for a small household — TV, streaming box, several phones and computers — and small enough for a backpack |
-| GL-AXT1800 | Portable | $300 | 2 years of Personal service | Dual-band Wi‑Fi 6, one gigabit WAN port and two gigabit LAN ports, about the size of the GL-MT3000 | On the move and need to wire two devices at once — a laptop and a TV box, say — as well as use Wi‑Fi |
-| GL-MT3600BE | Portable | $350 | 2 years of Personal service | Dual-band Wi‑Fi 7 with two 2.5G ports, about the size of the GL-MT3000 | Phones and laptops that already support Wi‑Fi 7, and you want faster wireless in something you can still carry |
-| GL-MT6000 | Desktop | $400 | 2 years of Personal service | Two 2.5G ports plus four gigabit ports, external antennas, the most processing power | Large homes, many devices (a dozen or more), broadband above one gigabit, 4K and console gaming, or a small office. Stays in one place as the only router |
+| **GL-MT3000** | Portable | $250 | 2 years of Basic service | Dual-band Wi‑Fi 6 with a 2.5G port, slightly larger than a palm | The main router for a small household — TV, streaming box, several phones and computers — and small enough for a backpack |
+| GL-AXT1800 | Portable | $300 | 2 years of Basic service | Dual-band Wi‑Fi 6, one gigabit WAN port and two gigabit LAN ports, about the size of the GL-MT3000 | On the move and need to wire two devices at once — a laptop and a TV box, say — as well as use Wi‑Fi |
+| GL-MT3600BE | Portable | $350 | 2 years of Basic service | Dual-band Wi‑Fi 7 with two 2.5G ports, about the size of the GL-MT3000 | Phones and laptops that already support Wi‑Fi 7, and you want faster wireless in something you can still carry |
+| GL-MT6000 | Desktop | $400 | 2 years of Basic service | Two 2.5G ports plus four gigabit ports, external antennas, the most processing power | Large homes, many devices (a dozen or more), broadband above one gigabit, 4K and console gaming, or a small office. Stays in one place as the only router |
 
-Included months are on the Personal plan; Family gets half and Enterprise a quarter, the same value either way. Free shipping worldwide, usually 3–14 days. Six-month warranty; routers are non-refundable.
+Included months are on the Basic plan; Standard gets 12 months, Pro 6, Elite 3, Enterprise 1, and Ultimate gets no extra service, the same value either way. Free shipping worldwide, usually 3–14 days. Six-month warranty; routers are non-refundable.
 
 ### Quick picks by situation
 
@@ -46,7 +46,7 @@ Included months are on the Personal plan; Family gets half and Enterprise a quar
 
 - **One unit, two roles.** Powerful enough to be a small household's main router, small enough to travel with. It is the only one of the four that does both.
 - **It will not date quickly.** Wi‑Fi 6 and a 2.5G port leave headroom over most home broadband.
-- **The price is the lowest.** $250 with 2 years of Personal service — the cheapest of the four, $50 less than the GL-AXT1800, yet with a 2.5G port.
+- **The price is the lowest.** $250 with 2 years of Basic service — the cheapest of the four, $50 less than the GL-AXT1800, yet with a 2.5G port.
 - **It is the one we know best.** Our own test unit is this model, new firmware is checked on it first, and the [flashing video tutorial](02-flash-firmware-yourself.md) uses it. When you hit a problem, we have the same device on the desk to compare.
 
 When not to choose it: for a portable unit with two wired ports, the GL-AXT1800; for devices that support Wi‑Fi 7, the GL-MT3600BE; for a large home, many devices or broadband above one gigabit, go straight to the GL-MT6000.
@@ -61,11 +61,11 @@ When not to choose it: for a portable unit with two wired ports, the GL-AXT1800;
 
 ## FAQ
 
-**Does the router count as one device?** It takes up one slot on the account (by plan: Personal 2, Family 4, Enterprise 8 devices online at the same time), and the devices behind it are not counted separately.
+**Does the router count as one device?** Each router takes up one slot on the account (by plan: Basic 2, Standard 4, Pro 8, Elite 16, Enterprise 32, Ultimate 64 devices online at the same time), and the devices behind it are not counted separately.
 
 **Can it be used to watch video from China while abroad?** Yes, choose the China region for the line. The router brings the whole local network into the VPN, and the devices' IPv6 and DNS cannot reach the outside, so "copyright restriction" messages appear less often than when a phone connects on its own. See [06](06-unlock-chinese-video-with-router.md).
 
 **Does the firmware have a backdoor?** It is compiled from OpenWrt, with only the component that connects to the VPN and the split routing rules added; the VPN records only connection duration and total traffic for billing, and does not record what you visit.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-07) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-07) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-07) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

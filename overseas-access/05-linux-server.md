@@ -34,7 +34,7 @@ On this route, by design there is no connection to drop; it needs no root and do
 
 ## Things to know
 
-- One Linux machine counts as one device and shares the simultaneous-online quota with your other devices (Personal 2 devices, Family 4 devices, Enterprise 8 devices); the web proxy in route two is counted per connection and is included as well.
+- One Linux machine counts as one device and shares the simultaneous-online quota with your other devices (Basic 2, Standard 4, Pro 8, Elite 16, Enterprise 32, Ultimate 64); the web proxy in route two is counted per connection and is included as well.
 - The configuration file and the password file are equivalent to your account; do not commit them to a git repository or put them into an image.
 - After you change your password the old configuration stops working immediately; this is the revocation mechanism by design. Updating the password file is enough.
 - When running the line on a cloud server, follow the provider's terms of use; the line records only connection duration and total traffic.
@@ -59,4 +59,4 @@ On this route, by design there is no connection to drop; it needs no root and do
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-05) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-05) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-05) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

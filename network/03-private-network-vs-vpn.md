@@ -26,9 +26,9 @@ The Private network section uses Tailscale: a networking tool based on WireGuard
 
 ## Expiry and number of devices
 
-A device's login validity follows the account's expiry date; it goes offline within a few minutes of expiry, and you just log in again after renewing. The number of devices online at the same time depends on the plan (Personal 2 devices, Family 4 devices, Enterprise 8 devices) and the quota is shared with the other connection methods; when the number online at the same time exceeds the plan's limit, you can temporarily upgrade the account type (remaining time is converted at equal value by price) and switch back when you are done.
+A device's login validity follows the account's expiry date; it goes offline within a few minutes of expiry, and you just log in again after renewing. The number of devices online at the same time depends on the plan (Basic 2, Standard 4, Pro 8, Elite 16, Enterprise 32, Ultimate 64) and the quota is shared with the other connection methods; when the number online at the same time exceeds the plan's limit, you can temporarily upgrade the account type (remaining time is converted at equal value by price) and switch back when you are done.
 
 For installation and login steps see [Client guide 05](../client/05-tailscale-private-network.md).
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-03) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-03) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; every friend you invite who pays earns you both 15 credits (about 15 Personal-plan days), an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-03) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-03) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; every friend you invite who pays earns you both 15 credits (about 15 Basic-plan days), an offer with no end date

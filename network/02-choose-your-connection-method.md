@@ -9,7 +9,7 @@ One LeoTun account has six connection methods: Private network (Tailscale), Cisc
 - A company-issued computer, no administrator rights: web proxy. You only install one browser extension, it needs no administrator rights, and it does not touch the company's network settings.
 - iPhone, old devices: Cisco. It connects with the system's built-in VPN or the official client, no configuration import is needed, and compatibility is the best.
 - NAS (Synology, QNAP), Linux servers: OpenVPN. Import one .ovpn file and it connects automatically at boot; most of these devices come with a client built in.
-- TVs, set-top boxes, game consoles, an elderly relative's phone: Router. Anything connected to the Wi‑Fi goes through the line, and nothing needs to be installed on the device. All three account plans can use it.
+- TVs, set-top boxes, game consoles, an elderly relative's phone: Router. Anything connected to the Wi‑Fi goes through the line, and nothing needs to be installed on the device. All six paid plans can use it.
 - Many devices for a whole family or an office: Router, configured once and effective for all; if you also want to reach the NAS at home from outside, add Private network.
 
 ## By network environment: what network you are on
@@ -62,7 +62,7 @@ If a site will not open under split routing, first switch to "Global" temporaril
 
 **Which one for gaming and voice calls?** Hiddify, Private network or Router, choosing the region with the lowest latency. The web proxy only handles the browser; games and calling apps do not go through it.
 
-**Can the six methods be used at the same time?** On different devices, yes; all methods on the same account share the simultaneous-online quota (Personal 2 devices, Family 4 devices, Enterprise 8 devices). Do not run two whole-device methods at the same time on the same device (for example Private network and Cisco), as they will fight over network settings.
+**Can the six methods be used at the same time?** On different devices, yes; all methods on the same account share the simultaneous-online quota (Basic 2, Standard 4, Pro 8, Elite 16, Enterprise 32, Ultimate 64). Do not run two whole-device methods at the same time on the same device (for example Private network and Cisco), as they will fight over network settings.
 
 **Do I have to choose between a router and a client?** No. Use the router at home and turn on the client on your phone when you go out; each counts as one device.
 
@@ -78,4 +78,4 @@ If a site will not open under split routing, first switch to "Global" temporaril
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/choose-connection?utm_source=github&utm_content=network-02
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-02) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; every friend you invite who pays earns you both 15 credits (about 15 Personal-plan days), an offer with no end date
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=network-02) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=network-02) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; every friend you invite who pays earns you both 15 credits (about 15 Basic-plan days), an offer with no end date

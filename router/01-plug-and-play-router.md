@@ -4,7 +4,7 @@
 
 1. **Plug in power and the network cable**: connect the router's WAN port to your existing modem or upstream router and wait for the indicator light to settle, about one minute.
 2. **Connect to Wi-Fi**: the default Wi-Fi name and password are printed on the instruction card (the factory default for both is the website's domain name). Once connected, open a browser and go to the admin address `http://192.168.11.1`.
-3. **Log in to your account**: on the admin page, enter your account email and password and save (Personal, Family and Enterprise accounts can all use a router). From then on, every device connected to this Wi-Fi goes through the VPN automatically.
+3. **Log in to your account**: on the admin page, enter your account email and password and save (all six paid plans can use a router). From then on, every device connected to this Wi-Fi goes through the VPN automatically.
 
 ## Change the default passwords
 
@@ -17,7 +17,7 @@ The default is split routing: Chinese domains on the list go through the VPN, an
 ## FAQ
 
 - **The indicator light is normal but connected devices have no internet**: check the account status on the admin page; an expired account or a wrong password will both be shown there.
-- **You want to switch to a different router**: unbind the old one on the website first; see [MAC binding and replacing a router](05-mac-binding-and-replacing.md).
+- **You want to switch to a different router**: if your plan has a free router slot, the new one just connects; if all slots are used, unbind the old one on the website first; see [MAC binding and replacing a router](05-mac-binding-and-replacing.md).
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-01) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-01) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-01) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-01) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

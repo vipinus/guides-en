@@ -11,7 +11,7 @@ For people with many devices, the most annoying part is configuring every one of
 
 ## How simultaneous devices are counted
 
-An account can be installed on any number of devices; the only limit is how many are online at the same time: Personal 2, Family 4, Enterprise 8, sharing one quota with Cisco, Hiddify and the other methods. When you exceed your plan's limit, you can temporarily upgrade the account type (the remaining time is converted at equivalent value by price) and switch back when you are done.
+An account can be installed on any number of devices; the only limit is how many are online at the same time: Basic 2, Standard 4, Pro 8, Elite 16, Enterprise 32, Ultimate 64, sharing one quota with Cisco, Hiddify and the other methods. When you exceed your plan's limit, you can temporarily upgrade the account type (the remaining time is converted at equivalent value by price) and switch back when you are done.
 
 A router counts as one device, and the devices behind it are not counted. One router or NAS at home plus the phone and laptop you carry is usually enough.
 
@@ -49,4 +49,4 @@ A router counts as one device, and the devices behind it are not counted. One ro
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-08) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), an ongoing offer
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=client-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=client-08) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), an ongoing offer

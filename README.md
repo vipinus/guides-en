@@ -9,7 +9,7 @@ Other languages: English · [简体中文](https://github.com/vipinus/guides-zh-
 | How to get it | What you get |
 |---|---|
 | Claim the free trial after signing up | 30 minutes with every feature, no credit card |
-| Invite a friend who signs up and pays for the first time | 15 credits each for you and your friend (about 15 days on the Personal plan, which uses 1 credit a day), added straight to your credit balance, once per friend, no limit on the number of friends |
+| Invite a friend who signs up and pays for the first time | 15 credits each for you and your friend (about 15 days on the Basic plan, which uses 1 credit a day), added straight to your credit balance, once per friend, no limit on the number of friends |
 
 Website: <https://www.leotun.com?utm_source=github&utm_content=readme> · Contact us: <https://www.leotun.com/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@ A clear explanation of the **principles** behind cross-border access, **how to c
 | [05 · How to spot risky VPN software](network/05-risky-vpn-apps.md) |
 | [06 · Why it is sometimes fast and sometimes slow](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · Which problems the line solves, and which need another fix](network/07-when-you-do-not-need-us.md) |
-| [08 · Choosing among the three account plans, renewal and payment](network/08-account-tiers-and-payment.md) |
+| [08 · Choosing an account plan, renewal and payment](network/08-account-tiers-and-payment.md) |
 | [09 · What to do when you run out of device connections](network/09-not-enough-devices.md) |
 
 ### [Client Guides · Installation and Setup](client/)

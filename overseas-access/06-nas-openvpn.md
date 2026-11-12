@@ -31,7 +31,7 @@ Reaching the NAS from outside (opening shares on a business trip, watching camer
 
 - The configuration file carries your account, and the password field on the NAS stops working after you change your password: download the .ovpn again and replace it, or change only the password in the VPN profile.
 - When the account expires the NAS is disconnected; after renewal it reconnects automatically, and the configuration does not need replacing.
-- The NAS counts as one device and shares the simultaneous-online quota with your other devices (Personal 2 devices, Family 4 devices, Enterprise 8 devices).
+- The NAS counts as one device and shares the simultaneous-online quota with your other devices (Basic 2, Standard 4, Pro 8, Elite 16, Enterprise 32, Ultimate 64).
 - The line runs over UDP; a NAS on home broadband will almost never run into UDP restrictions.
 
 ## FAQ
@@ -54,4 +54,4 @@ Reaching the NAS from outside (opening shares on a business trip, watching camer
 Website version of this article (also in Traditional Chinese and English): https://www.leotun.com/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-06) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=overseas-access-06) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=overseas-access-06) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

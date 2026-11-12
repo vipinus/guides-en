@@ -16,7 +16,7 @@ Match your error to the table. For how to import in the first place, see [How to
 
 ## Do I need to re-import after renewing, switching plans, or changing the password
 
-- **Renewing or switching plans (Personal / Family / Enterprise)**: No. The existing configuration keeps working.
+- **Renewing or switching plans (for example Basic → Standard)**: No. The existing configuration keeps working.
 - **Changing the password**: The old configuration stops working immediately; scan the QR code again. If you lose your phone or the link leaks, use this to revoke access.
 - **Account expired**: The configuration returns 401. After renewing you do not need a new configuration; just reconnect.
 - **Imported before September 2026**: The rule that rejects IPv6 is missing, so watching Chinese video from abroad will show a copyright restriction notice. Delete and re-import; see [03](03-ipv6-and-dns-leak.md).
@@ -26,4 +26,4 @@ Match your error to the table. For how to import in the first place, see [How to
 Tell support three things: the client name and version, the region, and the exact error text or a screenshot.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-04) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=troubleshooting-04) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=troubleshooting-04) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term

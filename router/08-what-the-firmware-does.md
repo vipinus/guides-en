@@ -39,11 +39,11 @@ Only a major version upgrade of the whole firmware requires flashing the sysupgr
 
 ## FAQ
 
-**Can the Personal plan use a router?** Yes. Personal, Family and Enterprise all support a router, with no need to change plans.
+**Can the Basic plan use a router?** Yes. All six paid plans support routers with no speed limit, and there is no need to change plans; Basic can bind 1 router, so upgrade if you want to bind more.
 
 **How many device slots does the router take?** One; the devices behind it are not counted.
 
 **Does the firmware have a backdoor?** It is compiled from OpenWrt, with only the component that connects to the VPN and the split routing rules added; the VPN records only connection duration and total traffic for billing.
 
 ---
-Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-08) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Personal-plan days), valid long-term
+Compiled by the [LeoTun](https://www.leotun.com?utm_source=github&utm_content=router-08) team · Questions? See the [contact page](https://www.leotun.com/contact?utm_source=github&utm_content=router-08) (groups, email and support are all listed there) · Sign up for a 30-minute free trial; invite a friend who pays and you each get 15 credits (about 15 Basic-plan days), valid long-term
